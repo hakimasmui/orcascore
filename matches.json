@@ -9,7 +9,7 @@
       "imgAway": "https://img0.aiscore.com/football/team/777d0840066313da8c0f85977e9178be.png!w30",
       "away": "Lecce",
       "results": {
-        "result": "2 Goals Advantage",
+        "result": "Home 2 Goals Advantage",
         "goals": "Under 3 Goals"
       }
     },
@@ -20,7 +20,7 @@
       "imgAway": "https://img0.aiscore.com/football/team/96e93477bd9f240151e87ec723cdf945.png!w30",
       "away": "Cardiff City",
       "results": {
-        "result": "2 Goals advantage",
+        "result": "Home 2 Goals advantage",
         "goals": "Under 3.5 Goals"
       }
     },
@@ -31,7 +31,7 @@
       "imgAway": "https://img0.aiscore.com/football/team/4c7e35b5134ebf4d92bdf0e88519e077.png!w30",
       "away": "Bayern Munich",
       "results": {
-        "result": "2 Goals advantage",
+        "result": "Away 2 Goals advantage",
         "goals": "Under 3.5 Goals"
       }
     }

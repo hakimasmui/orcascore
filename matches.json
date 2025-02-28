@@ -1,23 +1,16 @@
 {
-  "status":200,
+  "status": 200,
   "message": "SUCCESS",
-  "data":[
+  "data": [
     {
       "tanggal": "2025-03-01 02:45",
       "imgHome": "https://img0.aiscore.com/football/team/858d87ded0cce014bae0c9681af48524.png!w30",
       "home": "Fiorentina",
       "imgAway": "https://img0.aiscore.com/football/team/777d0840066313da8c0f85977e9178be.png!w30",
       "away": "Lecce",
-      "results":{
-        "result":{
-          "home":44,
-          "draw":37,
-          "away":19
-        },
-        "goals": {
-          "over": ["Over 2.5", "47"],
-          "under": ["Under 2.5", "53"]
-        }
+      "results": {
+        "result": "2 Goals Advantage",
+        "goals": "Under 3 Goals"
       }
     },
     {
@@ -26,16 +19,9 @@
       "home": "Aston Villa",
       "imgAway": "https://img0.aiscore.com/football/team/96e93477bd9f240151e87ec723cdf945.png!w30",
       "away": "Cardiff City",
-      "results":{
-        "result":{
-          "home":54,
-          "draw":23,
-          "away":23
-        },
-        "goals": {
-          "over": ["Over 3.5", "36"],
-          "under": ["Under 3.5", "64"]
-        }
+      "results": {
+        "result": "2 Goals advantage",
+        "goals": "Under 3.5 Goals"
       }
     },
     {
@@ -44,16 +30,9 @@
       "home": "VfB Stuttgart",
       "imgAway": "https://img0.aiscore.com/football/team/4c7e35b5134ebf4d92bdf0e88519e077.png!w30",
       "away": "Bayern Munich",
-      "results":{
-        "result":{
-          "home":21,
-          "draw":23,
-          "away":56
-        },
-        "goals": {
-          "over": ["Over 2.5", "61"],
-          "under": ["Under 2.5", "39"]
-        }
+      "results": {
+        "result": "2 Goals advantage",
+        "goals": "Under 3.5 Goals"
       }
     }
   ]

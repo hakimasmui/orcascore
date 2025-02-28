@@ -10,13 +10,49 @@
       "away": "Lecce",
       "results":{
         "result":{
-          "home":56,
-          "draw":22,
-          "away":22
+          "home":44,
+          "draw":37,
+          "away":19
         },
         "goals": {
-          "over": ["Over 3.5", "54"],
-          "under": ["Under 3.5", "46"]
+          "over": ["Over 2.5", "47"],
+          "under": ["Under 2.5", "53"]
+        }
+      }
+    },
+    {
+      "tanggal": "2025-03-01 03:00",
+      "imgHome": "https://img0.aiscore.com/football/team/a3c32d6a906083118cac2cb796edaab3.png!w30",
+      "home": "Aston Villa",
+      "imgAway": "https://img0.aiscore.com/football/team/96e93477bd9f240151e87ec723cdf945.png!w30",
+      "away": "Cardiff City",
+      "results":{
+        "result":{
+          "home":54,
+          "draw":23,
+          "away":23
+        },
+        "goals": {
+          "over": ["Over 3.5", "36"],
+          "under": ["Under 3.5", "64"]
+        }
+      }
+    },
+    {
+      "tanggal": "2025-03-01 02:30",
+      "imgHome": "https://img0.aiscore.com/football/team/bfdd500484330d63a723cbc396df762c.png!w30",
+      "home": "VfB Stuttgart",
+      "imgAway": "https://img0.aiscore.com/football/team/4c7e35b5134ebf4d92bdf0e88519e077.png!w30",
+      "away": "Bayern Munich",
+      "results":{
+        "result":{
+          "home":21,
+          "draw":23,
+          "away":56
+        },
+        "goals": {
+          "over": ["Over 2.5", "61"],
+          "under": ["Under 2.5", "39"]
         }
       }
     }

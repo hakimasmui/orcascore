@@ -1,0 +1,24 @@
+{
+  "status":200,
+  "message": "SUCCESS",
+  "data":[
+    {
+      "tanggal": "2025-03-01 02:45",
+      "imgHome": "https://img0.aiscore.com/football/team/858d87ded0cce014bae0c9681af48524.png!w30",
+      "home": "Fiorentina",
+      "imgAway": "https://img0.aiscore.com/football/team/777d0840066313da8c0f85977e9178be.png!w30",
+      "away": "Lecce",
+      "results":{
+        "result":{
+          "home":56,
+          "draw":22,
+          "away":22
+        },
+        "goals": {
+          "over": ["Over 3.5", "54"],
+          "under": ["Under 3.5", "46"]
+        }
+      }
+    }
+  ]
+}

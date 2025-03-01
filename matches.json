@@ -42,8 +42,8 @@
       "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WzwaIV_KcV7ZU8F6ZIhmh.png",
       "away": "Plymouth Argyle",
       "results": {
-        "result": "Coming Soon",
-        "goals": "Coming Soon"
+        "result": "Home 2.5 Goals",
+        "goals": "Under 4 Goals"
       }
     },
     {
@@ -53,8 +53,8 @@
       "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/nphkDirYGP1JFaopFVqQy.png",
       "away": "Lille",
       "results": {
-        "result": "Coming Soon",
-        "goals": "Coming Soon"
+        "result": "Home 1 Goals",
+        "goals": "Over 2.5 Goals"
       }
     }
   ]

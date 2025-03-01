@@ -3,36 +3,58 @@
   "message": "SUCCESS",
   "data": [
     {
-      "tanggal": "2025-03-01 02:45",
-      "imgHome": "https://img0.aiscore.com/football/team/858d87ded0cce014bae0c9681af48524.png!w30",
-      "home": "Fiorentina",
-      "imgAway": "https://img0.aiscore.com/football/team/777d0840066313da8c0f85977e9178be.png!w30",
-      "away": "Lecce",
+      "tanggal": "2025-03-02 00:00",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x75Vbta4xvwPdr1KaFHs1.png",
+      "home": "SSC Napoli",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QMLrilrNtKpq2UmCOH9FK.png",
+      "away": "Inter",
       "results": {
-        "result": "Home 0/0.5 Goals",
-        "goals": "Under 3 Goals"
+        "result": "Coming Soon",
+        "goals": "Coming Soon"
       }
     },
     {
-      "tanggal": "2025-03-01 03:00",
-      "imgHome": "https://img0.aiscore.com/football/team/a3c32d6a906083118cac2cb796edaab3.png!w30",
-      "home": "Aston Villa",
-      "imgAway": "https://img0.aiscore.com/football/team/96e93477bd9f240151e87ec723cdf945.png!w30",
-      "away": "Cardiff City",
+      "tanggal": "2025-03-02 00:30",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gezsEknLaMwmk3X3Zcc76.png",
+      "home": "Real Betis",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png",
+      "away": "Real Madrid",
       "results": {
-        "result": "Away 2.75 Goals",
-        "goals": "Under 3.5 Goals"
+        "result": "Coming Soon",
+        "goals": "Coming Soon"
       }
     },
     {
-      "tanggal": "2025-03-01 02:30",
-      "imgHome": "https://img0.aiscore.com/football/team/bfdd500484330d63a723cbc396df762c.png!w30",
-      "home": "VfB Stuttgart",
-      "imgAway": "https://img0.aiscore.com/football/team/4c7e35b5134ebf4d92bdf0e88519e077.png!w30",
-      "away": "Bayern Munich",
+      "tanggal": "2025-03-02 03:00",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png",
+      "home": "Atletico Madrid",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png",
+      "away": "Athletic Bilbao",
       "results": {
-        "result": "Away 1 Goals",
-        "goals": "Under 3.5 Goals"
+        "result": "Coming Soon",
+        "goals": "Coming Soon"
+      }
+    },
+    {
+      "tanggal": "2025-03-02 00:45",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png",
+      "home": "Manchester City",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WzwaIV_KcV7ZU8F6ZIhmh.png",
+      "away": "Plymouth Argyle",
+      "results": {
+        "result": "Coming Soon",
+        "goals": "Coming Soon"
+      }
+    },
+    {
+      "tanggal": "2025-03-02 03:05",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png",
+      "home": "Paris Saint-Germain",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/nphkDirYGP1JFaopFVqQy.png",
+      "away": "Lille",
+      "results": {
+        "result": "Coming Soon",
+        "goals": "Coming Soon"
       }
     }
   ]

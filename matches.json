@@ -20,8 +20,8 @@
       "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png",
       "away": "Real Madrid",
       "results": {
-        "result": "Coming Soon",
-        "goals": "Coming Soon"
+        "result": "Away 0.5 Goals",
+        "goals": "Under 3.5 Goals"
       }
     },
     {
@@ -31,8 +31,8 @@
       "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png",
       "away": "Athletic Bilbao",
       "results": {
-        "result": "Coming Soon",
-        "goals": "Coming Soon"
+        "result": "Home 0.5 Goals",
+        "goals": "Over 1.5 Goals"
       }
     },
     {

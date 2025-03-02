@@ -14,17 +14,6 @@
       }
     },
     {
-      "tanggal": "2025-03-03 00:00",
-      "imgHome": "https://img0.aiscore.com/football/team/4a5873c2f4d2aea786dc787a37b4b34c.png!w30",
-      "home": "AS Roma",
-      "imgAway": "https://img0.aiscore.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png!w30",
-      "away": "Como",
-      "results": {
-        "result": "Home 0.5 Goals",
-        "goals": "Over 1.5/2 Goals"
-      }
-    },
-    {
       "tanggal": "2025-03-02 20:45",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png",
       "home": "Newcastle United",
@@ -44,6 +33,28 @@
       "results": {
         "result": "Away 0.5 Goal",
         "goals": "Over 2.5 Goals"
+      }
+    },
+    {
+      "tanggal": "2025-03-03 00:00",
+      "imgHome": "https://img0.aiscore.com/football/team/4a5873c2f4d2aea786dc787a37b4b34c.png!w30",
+      "home": "AS Roma",
+      "imgAway": "https://img0.aiscore.com/football/team/5f7059f40965e5a2cc00987e6bac2f32.png!w30",
+      "away": "Como",
+      "results": {
+        "result": "Home 0.5 Goals",
+        "goals": "Over 1.5/2 Goals"
+      }
+    },
+    {
+      "tanggal": "2025-03-03 02:45",
+      "imgHome": "https://img0.aiscore.com/football/team/643ef4101b017dc1495dbd9e9d5cce28.png!w30",
+      "home": "AC Milan",
+      "imgAway": "https://img0.aiscore.com/football/team/5a2ff46efa33abc6b2908eb6279dfbf8.png!w30",
+      "away": "Lazio",
+      "results": {
+        "result": "Home 0.5 Goals",
+        "goals": "Under 2.5/3 Goals"
       }
     },
     {

@@ -3,6 +3,39 @@
   "message": "SUCCESS",
   "data": [
     {
+      "tanggal": "2025-03-02 22:15",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png",
+      "home": "Barcelona",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N79j9O-sTkXZNhc9UZUsX.png",
+      "away": "Real Sociedad",
+      "results": {
+        "result": "Away 2.75 Goals",
+        "goals": "Under 3 Goals"
+      }
+    },
+    {
+      "tanggal": "2025-03-02 20:45",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png",
+      "home": "Newcastle United",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png",
+      "away": "Brighton & Hove Albion",
+      "results": {
+        "result": "Away 0.5 Goal",
+        "goals": "Under 3 Goals"
+      }
+    },
+    {
+      "tanggal": "2025-03-02 23:30",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png",
+      "home": "Manchester United",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LX9q9cnrBN2TnIu8byLFT.png",
+      "away": "Fulham",
+      "results": {
+        "result": "Away 0.5 Goal",
+        "goals": "Over 2.5 Goals"
+      }
+    },
+    {
       "tanggal": "2025-03-02 00:00",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x75Vbta4xvwPdr1KaFHs1.png",
       "home": "SSC Napoli",

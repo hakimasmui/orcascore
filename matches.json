@@ -10,7 +10,8 @@
       "away": "Real Sociedad",
       "results": {
         "result": "Away 2.75 Goals",
-        "goals": "Under 3 Goals"
+        "goals": "Under 3 Goals",
+        "result_predict": [false, false]
       }
     },
     {
@@ -21,7 +22,8 @@
       "away": "Brighton & Hove Albion",
       "results": {
         "result": "Away 0.5 Goal",
-        "goals": "Under 3 Goals"
+        "goals": "Under 3 Goals",
+        "result_predict": [true, true]
       }
     },
     {
@@ -32,7 +34,8 @@
       "away": "Fulham",
       "results": {
         "result": "Away 0.5 Goal",
-        "goals": "Over 2.5 Goals"
+        "goals": "Over 2.5 Goals",
+        "result_predict": [true, false]
       }
     },
     {
@@ -43,7 +46,8 @@
       "away": "Como",
       "results": {
         "result": "Home 0.5 Goals",
-        "goals": "Over 1.5/2 Goals"
+        "goals": "Over 1.5/2 Goals",
+        "result_predict": [true, true]
       }
     },
     {
@@ -54,7 +58,8 @@
       "away": "Lazio",
       "results": {
         "result": "Home 0.5 Goals",
-        "goals": "Under 2.5/3 Goals"
+        "goals": "Under 2.5/3 Goals",
+        "result_predict": [false, true]
       }
     },
     {

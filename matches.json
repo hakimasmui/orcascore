@@ -3,17 +3,6 @@
   "message": "SUCCESS",
   "data": [
     {
-      "tanggal": "2025-03-02 03:00",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wq9oBgwBzFNsQIFp7begY.png?quality=60&auto=webp&format=pjpg",
-      "home": "Villarreal",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yXPQ9R0js1ZPr5Od9cch8.png?quality=60&auto=webp&format=pjpg",
-      "away": "Espanyol",
-      "results": {
-        "result": "Away 1.5/2 Goals",
-        "goals": "Under 3/3.5 Goals"
-      }
-    },
-    {
       "tanggal": "2025-03-02 02:30",
       "imgHome": "https://img0.aiscore.com/football/team/0ec2f07e39b8f7b8139684093c894c88.png!w30",
       "home": "Nottingham Forest",
@@ -21,7 +10,11 @@
       "away": "Ipswich Town",
       "results": {
         "result": "Home 0.5 Goals",
-        "goals": "Under 3 Goals"
+        "goals": "Under 3 Goals",
+        "result_predict": [
+          false,
+          true
+        ]
       }
     },
     {
@@ -32,20 +25,13 @@
       "away": "Hellas Verona",
       "results": {
         "result": "Away +2 Goals",
-        "goals": "Under 2.5/3 Goals"
+        "goals": "Under 2.5/3 Goals",
+        "result_predict": [
+          true,
+          true
+        ]
       }
-    },
-    {
-      "tanggal": "2025-03-04 03:00",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wq9oBgwBzFNsQIFp7begY.png",
-      "home": "Villarreal",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yXPQ9R0js1ZPr5Od9cch8.png",
-      "away": "Espanyol",
-      "results": {
-        "result": "Away 1.5/2 Goals",
-        "goals": "Under 3 Goals"
-      }
-    },
+    }
     {
       "tanggal": "2025-03-02 22:15",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png",

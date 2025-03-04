@@ -3,6 +3,43 @@
   "message": "SUCCESS",
   "data": [
     {
+      "tanggal": "2025-03-05",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/P7IMTnd7DyvKabTxDNOdQ.png",
+      "home": "Club Brugge",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgf3Tx9R3nphdWIS9SgyB.png",
+      "away": "Aston Villa",
+      "results": {
+        "result": "Away 0.5 Goals",
+        "goals": "Under 2.5/3 Goals"
+      }
+    },
+    {
+      "tanggal": "2025-03-05",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dz7iJVaQ-OmykCM9NpxQV.png",
+      "home": "PSV Eindhoven",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png",
+      "away": "Arsenal",
+      "results": {
+        "result": "Home 0.5 Goals",
+        "goals": "Under 2.5 Goals",
+        "result_predict": [
+          false,
+          true
+        ]
+      }
+    },
+    {
+      "tanggal": "2025-03-05",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png",
+      "home": "Real Madrid",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png",
+      "away": "Atletico Madrid",
+      "results": {
+        "result": "Away 0.5/1 Goals",
+        "goals": "Over 2.5 Goals"
+      }
+    },
+    {
       "tanggal": "2025-03-02 02:30",
       "imgHome": "https://img0.aiscore.com/football/team/0ec2f07e39b8f7b8139684093c894c88.png!w30",
       "home": "Nottingham Forest",
@@ -103,81 +140,6 @@
         "goals": "Under 2.5/3 Goals",
         "result_predict": [
           false,
-          true
-        ]
-      }
-    },
-    {
-      "tanggal": "2025-03-02 00:00",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x75Vbta4xvwPdr1KaFHs1.png",
-      "home": "SSC Napoli",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QMLrilrNtKpq2UmCOH9FK.png",
-      "away": "Inter",
-      "results": {
-        "result": "Away 0.5 Goals",
-        "goals": "Under 2.5 Goals",
-        "result_predict": [
-          true,
-          true
-        ]
-      }
-    },
-    {
-      "tanggal": "2025-03-02 00:30",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gezsEknLaMwmk3X3Zcc76.png",
-      "home": "Real Betis",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png",
-      "away": "Real Madrid",
-      "results": {
-        "result": "Away 0.5 Goals",
-        "goals": "Under 3.5 Goals",
-        "result_predict": [
-          false,
-          true
-        ]
-      }
-    },
-    {
-      "tanggal": "2025-03-02 03:00",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png",
-      "home": "Atletico Madrid",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png",
-      "away": "Athletic Bilbao",
-      "results": {
-        "result": "Home 0.5 Goals",
-        "goals": "Over 1.5 Goals",
-        "result_predict": [
-          true,
-          false
-        ]
-      }
-    },
-    {
-      "tanggal": "2025-03-02 00:45",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png",
-      "home": "Manchester City",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WzwaIV_KcV7ZU8F6ZIhmh.png",
-      "away": "Plymouth Argyle",
-      "results": {
-        "result": "Home 2.5 Goals",
-        "goals": "Under 4 Goals",
-        "result_predict": [
-          false,
-          true
-        ]
-      }
-    },
-    {
-      "tanggal": "2025-03-02 03:05",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png",
-      "home": "Paris Saint-Germain",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/nphkDirYGP1JFaopFVqQy.png",
-      "away": "Lille",
-      "results": {
-        "result": "Home 1 Goals",
-        "goals": "Over 2.5 Goals",
-        "result_predict": [
-          true,
           true
         ]
       }

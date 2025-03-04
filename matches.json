@@ -21,11 +21,7 @@
       "away": "Arsenal",
       "results": {
         "result": "Home 0.5 Goals",
-        "goals": "Under 2.5 Goals",
-        "result_predict": [
-          false,
-          true
-        ]
+        "goals": "Under 2.5 Goals"
       }
     },
     {

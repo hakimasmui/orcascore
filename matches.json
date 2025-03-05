@@ -1,7 +1,7 @@
 {
   "status": 200,
   "message": "SUCCESS",
-  "last_update": "2025-03-05 22:33",
+  "last_update": "2025-03-06 04:50",
   "data": [
     {
       "tanggal": "2025-03-06 00:45",
@@ -11,7 +11,11 @@
       "away": "Inter",
       "results": {
         "result": "Away 0.5 Goals",
-        "goals": "Under 2.75 Goals"
+        "goals": "Under 2.75 Goals",
+        "result_predict": [
+          true,
+          true
+        ]
       }
     },
     {
@@ -22,7 +26,11 @@
       "away": "Bayer Leverkusen",
       "results": {
         "result": "Home 0.5 Goals",
-        "goals": "Over 2.75 Goals"
+        "goals": "Over 2.75 Goals",
+        "result_predict": [
+          true,
+          true
+        ]
       }
     },
     {
@@ -33,7 +41,11 @@
       "away": "Barcelona",
       "results": {
         "result": "Away 1 Goals",
-        "goals": "Over 3 Goals"
+        "goals": "Over 3 Goals",
+        "result_predict": [
+          true,
+          false
+        ]
       }
     },
     {
@@ -44,7 +56,11 @@
       "away": "Liverpool",
       "results": {
         "result": "Away 0.5 Goals",
-        "goals": "Over 2.5 Goals"
+        "goals": "Over 2.5 Goals",
+        "result_predict": [
+          true,
+          false
+        ]
       }
     },
     {

@@ -1,8 +1,41 @@
 {
   "status": 200,
   "message": "SUCCESS",
-  "last_update": "2025-03-06 04:50",
+  "last_update": "2025-03-06 15:48",
   "data": [
+    {
+      "tanggal": "2025-03-07 00:45",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N79j9O-sTkXZNhc9UZUsX.png",
+      "home": "Real Sociedad",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png",
+      "away": "Manchester United",
+      "results": {
+        "result": "Home 0.5 Goals",
+        "goals": "Over 2.5 Goals"
+      }
+    },
+    {
+      "tanggal": "2025-03-07 03:00",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fqxU8GBeoLw0gLDZvhELq.png",
+      "home": "Roma",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png",
+      "away": "Athletic Bilbao",
+      "results": {
+        "result": "Away 0.5 Goals",
+        "goals": "Over 2 Goals"
+      }
+    },
+    {
+      "tanggal": "2025-03-07 00:45",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gezsEknLaMwmk3X3Zcc76.png",
+      "home": "Real Betis",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Nt6Bf0Yzd4RVrPznZbs22.png",
+      "away": "Vitoria de Guimaraes",
+      "results": {
+        "result": "Home 1 Goals",
+        "goals": "Under 2.5 Goals"
+      }
+    },
     {
       "tanggal": "2025-03-06 00:45",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oFQJvuN4b8qeEHcuFsdoB.png",

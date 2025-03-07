@@ -4,6 +4,39 @@
   "last_update": "2025-03-06 15:48",
   "data": [
     {
+      "tanggal": "2025-03-08 02:45",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AwqELsa7jywgE3abOYRfL.png",
+      "home": "Cagliari",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yIbz25l-fwQ0NWKqBReam.png",
+      "away": "Genoa",
+      "results": {
+        "result": "Home +0.25 Goals",
+        "goals": "Under 2.5 Goals"
+      }
+    },
+    {
+      "tanggal": "2025-03-08 02:30",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HM49b4dKNaIgkvz6V2U4U.png",
+      "home": "Borussia Moenchengladbach",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/f2-8qfj2bk5S0vTBEEa9G.png",
+      "away": "Mainz 05",
+      "results": {
+        "result": "Away +0.5 Goals",
+        "goals": "Over 2.50 Goals"
+      }
+    },
+    {
+      "tanggal": "2025-03-08 02:45",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Q5AJamnbavzPzfIaRWhXA.png",
+      "home": "Toulouse",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/F_zla_b5a_HE5hGvveHfz.png",
+      "away": "Monaco",
+      "results": {
+        "result": "Away -0.5 Goals",
+        "goals": "Under 3 Goals"
+      }
+    },
+    {
       "tanggal": "2025-03-07 00:45",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N79j9O-sTkXZNhc9UZUsX.png",
       "home": "Real Sociedad",
@@ -11,7 +44,11 @@
       "away": "Manchester United",
       "results": {
         "result": "Home 0.5 Goals",
-        "goals": "Over 2.5 Goals"
+        "goals": "Over 2.5 Goals",
+        "result_predict": [
+          false,
+          false
+        ]
       }
     },
     {
@@ -22,7 +59,11 @@
       "away": "Athletic Bilbao",
       "results": {
         "result": "Away 0.5 Goals",
-        "goals": "Over 2 Goals"
+        "goals": "Over 2 Goals",
+        "result_predict": [
+          false,
+          true
+        ]
       }
     },
     {
@@ -33,7 +74,11 @@
       "away": "Vitoria de Guimaraes",
       "results": {
         "result": "Home 1 Goals",
-        "goals": "Over 2.5 Goals"
+        "goals": "Over 2.5 Goals",
+        "result_predict": [
+          false,
+          true
+        ]
       }
     },
     {
@@ -93,51 +138,6 @@
         "result_predict": [
           true,
           false
-        ]
-      }
-    },
-    {
-      "tanggal": "2025-03-05 00:45",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/P7IMTnd7DyvKabTxDNOdQ.png",
-      "home": "Club Brugge",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgf3Tx9R3nphdWIS9SgyB.png",
-      "away": "Aston Villa",
-      "results": {
-        "result": "Away 0.5 Goals",
-        "goals": "Under 2.5/3 Goals",
-        "result_predict": [
-          true,
-          false
-        ]
-      }
-    },
-    {
-      "tanggal": "2025-03-05 03:00",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dz7iJVaQ-OmykCM9NpxQV.png",
-      "home": "PSV Eindhoven",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png",
-      "away": "Arsenal",
-      "results": {
-        "result": "Home 0.5 Goals",
-        "goals": "Under 2.5 Goals",
-        "result_predict": [
-          false,
-          false
-        ]
-      }
-    },
-    {
-      "tanggal": "2025-03-05 03:00",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png",
-      "home": "Real Madrid",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png",
-      "away": "Atletico Madrid",
-      "results": {
-        "result": "Away 0.5/1 Goals",
-        "goals": "Over 2.5 Goals",
-        "result_predict": [
-          false,
-          true
         ]
       }
     }

@@ -11,7 +11,11 @@
       "away": "Genoa",
       "results": {
         "result": "Home +0.25 Goals",
-        "goals": "Under 2.5 Goals"
+        "goals": "Under 2.5 Goals",
+        "result_predict": [
+          true,
+          true
+        ]
       }
     },
     {
@@ -22,7 +26,11 @@
       "away": "Mainz 05",
       "results": {
         "result": "Away +0.5 Goals",
-        "goals": "Over 2.50 Goals"
+        "goals": "Over 2.50 Goals",
+        "result_predict": [
+          true,
+          true
+        ]
       }
     },
     {
@@ -33,7 +41,11 @@
       "away": "Monaco",
       "results": {
         "result": "Away -0.5 Goals",
-        "goals": "Under 3 Goals"
+        "goals": "Under 3 Goals",
+        "result_predict": [
+          false,
+          true
+        ]
       }
     },
     {

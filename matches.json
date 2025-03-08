@@ -1,7 +1,7 @@
 {
   "status": 200,
   "message": "SUCCESS",
-  "last_update": "2025-03-08 10:24",
+  "last_update": "2025-03-08 11:50",
   "data": [
     {
       "tanggal": "2025-03-08 22:00",
@@ -15,17 +15,6 @@
       }
     },
     {
-      "tanggal": "2025-03-08 21:30",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png",
-      "home": "Bayern Munich",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qwhqIg6jBXEyOvtteBQGG.png",
-      "away": "Bochum",
-      "results": {
-        "result": "Home -2 Goals",
-        "goals": "Over 3.5 Goals"
-      }
-    },
-    {
       "tanggal": "2025-03-08 23:00",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AqqrolqK0FEQK6xmR0GM1.png",
       "home": "Rennes",
@@ -34,6 +23,21 @@
       "results": {
         "result": "Away -0.5 Goals",
         "goals": "Under 3.5 Goals"
+      }
+    },
+    {
+      "tanggal": "2025-03-08 21:30",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png",
+      "home": "Bayern Munich",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qwhqIg6jBXEyOvtteBQGG.png",
+      "away": "Bochum",
+      "results": {
+        "result": "Home -2 Goals",
+        "goals": "Over 3.5 Goals",
+        "result_predict": [
+          false,
+          true
+        ]
       }
     },
     {

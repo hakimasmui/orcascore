@@ -4,17 +4,6 @@
   "last_update": "2025-03-08 04:28",
   "data": [
     {
-      "tanggal": "2025-03-08 19:30",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png",
-      "home": "Nottingham Forest",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png",
-      "away": "Manchester City",
-      "results": {
-        "result": "Away -0.5 Goals",
-        "goals": "Over 2.5 Goals"
-      }
-    },
-    {
       "tanggal": "2025-03-08 22:00",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png",
       "home": "Liverpool",
@@ -45,6 +34,21 @@
       "results": {
         "result": "Away -0.5 Goals",
         "goals": "Under 3.5 Goals"
+      }
+    },
+    {
+      "tanggal": "2025-03-08 19:30",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png",
+      "home": "Nottingham Forest",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png",
+      "away": "Manchester City",
+      "results": {
+        "result": "Away -0.5 Goals",
+        "goals": "Over 2.5 Goals",
+        "result_predict": [
+          false,
+          false
+        ]
       }
     },
     {

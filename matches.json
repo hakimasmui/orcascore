@@ -4,17 +4,6 @@
   "last_update": "2025-03-08 11:50",
   "data": [
     {
-      "tanggal": "2025-03-08 22:00",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png",
-      "home": "Liverpool",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2qkRHmQu3EGctqnnL2_fM.png",
-      "away": "Southampton",
-      "results": {
-        "result": "Home -2.25 Goals",
-        "goals": "Over 3.25 Goals"
-      }
-    },
-    {
       "tanggal": "2025-03-08 23:00",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AqqrolqK0FEQK6xmR0GM1.png",
       "home": "Rennes",
@@ -23,6 +12,21 @@
       "results": {
         "result": "Away -0.5 Goals",
         "goals": "Under 3.5 Goals"
+      }
+    },
+    {
+      "tanggal": "2025-03-08 22:00",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png",
+      "home": "Liverpool",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2qkRHmQu3EGctqnnL2_fM.png",
+      "away": "Southampton",
+      "results": {
+        "result": "Home -2.25 Goals",
+        "goals": "Over 3.25 Goals",
+        "result_predict": [
+          false,
+          true
+        ]
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "status": 200,
   "message": "SUCCESS",
-  "last_update": "2025-03-11 15:36",
+  "last_update": "2025-03-11 16:20",
   "data": [
     {
       "tanggal": "2025-03-12 00:45",
@@ -22,6 +22,28 @@
       "away": "Feyenoord",
       "results": {
         "result": "Home -1 Goals",
+        "goals": "Under 3/3.5 Goals"
+      }
+    },
+    {
+      "tanggal": "2025-03-12 03:00",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jEUaq-mmqK2hKxbzCjsUh.png",
+      "home": "Bayer Leverkusen",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png",
+      "away": "Bayern Munich",
+      "results": {
+        "result": "Home +0.5 Goal",
+        "goals": "Under 3 Goals"
+      }
+    },
+    {
+      "tanggal": "2025-03-12 03:00",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png",
+      "home": "Liverpool",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png",
+      "away": "Paris Saint-Germain",
+      "results": {
+        "result": "Away +0.5 Goals",
         "goals": "Over 2.5 Goals"
       }
     },
@@ -33,7 +55,11 @@
       "away": "Paris Saint-Germain",
       "results": {
         "result": "Away -0.5 Goals",
-        "goals": "Under 3.5 Goals"
+        "goals": "Under 3.5 Goals",
+        "result_predict": [
+          true,
+          false
+        ]
       }
     },
     {

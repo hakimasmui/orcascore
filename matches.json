@@ -196,66 +196,6 @@
           true
         ]
       }
-    },
-    {
-      "tanggal": "2025-03-06 00:45",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/oFQJvuN4b8qeEHcuFsdoB.png",
-      "home": "Feyenoord",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QMLrilrNtKpq2UmCOH9FK.png",
-      "away": "Inter",
-      "results": {
-        "result": "Away 0.5 Goals",
-        "goals": "Under 2.75 Goals",
-        "result_predict": [
-          true,
-          true
-        ]
-      }
-    },
-    {
-      "tanggal": "2025-03-06 03:00",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png",
-      "home": "Bayern Munich",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jEUaq-mmqK2hKxbzCjsUh.png",
-      "away": "Bayer Leverkusen",
-      "results": {
-        "result": "Home 0.5 Goals",
-        "goals": "Over 2.75 Goals",
-        "result_predict": [
-          true,
-          true
-        ]
-      }
-    },
-    {
-      "tanggal": "2025-03-06 03:00",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IBJQ65NUuPelqy4EDtW64.png",
-      "home": "Benfica",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png",
-      "away": "Barcelona",
-      "results": {
-        "result": "Away 1 Goals",
-        "goals": "Over 3 Goals",
-        "result_predict": [
-          true,
-          false
-        ]
-      }
-    },
-    {
-      "tanggal": "2025-03-06 03:00",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png",
-      "home": "Paris Saint-Germain",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png",
-      "away": "Liverpool",
-      "results": {
-        "result": "Away 0.5 Goals",
-        "goals": "Over 2.5 Goals",
-        "result_predict": [
-          true,
-          false
-        ]
-      }
     }
   ]
 }

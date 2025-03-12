@@ -4,6 +4,39 @@
   "last_update": "2025-03-11 16:40",
   "data": [
     {
+      "tanggal": "2025-03-12 03:00",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png",
+      "home": "Arsenal",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dz7iJVaQ-OmykCM9NpxQV.png",
+      "away": "PSV Eindhoven",
+      "results": {
+        "result": "Home +1 Goal",
+        "goals": "Over 2.5 Goals"
+      }
+    },
+    {
+      "tanggal": "2025-03-12 03:00",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png",
+      "home": "Atletico Madrid",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png",
+      "away": "Real Madrid",
+      "results": {
+        "result": "Home +0.5 Goal",
+        "goals": "Over 2.5 Goals"
+      }
+    },
+    {
+      "tanggal": "2025-03-12 03:00",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgf3Tx9R3nphdWIS9SgyB.png",
+      "home": "Aston Villa",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/P7IMTnd7DyvKabTxDNOdQ.png",
+      "away": "Club Brugge",
+      "results": {
+        "result": "Home +0.5 Goal",
+        "goals": "Over 2.25 Goals"
+      }
+    },
+    {
       "tanggal": "2025-03-12 00:45",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png",
       "home": "Barcelona",
@@ -11,7 +44,11 @@
       "away": "Benfica",
       "results": {
         "result": "Home +1.25 Goals",
-        "goals": "Over 3 Goals"
+        "goals": "Over 3 Goals",
+        "result_predict": [
+          true,
+          true
+        ]
       }
     },
     {
@@ -22,7 +59,11 @@
       "away": "Feyenoord",
       "results": {
         "result": "Home -1 Goals",
-        "goals": "Under 3/3.5 Goals"
+        "goals": "Under 3/3.5 Goals",
+        "result_predict": [
+          true,
+          true
+        ]
       }
     },
     {
@@ -33,7 +74,11 @@
       "away": "Bayern Munich",
       "results": {
         "result": "Away +0.25 Goal",
-        "goals": "Under 3 Goals"
+        "goals": "Under 3 Goals",
+        "result_predict": [
+          true,
+          true
+        ]
       }
     },
     {
@@ -44,7 +89,11 @@
       "away": "Paris Saint-Germain",
       "results": {
         "result": "Away +0.5 Goals",
-        "goals": "Over 2.5 Goals"
+        "goals": "Over 2.5 Goals",
+        "result_predict": [
+          true,
+          false
+        ]
       }
     },
     {

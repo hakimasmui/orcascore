@@ -1,8 +1,52 @@
 {
   "status": 200,
   "message": "SUCCESS",
-  "last_update": "2025-03-13 05:06",
+  "last_update": "2025-03-13 12:02",
   "data": [
+    {
+      "tanggal": "2025-03-13 00:45",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xcc8juLCbw-DaA7wqr_ug.png?quality=60&auto=webp&format=pjpg",
+      "home": "Lazio",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NWXbwvITfz5VDa27SauSA.png?quality=60&auto=webp&format=pjpg",
+      "away": "Viktoria Plzen",
+      "results": {
+        "result": "Coming Soon",
+        "goals": "Cooming Soon"
+      }
+    },
+    {
+      "tanggal": "2025-03-13 00:45",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png?quality=60&auto=webp&format=pjpg",
+      "home": "Athletic Bilbao",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fqxU8GBeoLw0gLDZvhELq.png?quality=60&auto=webp&format=pjpg",
+      "away": "Roma",
+      "results": {
+        "result": "Coming Soon",
+        "goals": "Cooming Soon"
+      }
+    },
+    {
+      "tanggal": "2025-03-13 03:00",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png?quality=60&auto=webp&format=pjpg",
+      "home": "Manchester United",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N79j9O-sTkXZNhc9UZUsX.png?quality=60&auto=webp&format=pjpg",
+      "away": "Real Sociedad",
+      "results": {
+        "result": "Coming Soon",
+        "goals": "Cooming Soon"
+      }
+    },
+    {
+      "tanggal": "2025-03-13 03:00",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9QuhS30De-PnujU8oknsX.png?quality=60&auto=webp&format=pjpg",
+      "home": "Lyon",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YTiHM5ybxpLHEAYcn0F59.png?quality=60&auto=webp&format=pjpg",
+      "away": "FC FCSB",
+      "results": {
+        "result": "Coming Soon",
+        "goals": "Cooming Soon"
+      }
+    },
     {
       "tanggal": "2025-03-12 03:00",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png",
@@ -207,51 +251,6 @@
       "results": {
         "result": "Away -0.5 Goals",
         "goals": "Under 3 Goals",
-        "result_predict": [
-          false,
-          true
-        ]
-      }
-    },
-    {
-      "tanggal": "2025-03-07 00:45",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N79j9O-sTkXZNhc9UZUsX.png",
-      "home": "Real Sociedad",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png",
-      "away": "Manchester United",
-      "results": {
-        "result": "Home 0.5 Goals",
-        "goals": "Over 2.5 Goals",
-        "result_predict": [
-          false,
-          false
-        ]
-      }
-    },
-    {
-      "tanggal": "2025-03-07 03:00",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fqxU8GBeoLw0gLDZvhELq.png",
-      "home": "Roma",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png",
-      "away": "Athletic Bilbao",
-      "results": {
-        "result": "Away 0.5 Goals",
-        "goals": "Over 2 Goals",
-        "result_predict": [
-          false,
-          true
-        ]
-      }
-    },
-    {
-      "tanggal": "2025-03-07 00:45",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gezsEknLaMwmk3X3Zcc76.png",
-      "home": "Real Betis",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Nt6Bf0Yzd4RVrPznZbs22.png",
-      "away": "Vitoria de Guimaraes",
-      "results": {
-        "result": "Home 1 Goals",
-        "goals": "Over 2.5 Goals",
         "result_predict": [
           false,
           true

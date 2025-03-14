@@ -1,10 +1,43 @@
 {
   "status": 200,
   "message": "SUCCESS",
-  "last_update": "2025-03-14 18:18",
+  "last_update": "2025-03-14 21:58",
   "data": [
     {
-      "tanggal": "2025-03-14 22:00",
+      "tanggal": "2025-03-15 02:45",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yIbz25l-fwQ0NWKqBReam.png?quality=60&auto=webp&format=pjpg",
+      "home": "Genoa",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FortpjcOBbyc2NwqWde0n.png?quality=60&auto=webp&format=pjpg",
+      "away": "Lecce",
+      "results": {
+        "result": "Home -0.5 Goals",
+        "goals": "Over 1.75 Goals"
+      }
+    },
+    {
+      "tanggal": "2025-03-15 03:00",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9gcZ5s5iuZKzzi6G4y3il.png?quality=60&auto=webp&format=pjpg",
+      "home": "Las Palmas",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dqC3XtzsGeXe3c53Qqrn-.png?quality=60&auto=webp&format=pjpg",
+      "away": "Deportivo Alaves",
+      "results": {
+        "result": "Away +0.25 Goals",
+        "goals": "Over 1.75 Goals"
+      }
+    },
+    {
+      "tanggal": "2025-03-15 02:45",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/29Qp98UEQtRCniX583-x2.png?quality=60&auto=webp&format=pjpg",
+      "home": "Nice",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YB7Zk23mKh7LByqaJ1Mqf.png?quality=60&auto=webp&format=pjpg",
+      "away": "Auxerre",
+      "results": {
+        "result": "Home -0.5 Goals",
+        "goals": "Over 2.25 Goals"
+      }
+    },
+    {
+      "tanggal": "2025-03-15 22:00",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png?quality=60&auto=webp&format=pjpg",
       "home": "Everton",
       "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CCygH4qVdQFkGTvjHdtDp.png?quality=60&auto=webp&format=pjpg",
@@ -15,7 +48,7 @@
       }
     },
     {
-      "tanggal": "2025-03-14 22:00",
+      "tanggal": "2025-03-15 22:00",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zrA_YgKgSHz-G7qbhWYG-.png?quality=60&auto=webp&format=pjpg",
       "home": "Ipswich Town",
       "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png?quality=60&auto=webp&format=pjpg",
@@ -26,7 +59,7 @@
       }
     },
     {
-      "tanggal": "2025-03-14 22:00",
+      "tanggal": "2025-03-15 22:00",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png?quality=60&auto=webp&format=pjpg",
       "home": "Manchester City",
       "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png?quality=60&auto=webp&format=pjpg",
@@ -37,7 +70,7 @@
       }
     },
     {
-      "tanggal": "2025-03-14 21:30",
+      "tanggal": "2025-03-15 21:30",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/L23XBxLVG-r2wXOUzV1QT.png?quality=60&auto=webp&format=pjpg",
       "home": "Union Berlin",
       "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png?quality=60&auto=webp&format=pjpg",

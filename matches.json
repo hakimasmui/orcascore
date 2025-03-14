@@ -1,8 +1,23 @@
 {
   "status": 200,
   "message": "SUCCESS",
-  "last_update": "2025-03-13 13:09",
+  "last_update": "2025-03-14 10:43",
   "data": [
+      {
+      "tanggal": "2025-03-14 00:45",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png?quality=60&auto=webp&format=pjpg",
+      "home": "Athletic Bilbao",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fqxU8GBeoLw0gLDZvhELq.png?quality=60&auto=webp&format=pjpg",
+      "away": "Roma",
+      "results": {
+        "result": "Home -0.5 Goals",
+        "goals": "Over 1.75 Goals",
+        "result_predict": [
+          true,
+          true
+        ]
+      }
+    },
     {
       "tanggal": "2025-03-14 00:45",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xcc8juLCbw-DaA7wqr_ug.png?quality=60&auto=webp&format=pjpg",
@@ -11,29 +26,11 @@
       "away": "Viktoria Plzen",
       "results": {
         "result": "Away +1.5 Goals",
-        "goals": "Over 2.5 Goals"
-      }
-    },
-    {
-      "tanggal": "2025-03-14 00:45",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png?quality=60&auto=webp&format=pjpg",
-      "home": "Athletic Bilbao",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fqxU8GBeoLw0gLDZvhELq.png?quality=60&auto=webp&format=pjpg",
-      "away": "Roma",
-      "results": {
-        "result": "Home -0.5 Goals",
-        "goals": "Over 1.75 Goals"
-      }
-    },
-    {
-      "tanggal": "2025-03-14 03:00",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png?quality=60&auto=webp&format=pjpg",
-      "home": "Manchester United",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N79j9O-sTkXZNhc9UZUsX.png?quality=60&auto=webp&format=pjpg",
-      "away": "Real Sociedad",
-      "results": {
-        "result": "Home -0.5 Goals",
-        "goals": "Over 1.75 Goals"
+        "goals": "Over 2.5 Goals",
+        "result_predict": [
+          true,
+          false
+        ]
       }
     },
     {
@@ -44,7 +41,26 @@
       "away": "FC FCSB",
       "results": {
         "result": "Home -1 Goals",
-        "goals": "Over 2.25 Goals"
+        "goals": "Over 2.25 Goals",
+        "result_predict": [
+          true,
+          true
+        ]
+      }
+    },
+    {
+      "tanggal": "2025-03-14 03:00",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png?quality=60&auto=webp&format=pjpg",
+      "home": "Manchester United",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N79j9O-sTkXZNhc9UZUsX.png?quality=60&auto=webp&format=pjpg",
+      "away": "Real Sociedad",
+      "results": {
+        "result": "Home -0.5 Goals",
+        "goals": "Over 1.75 Goals",
+        "result_predict": [
+          true,
+          true
+        ]
       }
     },
     {

@@ -4,6 +4,50 @@
   "last_update": "2025-03-14 10:43",
   "data": [
       {
+        "tanggal": "2025-03-14 22.00",
+        "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png?quality=60&auto=webp&format=pjpg",
+        "home": "Everton",
+        "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CCygH4qVdQFkGTvjHdtDp.png?quality=60&auto=webp&format=pjpg",
+        "away": "West Ham United",
+        "results": {
+          "result": "Coming Soon",
+          "goals": "Cooming Soon"
+        }
+      },
+      {
+        "tanggal": "2025-03-14 22.00",
+        "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zrA_YgKgSHz-G7qbhWYG-.png?quality=60&auto=webp&format=pjpg",
+        "home": "Ipswich Town",
+        "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png?quality=60&auto=webp&format=pjpg",
+        "away": "Nottingham Forest",
+        "results": {
+          "result": "Coming Soon",
+          "goals": "Cooming Soon"
+        }
+      },
+      {
+        "tanggal": "2025-03-14 22.00",
+        "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png?quality=60&auto=webp&format=pjpg",
+        "home": "Manchester City",
+        "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png?quality=60&auto=webp&format=pjpg",
+        "away": "Brighton & Hove Albion",
+        "results": {
+          "result": "Coming Soon",
+          "goals": "Cooming Soon"
+        }
+      },
+      {
+        "tanggal": "2025-03-14 21.30",
+        "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/L23XBxLVG-r2wXOUzV1QT.png?quality=60&auto=webp&format=pjpg",
+        "home": "Union Berlin",
+        "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png?quality=60&auto=webp&format=pjpg",
+        "away": "Bayern Munich",
+        "results": {
+          "result": "Coming Soon",
+          "goals": "Cooming Soon"
+        }
+      },
+      {
       "tanggal": "2025-03-14 00:45",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png?quality=60&auto=webp&format=pjpg",
       "home": "Athletic Bilbao",
@@ -225,51 +269,6 @@
         "result_predict": [
           false,
           false
-        ]
-      }
-    },
-    {
-      "tanggal": "2025-03-08 02:45",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AwqELsa7jywgE3abOYRfL.png",
-      "home": "Cagliari",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yIbz25l-fwQ0NWKqBReam.png",
-      "away": "Genoa",
-      "results": {
-        "result": "Home +0.25 Goals",
-        "goals": "Under 2.5 Goals",
-        "result_predict": [
-          true,
-          true
-        ]
-      }
-    },
-    {
-      "tanggal": "2025-03-08 02:30",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/HM49b4dKNaIgkvz6V2U4U.png",
-      "home": "Borussia Moenchengladbach",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/f2-8qfj2bk5S0vTBEEa9G.png",
-      "away": "Mainz 05",
-      "results": {
-        "result": "Away +0.5 Goals",
-        "goals": "Over 2.50 Goals",
-        "result_predict": [
-          true,
-          true
-        ]
-      }
-    },
-    {
-      "tanggal": "2025-03-08 02:45",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Q5AJamnbavzPzfIaRWhXA.png",
-      "home": "Toulouse",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/F_zla_b5a_HE5hGvveHfz.png",
-      "away": "Monaco",
-      "results": {
-        "result": "Away -0.5 Goals",
-        "goals": "Under 3 Goals",
-        "result_predict": [
-          false,
-          true
         ]
       }
     }

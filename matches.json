@@ -53,6 +53,8 @@
       "home": "Athletic Bilbao",
       "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fqxU8GBeoLw0gLDZvhELq.png?quality=60&auto=webp&format=pjpg",
       "away": "Roma",
+      "skorHome": 3,
+      "skorAway": 1,
       "results": {
         "result": "Home -0.5 Goals",
         "goals": "Over 1.75 Goals",

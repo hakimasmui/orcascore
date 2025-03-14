@@ -1,7 +1,7 @@
 {
   "status": 200,
   "message": "SUCCESS",
-  "last_update": "2025-03-14 13:01",
+  "last_update": "2025-03-14 13:41",
   "data": [
       {
         "tanggal": "2025-03-14 22.00",
@@ -21,8 +21,8 @@
         "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png?quality=60&auto=webp&format=pjpg",
         "away": "Nottingham Forest",
         "results": {
-          "result": "Coming Soon",
-          "goals": "Cooming Soon"
+          "result": "Away -0.5 Goals",
+          "goals": "Under 3 Goals"
         }
       },
       {
@@ -32,8 +32,8 @@
         "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png?quality=60&auto=webp&format=pjpg",
         "away": "Brighton & Hove Albion",
         "results": {
-          "result": "Coming Soon",
-          "goals": "Cooming Soon"
+          "result": "Away +0.75 Goals",
+          "goals": "Over 2.75 Goals"
         }
       },
       {
@@ -43,8 +43,8 @@
         "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png?quality=60&auto=webp&format=pjpg",
         "away": "Bayern Munich",
         "results": {
-          "result": "Coming Soon",
-          "goals": "Cooming Soon"
+          "result": "Away -1.25 Goals",
+          "goals": "Over 2.5 Goals"
         }
       },
       {

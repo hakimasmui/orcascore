@@ -1,7 +1,7 @@
 {
   "status": 200,
   "message": "SUCCESS",
-  "last_update": "2025-03-15 13:41",
+  "last_update": "2025-03-16 00:05",
   "data": [
     {
       "tanggal": "2025-03-16 00:30",
@@ -12,50 +12,6 @@
       "results": {
         "result": "Away +0 Goals",
         "goals": "Under 3.5 Goals"
-      }
-    },
-    {
-      "tanggal": "2025-03-15 22:00",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png?quality=60&auto=webp&format=pjpg",
-      "home": "Everton",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CCygH4qVdQFkGTvjHdtDp.png?quality=60&auto=webp&format=pjpg",
-      "away": "West Ham United",
-      "results": {
-        "result": "Home -0.5 Goals",
-        "goals": "Over 1.75 Goals"
-      }
-    },
-    {
-      "tanggal": "2025-03-15 22:00",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zrA_YgKgSHz-G7qbhWYG-.png?quality=60&auto=webp&format=pjpg",
-      "home": "Ipswich Town",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png?quality=60&auto=webp&format=pjpg",
-      "away": "Nottingham Forest",
-      "results": {
-        "result": "Away -0.5 Goals",
-        "goals": "Under 3 Goals"
-      }
-    },
-    {
-      "tanggal": "2025-03-15 22:00",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png?quality=60&auto=webp&format=pjpg",
-      "home": "Manchester City",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png?quality=60&auto=webp&format=pjpg",
-      "away": "Brighton & Hove Albion",
-      "results": {
-        "result": "Away +0.75 Goals",
-        "goals": "Over 2.75 Goals"
-      }
-    },
-    {
-      "tanggal": "2025-03-15 21:30",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/L23XBxLVG-r2wXOUzV1QT.png?quality=60&auto=webp&format=pjpg",
-      "home": "Union Berlin",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png?quality=60&auto=webp&format=pjpg",
-      "away": "Bayern Munich",
-      "results": {
-        "result": "Away -1.25 Goals",
-        "goals": "Over 2.5 Goals"
       }
     },
     {
@@ -101,6 +57,74 @@
         "result": "Coming Soon",
         "goals": "Cooming Soon"
       }
+    },
+    {
+      "tanggal": "2025-03-15 22:00",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png?quality=60&auto=webp&format=pjpg",
+      "home": "Manchester City",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png?quality=60&auto=webp&format=pjpg",
+      "away": "Brighton & Hove Albion",
+      "results": {
+        "result": "Away +0.75 Goals",
+        "goals": "Over 2.75 Goals",
+        "result_predict": [
+          true,
+          true
+        ]
+      },
+      "skorHome": 2,
+      "skorAway": 2
+    },
+    {
+      "tanggal": "2025-03-15 22:00",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zrA_YgKgSHz-G7qbhWYG-.png?quality=60&auto=webp&format=pjpg",
+      "home": "Ipswich Town",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png?quality=60&auto=webp&format=pjpg",
+      "away": "Nottingham Forest",
+      "results": {
+        "result": "Away -0.5 Goals",
+        "goals": "Under 3 Goals",
+        "result_predict": [
+          true,
+          false
+        ]
+      },
+      "skorHome": 2,
+      "skorAway": 4
+    },
+    {
+      "tanggal": "2025-03-15 22:00",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png?quality=60&auto=webp&format=pjpg",
+      "home": "Everton",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CCygH4qVdQFkGTvjHdtDp.png?quality=60&auto=webp&format=pjpg",
+      "away": "West Ham United",
+      "results": {
+        "result": "Home -0.5 Goals",
+        "goals": "Over 1.75 Goals",
+        "result_predict": [
+          false,
+          true
+        ]
+      },
+      "skorHome": 1,
+      "skorAway": 1
+    },
+    {
+      "tanggal": "2025-03-15 21:30",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/L23XBxLVG-r2wXOUzV1QT.png?quality=60&auto=webp&format=pjpg",
+      "home": "Union Berlin",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png?quality=60&auto=webp&format=pjpg",
+      "away": "Bayern Munich",
+      "results": {
+        "result": "Away -1.25 Goals",
+        "goals": "Over 2.5 Goals",
+        "result_predict": [
+          false,
+          false
+        ]
+      },
+      "skorHome": 1,
+      "skorAway": 1
     },
     {
       "tanggal": "2025-03-15 02:45",

@@ -1,7 +1,7 @@
 {
   "status": 200,
   "message": "SUCCESS",
-  "last_update": "2025-03-16 00:05",
+  "last_update": "2025-03-16 01:22",
   "data": [
     {
       "tanggal": "2025-03-16 00:30",
@@ -21,8 +21,8 @@
       "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png?quality=60&auto=webp&format=pjpg",
       "away": "Chelsea",
       "results": {
-        "result": "Coming Soon",
-        "goals": "Cooming Soon"
+        "result": "Home -0.5 Goals",
+        "goals": "Over 2.5 Goals"
       }
     },
     {
@@ -32,8 +32,8 @@
       "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x75Vbta4xvwPdr1KaFHs1.png?quality=60&auto=webp&format=pjpg",
       "away": "SSC Napoli",
       "results": {
-        "result": "Coming Soon",
-        "goals": "Cooming Soon"
+        "result": "Away -0.5 Goals",
+        "goals": "Under 2.5 Goals"
       }
     },
     {
@@ -43,8 +43,8 @@
       "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AwqELsa7jywgE3abOYRfL.png?quality=60&auto=webp&format=pjpg",
       "away": "Cagliari",
       "results": {
-        "result": "Coming Soon",
-        "goals": "Cooming Soon"
+        "result": "Away +1.5 Goals",
+        "goals": "Under 2.75 Goals"
       }
     },
     {
@@ -54,8 +54,8 @@
       "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png?quality=60&auto=webp&format=pjpg",
       "away": "Newcastle United",
       "results": {
-        "result": "Coming Soon",
-        "goals": "Cooming Soon"
+        "result": "Away -0.5 Goals",
+        "goals": "Over 2.25 Goals"
       }
     },
     {

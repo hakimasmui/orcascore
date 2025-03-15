@@ -59,6 +59,50 @@
       }
     },
     {
+      "tanggal": "2025-03-16 20:30",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png?quality=60&auto=webp&format=pjpg",
+      "home": "Arsenal",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png?quality=60&auto=webp&format=pjpg",
+      "away": "Chelsea",
+      "results": {
+        "result": "Coming Soon",
+        "goals": "Cooming Soon"
+      }
+    },
+    {
+      "tanggal": "2025-03-16 18:30",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_HFoWwEpcDH8C3E5QnZNN.png?quality=60&auto=webp&format=pjpg",
+      "home": "Venezia",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x75Vbta4xvwPdr1KaFHs1.png?quality=60&auto=webp&format=pjpg",
+      "away": "SSC Napoli",
+      "results": {
+        "result": "Coming Soon",
+        "goals": "Cooming Soon"
+      }
+    },
+    {
+      "tanggal": "2025-03-16 22:00",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fqxU8GBeoLw0gLDZvhELq.png?quality=60&auto=webp&format=pjpg",
+      "home": "Roma",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AwqELsa7jywgE3abOYRfL.png?quality=60&auto=webp&format=pjpg",
+      "away": "Cagliari",
+      "results": {
+        "result": "Coming Soon",
+        "goals": "Cooming Soon"
+      }
+    },
+    {
+      "tanggal": "2025-03-16 23:30",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png?quality=60&auto=webp&format=pjpg",
+      "home": "Liverpool",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png?quality=60&auto=webp&format=pjpg",
+      "away": "Newcastle United",
+      "results": {
+        "result": "Coming Soon",
+        "goals": "Cooming Soon"
+      }
+    },
+    {
       "tanggal": "2025-03-15 02:45",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yIbz25l-fwQ0NWKqBReam.png?quality=60&auto=webp&format=pjpg",
       "home": "Genoa",
@@ -278,66 +322,6 @@
         "goals": "Over 2.5 Goals",
         "result_predict": [
           true,
-          false
-        ]
-      }
-    },
-    {
-      "tanggal": "2025-03-08 23:00",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AqqrolqK0FEQK6xmR0GM1.png",
-      "home": "Rennes",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png",
-      "away": "Paris Saint-Germain",
-      "results": {
-        "result": "Away -0.5 Goals",
-        "goals": "Under 3.5 Goals",
-        "result_predict": [
-          true,
-          false
-        ]
-      }
-    },
-    {
-      "tanggal": "2025-03-08 22:00",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png",
-      "home": "Liverpool",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2qkRHmQu3EGctqnnL2_fM.png",
-      "away": "Southampton",
-      "results": {
-        "result": "Home -2.25 Goals",
-        "goals": "Over 3.25 Goals",
-        "result_predict": [
-          false,
-          true
-        ]
-      }
-    },
-    {
-      "tanggal": "2025-03-08 21:30",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png",
-      "home": "Bayern Munich",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qwhqIg6jBXEyOvtteBQGG.png",
-      "away": "Bochum",
-      "results": {
-        "result": "Home -2 Goals",
-        "goals": "Over 3.5 Goals",
-        "result_predict": [
-          false,
-          true
-        ]
-      }
-    },
-    {
-      "tanggal": "2025-03-08 19:30",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png",
-      "home": "Nottingham Forest",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png",
-      "away": "Manchester City",
-      "results": {
-        "result": "Away -0.5 Goals",
-        "goals": "Over 2.5 Goals",
-        "result_predict": [
-          false,
           false
         ]
       }

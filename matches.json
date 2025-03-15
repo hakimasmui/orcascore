@@ -55,7 +55,7 @@
       "away": "Real Madrid",
       "results": {
         "result": "Away +0 Goals",
-        "goals": "Under 3.5 Goals"
+        "goals": "Under 3.5 Goals",
         "result_predict": [
           true,
           true

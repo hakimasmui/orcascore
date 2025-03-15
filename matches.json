@@ -1,19 +1,8 @@
 {
   "status": 200,
   "message": "SUCCESS",
-  "last_update": "2025-03-16 01:22",
+  "last_update": "2025-03-16 02:29",
   "data": [
-    {
-      "tanggal": "2025-03-16 00:30",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wq9oBgwBzFNsQIFp7begY.png?quality=60&auto=webp&format=pjpg",
-      "home": "Villarreal",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png?quality=60&auto=webp&format=pjpg",
-      "away": "Real Madrid",
-      "results": {
-        "result": "Away +0 Goals",
-        "goals": "Under 3.5 Goals"
-      }
-    },
     {
       "tanggal": "2025-03-16 20:30",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png?quality=60&auto=webp&format=pjpg",
@@ -57,6 +46,23 @@
         "result": "Away -0.5 Goals",
         "goals": "Over 2.25 Goals"
       }
+    },
+    {
+      "tanggal": "2025-03-16 00:30",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wq9oBgwBzFNsQIFp7begY.png?quality=60&auto=webp&format=pjpg",
+      "home": "Villarreal",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png?quality=60&auto=webp&format=pjpg",
+      "away": "Real Madrid",
+      "results": {
+        "result": "Away +0 Goals",
+        "goals": "Under 3.5 Goals"
+        "result_predict": [
+          true,
+          true
+        ]
+      },
+      "skorHome": 1,
+      "skorAway": 2
     },
     {
       "tanggal": "2025-03-15 22:00",

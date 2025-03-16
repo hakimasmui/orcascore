@@ -22,8 +22,14 @@
       "away": "Cagliari",
       "results": {
         "result": "Away +1.5 Goals",
-        "goals": "Under 2.75 Goals"
-      }
+        "goals": "Under 2.75 Goals",
+        "result_predict": [
+          true,
+          true
+        ]
+      },
+      "skorHome": 1,
+      "skorAway": 0
     },
     {
       "tanggal": "2025-03-16 23:30",
@@ -33,8 +39,14 @@
       "away": "Newcastle United",
       "results": {
         "result": "Away -0.5 Goals",
-        "goals": "Over 2.25 Goals"
-      }
+        "goals": "Over 2.25 Goals",
+        "result_predict": [
+          true,
+          true
+        ]
+      },
+      "skorHome": 1,
+      "skorAway": 2
     },
     {
       "tanggal": "2025-03-16 20:30",

@@ -4,6 +4,17 @@
   "last_update": "2025-03-16 02:29",
   "data": [
     {
+      "tanggal": "2025-03-16 03:00",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png?quality=60&auto=webp&format=pjpg",
+      "home": "Atletico Madrid",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png?quality=60&auto=webp&format=pjpg",
+      "away": "Barcelona",
+      "results": {
+        "result": "Away -0.5 Goals",
+        "goals": "Over 2.5 Goals"
+      }
+    },
+    {
       "tanggal": "2025-03-16 20:30",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png?quality=60&auto=webp&format=pjpg",
       "home": "Arsenal",
@@ -12,17 +23,6 @@
       "results": {
         "result": "Home -0.5 Goals",
         "goals": "Over 2.5 Goals"
-      }
-    },
-    {
-      "tanggal": "2025-03-16 18:30",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_HFoWwEpcDH8C3E5QnZNN.png?quality=60&auto=webp&format=pjpg",
-      "home": "Venezia",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x75Vbta4xvwPdr1KaFHs1.png?quality=60&auto=webp&format=pjpg",
-      "away": "SSC Napoli",
-      "results": {
-        "result": "Away -0.5 Goals",
-        "goals": "Under 2.5 Goals"
       }
     },
     {
@@ -46,6 +46,23 @@
         "result": "Away -0.5 Goals",
         "goals": "Over 2.25 Goals"
       }
+    },
+    {
+      "tanggal": "2025-03-16 18:30",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_HFoWwEpcDH8C3E5QnZNN.png?quality=60&auto=webp&format=pjpg",
+      "home": "Venezia",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x75Vbta4xvwPdr1KaFHs1.png?quality=60&auto=webp&format=pjpg",
+      "away": "SSC Napoli",
+      "results": {
+        "result": "Away -0.5 Goals",
+        "goals": "Under 2.5 Goals",
+        "result_predict": [
+          false,
+          true
+        ]
+      },
+      "skorHome": 0,
+      "skorAway": 0
     },
     {
       "tanggal": "2025-03-16 00:30",

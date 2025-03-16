@@ -1,7 +1,7 @@
 {
   "status": 200,
   "message": "SUCCESS",
-  "last_update": "2025-03-16 22:34",
+  "last_update": "2025-03-17 05:11",
   "data": [
     {
       "tanggal": "2025-03-16 03:00",
@@ -11,8 +11,14 @@
       "away": "Barcelona",
       "results": {
         "result": "Away -0.5 Goals",
-        "goals": "Over 2.5 Goals"
-      }
+        "goals": "Over 2.5 Goals",
+        "result_predict": [
+          true,
+          true
+        ]
+      },
+      "skorHome": 2,
+      "skorAway": 4
     },
     {
       "tanggal": "2025-03-16 22:00",

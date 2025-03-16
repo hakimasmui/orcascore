@@ -15,17 +15,6 @@
       }
     },
     {
-      "tanggal": "2025-03-16 20:30",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png?quality=60&auto=webp&format=pjpg",
-      "home": "Arsenal",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png?quality=60&auto=webp&format=pjpg",
-      "away": "Chelsea",
-      "results": {
-        "result": "Home -0.5 Goals",
-        "goals": "Over 2.5 Goals"
-      }
-    },
-    {
       "tanggal": "2025-03-16 22:00",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fqxU8GBeoLw0gLDZvhELq.png?quality=60&auto=webp&format=pjpg",
       "home": "Roma",
@@ -46,6 +35,23 @@
         "result": "Away -0.5 Goals",
         "goals": "Over 2.25 Goals"
       }
+    },
+    {
+      "tanggal": "2025-03-16 20:30",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png?quality=60&auto=webp&format=pjpg",
+      "home": "Arsenal",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png?quality=60&auto=webp&format=pjpg",
+      "away": "Chelsea",
+      "results": {
+        "result": "Home -0.5 Goals",
+        "goals": "Over 2.5 Goals",
+        "result_predict": [
+          true,
+          false
+        ]
+      },
+      "skorHome": 1,
+      "skorAway": 0
     },
     {
       "tanggal": "2025-03-16 18:30",

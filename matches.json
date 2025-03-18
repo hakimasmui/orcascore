@@ -1,7 +1,7 @@
 {
   "status": 200,
   "message": "SUCCESS",
-  "last_update": "2025-03-17 05:11",
+  "last_update": "2025-03-18 20:30",
   "data": [
     {
       "tanggal": "2025-03-20 16:10",
@@ -10,8 +10,8 @@
       "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6RKBAlFSIdYWkX4oT6DWc.png?quality=60&auto=webp&format=pjpg",
       "away": "Indonesia",
       "results": {
-        "result": "Coming Soon",
-        "goals": "Cooming Soon"
+        "result": "Away +1.25 Goals",
+        "goals": "Over 2.5 Goals"
       }
     },
     {
@@ -21,8 +21,8 @@
       "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/P3iYOYVEM2vb9euWXZvco.png?quality=60&auto=webp&format=pjpg",
       "away": "Bahrain",
       "results": {
-        "result": "Coming Soon",
-        "goals": "Cooming Soon"
+        "result": "Home +2.5 Goals",
+        "goals": "Over 3.25 Goals"
       }
     },
     {
@@ -32,8 +32,8 @@
       "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kN6shBYXFHVD1Tu_FnoN_.png?quality=60&auto=webp&format=pjpg",
       "away": "Oman",
       "results": {
-        "result": "Coming Soon",
-        "goals": "Cooming Soon"
+        "result": "Home +1.75 Goals",
+        "goals": "Over 2.5 Goals"
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "status": 200,
   "message": "SUCCESS",
-  "last_update": "2025-03-19 22:07",
+  "last_update": "2025-03-19 22:57",
   "data": [
     {
       "tanggal": "2025-03-20 16:10",
@@ -43,8 +43,8 @@
       "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MuWgyMrpxyHUVQavE_4Go.png?quality=60&auto=webp&format=pjpg",
       "away": "Spain",
       "results": {
-        "result": "Coming Soon",
-        "goals": "Cooming Soon"
+        "result": "Away -0.25 Goals",
+        "goals": "Over 2.25 Goals"
       }
     },
     {
@@ -54,8 +54,8 @@
       "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BvKzhtblH8F5IISNIenAL.png?quality=60&auto=webp&format=pjpg",
       "away": "Germany",
       "results": {
-        "result": "Coming Soon",
-        "goals": "Cooming Soon"
+        "result": "Home +0.25 Goals",
+        "goals": "Under 2.75 Goals"
       }
     },
     {
@@ -65,8 +65,8 @@
       "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JFjztXlE7biecWFIejFOb.png?quality=60&auto=webp&format=pjpg",
       "away": "France",
       "results": {
-        "result": "Coming Soon",
-        "goals": "Cooming Soon"
+        "result": "Away -0.25 Goals",
+        "goals": "Under 2.75 Goals"
       }
     },
     {
@@ -76,8 +76,8 @@
       "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TgVcm6fGZ73VvkIX-vEnP.png?quality=60&auto=webp&format=pjpg",
       "away": "Portugal",
       "results": {
-        "result": "Coming Soon",
-        "goals": "Cooming Soon"
+        "result": "Away -0.25 Goals",
+        "goals": "Over 2.25 Goals"
       }
     },
     {

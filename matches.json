@@ -1,8 +1,25 @@
 {
   "status": 200,
   "message": "SUCCESS",
-  "last_update": "2025-03-20 21:23",
+  "last_update": "2025-03-21 04:51",
   "data": [
+    {
+      "tanggal": "2025-03-21 02:45",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/F1ODVos53rWpE7AVgnAB-.png?quality=60&auto=webp&format=pjpg",
+      "home": "Denmark",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TgVcm6fGZ73VvkIX-vEnP.png?quality=60&auto=webp&format=pjpg",
+      "away": "Portugal",
+      "results": {
+        "result": "Away -0.25 Goals",
+        "goals": "Over 2.25 Goals",
+        "result_predict": [
+          false,
+          false
+        ]
+      },
+      "skorHome": 1,
+      "skorAway": 0
+    },
     {
       "tanggal": "2025-03-21 02:45",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TbmloQcfVwv6k91gFdRas.png?quality=60&auto=webp&format=pjpg",
@@ -11,19 +28,14 @@
       "away": "Spain",
       "results": {
         "result": "Away -0.25 Goals",
-        "goals": "Over 2.25 Goals"
-      }
-    },
-    {
-      "tanggal": "2025-03-21 02:45",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rSy8N8vajDOioG73Mim7B.png?quality=60&auto=webp&format=pjpg",
-      "home": "Italy",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BvKzhtblH8F5IISNIenAL.png?quality=60&auto=webp&format=pjpg",
-      "away": "Germany",
-      "results": {
-        "result": "Home +0.25 Goals",
-        "goals": "Under 2.75 Goals"
-      }
+        "goals": "Over 2.25 Goals",
+        "result_predict": [
+          false,
+          true
+        ]
+      },
+      "skorHome": 2,
+      "skorAway": 2
     },
     {
       "tanggal": "2025-03-21 02:45",
@@ -33,19 +45,31 @@
       "away": "France",
       "results": {
         "result": "Away -0.25 Goals",
-        "goals": "Under 2.75 Goals"
-      }
+        "goals": "Under 2.75 Goals",
+        "result_predict": [
+          false,
+          false
+        ]
+      },
+      "skorHome": 2,
+      "skorAway": 0
     },
     {
       "tanggal": "2025-03-21 02:45",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/F1ODVos53rWpE7AVgnAB-.png?quality=60&auto=webp&format=pjpg",
-      "home": "Denmark",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TgVcm6fGZ73VvkIX-vEnP.png?quality=60&auto=webp&format=pjpg",
-      "away": "Portugal",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rSy8N8vajDOioG73Mim7B.png?quality=60&auto=webp&format=pjpg",
+      "home": "Italy",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BvKzhtblH8F5IISNIenAL.png?quality=60&auto=webp&format=pjpg",
+      "away": "Germany",
       "results": {
-        "result": "Away -0.25 Goals",
-        "goals": "Over 2.25 Goals"
-      }
+        "result": "Home +0.25 Goals",
+        "goals": "Under 2.75 Goals",
+        "result_predict": [
+          false,
+          false
+        ]
+      },
+      "skorHome": 1,
+      "skorAway": 2
     },
     {
       "tanggal": "2025-03-20 16:10",

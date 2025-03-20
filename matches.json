@@ -4,39 +4,6 @@
   "last_update": "2025-03-19 22:57",
   "data": [
     {
-      "tanggal": "2025-03-20 16:10",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ILn5101eGl42HZ6tJnix_.png?quality=60&auto=webp&format=pjpg",
-      "home": "Australia",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6RKBAlFSIdYWkX4oT6DWc.png?quality=60&auto=webp&format=pjpg",
-      "away": "Indonesia",
-      "results": {
-        "result": "Away +1.25 Goals",
-        "goals": "Over 2.5 Goals"
-      }
-    },
-    {
-      "tanggal": "2025-03-20 17:35",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ODLLQnIl_4FrSHflbX6aa.png?quality=60&auto=webp&format=pjpg",
-      "home": "Japan",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/P3iYOYVEM2vb9euWXZvco.png?quality=60&auto=webp&format=pjpg",
-      "away": "Bahrain",
-      "results": {
-        "result": "Home +2.5 Goals",
-        "goals": "Over 3.25 Goals"
-      }
-    },
-    {
-      "tanggal": "2025-03-20 18:00",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/D2nOY1df51Lco9jymr8EA.png?quality=60&auto=webp&format=pjpg",
-      "home": "South Korea",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kN6shBYXFHVD1Tu_FnoN_.png?quality=60&auto=webp&format=pjpg",
-      "away": "Oman",
-      "results": {
-        "result": "Home +1.75 Goals",
-        "goals": "Over 2.5 Goals"
-      }
-    },
-    {
       "tanggal": "2025-03-21 02:45",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TbmloQcfVwv6k91gFdRas.png?quality=60&auto=webp&format=pjpg",
       "home": "Netherlands",
@@ -79,6 +46,57 @@
         "result": "Away -0.25 Goals",
         "goals": "Over 2.25 Goals"
       }
+    },
+    {
+      "tanggal": "2025-03-20 16:10",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ILn5101eGl42HZ6tJnix_.png?quality=60&auto=webp&format=pjpg",
+      "home": "Australia",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6RKBAlFSIdYWkX4oT6DWc.png?quality=60&auto=webp&format=pjpg",
+      "away": "Indonesia",
+      "results": {
+        "result": "Away +1.25 Goals",
+        "goals": "Over 2.5 Goals",
+        "result_predict": [
+          false,
+          true
+        ]
+      },
+      "skorHome": 5,
+      "skorAway": 1
+    },
+    {
+      "tanggal": "2025-03-20 17:35",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ODLLQnIl_4FrSHflbX6aa.png?quality=60&auto=webp&format=pjpg",
+      "home": "Japan",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/P3iYOYVEM2vb9euWXZvco.png?quality=60&auto=webp&format=pjpg",
+      "away": "Bahrain",
+      "results": {
+        "result": "Home -2.5 Goals",
+        "goals": "Over 3.25 Goals",
+        "result_predict": [
+          false,
+          false
+        ]
+      },
+      "skorHome": 2,
+      "skorAway": 0
+    },
+    {
+      "tanggal": "2025-03-20 18:00",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/D2nOY1df51Lco9jymr8EA.png?quality=60&auto=webp&format=pjpg",
+      "home": "South Korea",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kN6shBYXFHVD1Tu_FnoN_.png?quality=60&auto=webp&format=pjpg",
+      "away": "Oman",
+      "results": {
+        "result": "Home -1.75 Goals",
+        "goals": "Over 2.5 Goals",
+        "result_predict": [
+          false,
+          false
+        ]
+      },
+      "skorHome": 1,
+      "skorAway": 1
     },
     {
       "tanggal": "2025-03-16 03:00",

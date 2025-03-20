@@ -1,8 +1,41 @@
 {
   "status": 200,
   "message": "SUCCESS",
-  "last_update": "2025-03-21 04:51",
+  "last_update": "2025-03-21 05:44",
   "data": [
+    {
+      "tanggal": "2025-03-21 06.00",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cAeV2CT-dtARMBSgYREj2.png?quality=60&auto=webp&format=pjpg",
+      "home": "Paraguay",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eIZ3MZcG3Ekghsk0_YcNU.png?quality=60&auto=webp&format=pjpg",
+      "away": "Chile",
+      "results": {
+        "result": "Chile +1 Goals",
+        "goals": "Under 2.5 Goals"
+      }
+    },
+    {
+      "tanggal": "2025-03-21 07.45",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w2xUykxZKjKaQVECx7qVA.png?quality=60&auto=webp&format=pjpg",
+      "home": "Brazil",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iF8oMh0EFdQRMbW7dxXQX.png?quality=60&auto=webp&format=pjpg",
+      "away": "Colombia",
+      "results": {
+        "result": "Home -0.5 Goals",
+        "goals": "Over 1.75 Goals"
+      }
+    },
+    {
+      "tanggal": "2025-03-21 08.30",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bp0eOxc57rUARhx_EdWH4.png?quality=60&auto=webp&format=pjpg",
+      "home": "Peru",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DeBGnAWwYFZp_iCKtpuWI.png?quality=60&auto=webp&format=pjpg",
+      "away": "Bolivia",
+      "results": {
+        "result": "Home -0.75 Goals",
+        "goals": "Over 1.75 Goals"
+      }
+    },
     {
       "tanggal": "2025-03-21 02:45",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/F1ODVos53rWpE7AVgnAB-.png?quality=60&auto=webp&format=pjpg",

@@ -1,39 +1,50 @@
 {
   "status": 200,
   "message": "SUCCESS",
-  "last_update": "2025-03-21 16:06",
+  "last_update": "2025-03-22 04:49",
   "data": [
     {
-      "tanggal": "2025-03-22 02:45",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6uoQ8toWqX4HHw9DyIzLc.png?quality=60&auto=webp&format=pjpg",
-      "home": "England",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XPk2OWImaVK69gxVGtxIv.png?quality=60&auto=webp&format=pjpg",
-      "away": "Albania",
+      "tanggal": "2025-03-23 00.00",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Ed_wex1s3JDNl6Wzl9qqk.png?quality=60&auto=webp&format=pjpg",
+      "home": "Moldova",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/wjE5ZFTwEO6LFgsvGCvRn.png?quality=60&auto=webp&format=pjpg",
+      "away": "Norway",
       "results": {
-        "result": "Home -1.75 Goals",
-        "goals": "Over 2.5 Goals"
+        "result": "Home -1.25 Goals",
+        "goals": "Cooming Soon"
       }
     },
     {
-      "tanggal": "2025-03-22 02:45",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pu6tuhoozYwxtb67Mco3D.png?quality=60&auto=webp&format=pjpg",
-      "home": "Romania",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/UMgC3nTQSqO1sUCHFu5U8.png?quality=60&auto=webp&format=pjpg",
-      "away": "Bosnia and Herzegovina",
+      "tanggal": "2025-03-23 00.00",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ivxm6x5SpPgCVeTtrNZNO.png?quality=60&auto=webp&format=pjpg",
+      "home": "Montenegro",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-VAV0TZKXwU1-HF5fjGkG.png?quality=60&auto=webp&format=pjpg",
+      "away": "Gibraltar",
       "results": {
-        "result": "Home -0.5 Goals",
-        "goals": "Over 2 Goals"
+        "result": "Coming Soon",
+        "goals": "Cooming Soon"
       }
     },
     {
-      "tanggal": "2025-03-22 02:45",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GNwQcY9F8w1SkuVV5C55b.png?quality=60&auto=webp&format=pjpg",
-      "home": "Poland",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-bkrl_boQH7cE7WsRA-SC.png?quality=60&auto=webp&format=pjpg",
-      "away": "Lithuania",
+      "tanggal": "2025-03-23 02.45",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VJbeovZ8LbSICiEhVY5P5.png?quality=60&auto=webp&format=pjpg",
+      "home": "Wales",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6IG1rZNZLJUapU8tvUmqG.png?quality=60&auto=webp&format=pjpg",
+      "away": "Kazakhstan",
       "results": {
-        "result": "Home -1.5 Goals",
-        "goals": "Over 2.5 Goals"
+        "result": "Coming Soon",
+        "goals": "Cooming Soon"
+      }
+    },
+    {
+      "tanggal": "2025-03-23 02.45",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/uEmMgq0fA2MqqYXwQkX37.png?quality=60&auto=webp&format=pjpg",
+      "home": "Czechia",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/t28Oxi_DhMbVKFBPnSQlX.png?quality=60&auto=webp&format=pjpg",
+      "away": "Faroe Islands",
+      "results": {
+        "result": "Coming Soon",
+        "goals": "Cooming Soon"
       }
     },
     {

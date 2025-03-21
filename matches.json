@@ -1,8 +1,41 @@
 {
   "status": 200,
   "message": "SUCCESS",
-  "last_update": "2025-03-21 10:39",
+  "last_update": "2025-03-21 16:06",
   "data": [
+    {
+      "tanggal": "2025-03-22 02:45",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6uoQ8toWqX4HHw9DyIzLc.png?quality=60&auto=webp&format=pjpg",
+      "home": "England",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XPk2OWImaVK69gxVGtxIv.png?quality=60&auto=webp&format=pjpg",
+      "away": "Albania",
+      "results": {
+        "result": "Home -1.75 Goals",
+        "goals": "Over 2.5 Goals"
+      }
+    },
+    {
+      "tanggal": "2025-03-22 02:45",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pu6tuhoozYwxtb67Mco3D.png?quality=60&auto=webp&format=pjpg",
+      "home": "Romania",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/UMgC3nTQSqO1sUCHFu5U8.png?quality=60&auto=webp&format=pjpg",
+      "away": "Bosnia and Herzegovina",
+      "results": {
+        "result": "Home -0.5 Goals",
+        "goals": "Over 2 Goals"
+      }
+    },
+    {
+      "tanggal": "2025-03-22 02:45",
+      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GNwQcY9F8w1SkuVV5C55b.png?quality=60&auto=webp&format=pjpg",
+      "home": "Poland",
+      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-bkrl_boQH7cE7WsRA-SC.png?quality=60&auto=webp&format=pjpg",
+      "away": "Lithuania",
+      "results": {
+        "result": "Home -1.5 Goals",
+        "goals": "Under 2.5 Goals"
+      }
+    },
     {
       "tanggal": "2025-03-21 06.00",
       "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cAeV2CT-dtARMBSgYREj2.png?quality=60&auto=webp&format=pjpg",
@@ -274,125 +307,6 @@
       },
       "skorHome": 1,
       "skorAway": 2
-    },
-    {
-      "tanggal": "2025-03-15 22:00",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png?quality=60&auto=webp&format=pjpg",
-      "home": "Manchester City",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png?quality=60&auto=webp&format=pjpg",
-      "away": "Brighton & Hove Albion",
-      "results": {
-        "result": "Away +0.75 Goals",
-        "goals": "Over 2.75 Goals",
-        "result_predict": [
-          true,
-          true
-        ]
-      },
-      "skorHome": 2,
-      "skorAway": 2
-    },
-    {
-      "tanggal": "2025-03-15 22:00",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zrA_YgKgSHz-G7qbhWYG-.png?quality=60&auto=webp&format=pjpg",
-      "home": "Ipswich Town",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png?quality=60&auto=webp&format=pjpg",
-      "away": "Nottingham Forest",
-      "results": {
-        "result": "Away -0.5 Goals",
-        "goals": "Under 3 Goals",
-        "result_predict": [
-          true,
-          false
-        ]
-      },
-      "skorHome": 2,
-      "skorAway": 4
-    },
-    {
-      "tanggal": "2025-03-15 22:00",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png?quality=60&auto=webp&format=pjpg",
-      "home": "Everton",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CCygH4qVdQFkGTvjHdtDp.png?quality=60&auto=webp&format=pjpg",
-      "away": "West Ham United",
-      "results": {
-        "result": "Home -0.5 Goals",
-        "goals": "Over 1.75 Goals",
-        "result_predict": [
-          false,
-          true
-        ]
-      },
-      "skorHome": 1,
-      "skorAway": 1
-    },
-    {
-      "tanggal": "2025-03-15 21:30",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/L23XBxLVG-r2wXOUzV1QT.png?quality=60&auto=webp&format=pjpg",
-      "home": "Union Berlin",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png?quality=60&auto=webp&format=pjpg",
-      "away": "Bayern Munich",
-      "results": {
-        "result": "Away -1.25 Goals",
-        "goals": "Over 2.5 Goals",
-        "result_predict": [
-          false,
-          false
-        ]
-      },
-      "skorHome": 1,
-      "skorAway": 1
-    },
-    {
-      "tanggal": "2025-03-15 02:45",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yIbz25l-fwQ0NWKqBReam.png?quality=60&auto=webp&format=pjpg",
-      "home": "Genoa",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FortpjcOBbyc2NwqWde0n.png?quality=60&auto=webp&format=pjpg",
-      "away": "Lecce",
-      "results": {
-        "result": "Home -0.5 Goals",
-        "goals": "Over 1.75 Goals",
-        "result_predict": [
-          true,
-          true
-        ]
-      },
-      "skorHome": 2,
-      "skorAway": 1
-    },
-    {
-      "tanggal": "2025-03-15 03:00",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9gcZ5s5iuZKzzi6G4y3il.png?quality=60&auto=webp&format=pjpg",
-      "home": "Las Palmas",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dqC3XtzsGeXe3c53Qqrn-.png?quality=60&auto=webp&format=pjpg",
-      "away": "Deportivo Alaves",
-      "results": {
-        "result": "Away +0.25 Goals",
-        "goals": "Over 1.75 Goals",
-        "result_predict": [
-          true,
-          true
-        ]
-      },
-      "skorHome": 2,
-      "skorAway": 2
-    },
-    {
-      "tanggal": "2025-03-15 02:45",
-      "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/29Qp98UEQtRCniX583-x2.png?quality=60&auto=webp&format=pjpg",
-      "home": "Nice",
-      "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YB7Zk23mKh7LByqaJ1Mqf.png?quality=60&auto=webp&format=pjpg",
-      "away": "Auxerre",
-      "results": {
-        "result": "Home -0.5 Goals",
-        "goals": "Over 2.25 Goals",
-        "result_predict": [
-          false,
-          false
-        ]
-      },
-      "skorHome": 1,
-      "skorAway": 1
     }
   ]
 }

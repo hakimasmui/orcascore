@@ -1,7 +1,7 @@
 {
   "status": 200,
   "message": "SUCCESS",
-  "last_update": "2025-03-21 05:44",
+  "last_update": "2025-03-21 10:39",
   "data": [
     {
       "tanggal": "2025-03-21 06.00",
@@ -11,8 +11,14 @@
       "away": "Chile",
       "results": {
         "result": "Chile +1 Goals",
-        "goals": "Under 2.5 Goals"
-      }
+        "goals": "Under 2.5 Goals",
+        "result_predict": [
+          true,
+          true
+        ]
+      },
+      "skorHome": 1,
+      "skorAway": 0
     },
     {
       "tanggal": "2025-03-21 07.45",
@@ -22,8 +28,14 @@
       "away": "Colombia",
       "results": {
         "result": "Home -0.5 Goals",
-        "goals": "Over 1.75 Goals"
-      }
+        "goals": "Over 1.75 Goals",
+        "result_predict": [
+          true,
+          true
+        ]
+      },
+      "skorHome": 2,
+      "skorAway": 1
     },
     {
       "tanggal": "2025-03-21 08.30",
@@ -33,8 +45,14 @@
       "away": "Bolivia",
       "results": {
         "result": "Home -0.75 Goals",
-        "goals": "Over 1.75 Goals"
-      }
+        "goals": "Over 1.75 Goals",
+        "result_predict": [
+          true,
+          true
+        ]
+      },
+      "skorHome": 3,
+      "skorAway": 1
     },
     {
       "tanggal": "2025-03-21 02:45",

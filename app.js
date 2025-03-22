@@ -6,6 +6,10 @@ const mancity = "Manchester City";
 const realmadrid = "Real Madrid";
 const manutd = "Manchester United";
 const bayern = "Bayern Munich";
+const liverpool = "Liverpool"
+const napoli = "SSC Napoli"
+const barcelona = "Barcelona"
+const atm = "Atletico Madrid"
 
 const inggris = "England - Premier League"
 const germany = "Germany - Bundesliga"
@@ -47,9 +51,11 @@ function checkGoalPrediction(predict, homeScore, awayScore) {
 }
 
 (async () => {
+    const url = "https://www.goal.com/id/jadwal/2025-03-23";
+    const tanggal_match = url.match(/(\d{4}-\d{2}-\d{2})/);
     const browser = await puppeteer.launch({headless: false});
     const page = await browser.newPage()
-    await page.goto('https://www.goal.com/id/jadwal/2025-03-15', {waitUntil: 'domcontentloaded'})
+    await page.goto(url, {waitUntil: 'domcontentloaded'})
     await page.setRequestInterception(true);
     page.on('request', interceptedRequest => { 
         if ( 
@@ -64,11 +70,15 @@ function checkGoalPrediction(predict, homeScore, awayScore) {
         } 
     }); 
     await page.waitForSelector("div.fco-competition-section");
-    const teams = ["Genoa", "Las Palmas", "Nice"];
-    const league = [italy, spanyol, france];
-    const jsonArray = JSON.parse('[{"tanggal":"2025-03-14 00:45","imgHome":"https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xcc8juLCbw-DaA7wqr_ug.png?quality=60&auto=webp&format=pjpg","home":"Lazio","imgAway":"https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NWXbwvITfz5VDa27SauSA.png?quality=60&auto=webp&format=pjpg","away":"Viktoria Plzen","results":{"result":"Away +1.5 Goals","goals":"Over 2.5 Goals"}},{"tanggal":"2025-03-14 00:45","imgHome":"https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png?quality=60&auto=webp&format=pjpg","home":"Athletic Bilbao","imgAway":"https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fqxU8GBeoLw0gLDZvhELq.png?quality=60&auto=webp&format=pjpg","away":"Roma","results":{"result":"Home -0.5 Goals","goals":"Over 1.75 Goals"}},{"tanggal":"2025-03-14 03:00","imgHome":"https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png?quality=60&auto=webp&format=pjpg","home":"Manchester United","imgAway":"https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N79j9O-sTkXZNhc9UZUsX.png?quality=60&auto=webp&format=pjpg","away":"Real Sociedad","results":{"result":"Home -0.5 Goals","goals":"Over 1.75 Goals"}},{"tanggal":"2025-03-14 03:00","imgHome":"https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9QuhS30De-PnujU8oknsX.png?quality=60&auto=webp&format=pjpg","home":"Lyon","imgAway":"https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YTiHM5ybxpLHEAYcn0F59.png?quality=60&auto=webp&format=pjpg","away":"FC FCSB","results":{"result":"Home -1 Goals","goals":"Over 2.25 Goals"}}]');
+    const teams = ["Wales", "Norway", "Czechia", "Montenegro"];
+    const league = ["International - World Cup Qualification UEFA"];
+    const jsonArray = JSON.parse('[{"tanggal":"2025-03-21 06.00","imgHome":"https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cAeV2CT-dtARMBSgYREj2.png?quality=60&auto=webp&format=pjpg","home":"Paraguay","imgAway":"https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eIZ3MZcG3Ekghsk0_YcNU.png?quality=60&auto=webp&format=pjpg","away":"Chile","results":{"result":"Chile +1 Goals","goals":"Under 2.5 Goals"}},{"tanggal":"2025-03-21 07.45","imgHome":"https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w2xUykxZKjKaQVECx7qVA.png?quality=60&auto=webp&format=pjpg","home":"Brazil","imgAway":"https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iF8oMh0EFdQRMbW7dxXQX.png?quality=60&auto=webp&format=pjpg","away":"Colombia","results":{"result":"Home -0.5 Goals","goals":"Over 1.75 Goals"}},{"tanggal":"2025-03-21 08.30","imgHome":"https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bp0eOxc57rUARhx_EdWH4.png?quality=60&auto=webp&format=pjpg","home":"Peru","imgAway":"https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DeBGnAWwYFZp_iCKtpuWI.png?quality=60&auto=webp&format=pjpg","away":"Bolivia","results":{"result":"Home -0.75 Goals","goals":"Over 1.75 Goals"}}]');
     let items = [];
-    const tanggal = date.format(new Date(), 'YYYY-MM-DD')
+    let tanggal;
+    if (tanggal_match)
+        tanggal = tanggal_match[0];
+    else
+        tanggal = date.format(new Date(), 'YYYY-MM-DD')
     const matches = await page.$$('div.fco-competition-section')
     for (const match of matches) {
         const title = await page.evaluate(el => el.querySelector("span.fco-competition-section__header-text > span").textContent, match)
@@ -104,7 +114,6 @@ function checkGoalPrediction(predict, homeScore, awayScore) {
     
                         jsonArray.forEach(match => {
                             if (home == match.home && away == match.away) {
-                                console.log(match.results.goals)
                                 const isCorrect = checkGoalPrediction(match.results.result, homeScore, awayScore);
                                 const isOverUnder = checkPrediction(match.results.goals, homeScore+awayScore)
                                 

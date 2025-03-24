@@ -1,5 +1,8 @@
 const puppeteer = require('puppeteer');
 const date = require('date-and-time');
+const fs = require('fs');
+const http = require('https');
+const { json } = require('stream/consumers');
 
 const arsenal = "Arsenal";
 const mancity = "Manchester City";
@@ -51,8 +54,37 @@ function checkGoalPrediction(predict, homeScore, awayScore) {
 }
 
 (async () => {
-    const url = "https://www.goal.com/id/jadwal/2025-03-23";
+    const url = "https://www.goal.com/id/jadwal/2025-03-25";
     const tanggal_match = url.match(/(\d{4}-\d{2}-\d{2})/);
+    const filename = tanggal_match[0].replaceAll("-", "")+".json";
+    const url_call = "https://hakimasmui.github.io/orcascore/"+filename
+
+    const req = http.request(url_call, async (res) => {
+        let data = ''
+    
+        res.on('data', (chunk) => {
+            data += chunk;
+        });
+    
+        // Ending the response 
+        res.on('end', () => {
+            let jsonArray;
+            try {
+                let json = JSON.parse(data)
+                jsonArray =  json.data
+            } catch(err) {
+                jsonArray = JSON.parse("[]")
+            }
+
+            crawlGaol(url, filename, tanggal_match, jsonArray);
+        });
+    
+    }).on("error", (err) => {
+        console.log("Error: ", err)
+    }).end();
+})();
+
+async function crawlGaol(url, filename, tanggal_match, jsonArray) {
     const browser = await puppeteer.launch({headless: false});
     const page = await browser.newPage()
     await page.goto(url, {waitUntil: 'domcontentloaded'})
@@ -70,15 +102,15 @@ function checkGoalPrediction(predict, homeScore, awayScore) {
         } 
     }); 
     await page.waitForSelector("div.fco-competition-section");
-    const teams = ["Wales", "Norway", "Czechia", "Montenegro"];
-    const league = ["International - World Cup Qualification UEFA"];
-    const jsonArray = JSON.parse('[{"tanggal":"2025-03-21 06.00","imgHome":"https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cAeV2CT-dtARMBSgYREj2.png?quality=60&auto=webp&format=pjpg","home":"Paraguay","imgAway":"https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eIZ3MZcG3Ekghsk0_YcNU.png?quality=60&auto=webp&format=pjpg","away":"Chile","results":{"result":"Chile +1 Goals","goals":"Under 2.5 Goals"}},{"tanggal":"2025-03-21 07.45","imgHome":"https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w2xUykxZKjKaQVECx7qVA.png?quality=60&auto=webp&format=pjpg","home":"Brazil","imgAway":"https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iF8oMh0EFdQRMbW7dxXQX.png?quality=60&auto=webp&format=pjpg","away":"Colombia","results":{"result":"Home -0.5 Goals","goals":"Over 1.75 Goals"}},{"tanggal":"2025-03-21 08.30","imgHome":"https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bp0eOxc57rUARhx_EdWH4.png?quality=60&auto=webp&format=pjpg","home":"Peru","imgAway":"https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DeBGnAWwYFZp_iCKtpuWI.png?quality=60&auto=webp&format=pjpg","away":"Bolivia","results":{"result":"Home -0.75 Goals","goals":"Over 1.75 Goals"}}]');
+    const teams = ["Finland", "England", "Poland", "Cyprus", "Japan", "China", "Indonesia"];
+    const league = ["International - World Cup Qualification UEFA", "International - World Cup Qualification AFC"];
     let items = [];
     let tanggal;
     if (tanggal_match)
         tanggal = tanggal_match[0];
     else
         tanggal = date.format(new Date(), 'YYYY-MM-DD')
+    
     const matches = await page.$$('div.fco-competition-section')
     for (const match of matches) {
         const title = await page.evaluate(el => el.querySelector("span.fco-competition-section__header-text > span").textContent, match)
@@ -95,7 +127,8 @@ function checkGoalPrediction(predict, homeScore, awayScore) {
 
                 if (teams.includes(home) || teams.includes(away)) {
                     if (scoreHome == "-") {
-                        const jam = await page.evaluate(el => el.querySelector("div > a.fco-match-start-date > time").textContent, schedule)
+                        let jam = await page.evaluate(el => el.querySelector("div > a.fco-match-start-date > time").textContent, schedule)
+                        jam = jam.replace(".", ":")
                         
                         items.push({
                             "tanggal": tanggal+" "+jam,
@@ -135,7 +168,16 @@ function checkGoalPrediction(predict, homeScore, awayScore) {
             break;
     }
 
-    console.log(JSON.stringify(items))
+    let result = {
+        "status": 200,
+        "message": "SUCCESS",
+        "data": items
+    }
+
+    fs.writeFile(filename, JSON.stringify(result, null, 4), function (err) {
+        if (err) throw err;
+        console.log('Saved!');
+    });
 
     await browser.close();
-})();
+}

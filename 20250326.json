@@ -47,7 +47,7 @@
                 "goals": "Over 2 Goals",
                 "result_predict": [
                     true,
-                    false
+                    true
                 ]
             },
             "skorHome": 1,

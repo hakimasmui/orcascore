@@ -129,18 +129,20 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
                     if (scoreHome == "-") {
                         let jam = await page.evaluate(el => el.querySelector("div > a.fco-match-start-date > time").textContent, schedule)
                         jam = jam.replace(".", ":")
-                        
-                        items.push({
-                            "tanggal": tanggal+" "+jam,
-                            "imgHome": img_home,
-                            "home": home,
-                            "imgAway": img_away,
-                            "away": away,
-                            "results": {
-                                "result": "Coming Soon",
-                                "goals": "Cooming Soon"
-                            }
-                        })
+
+                        if (jsonArray.length == 0) {
+                            items.push({
+                                "tanggal": tanggal+" "+jam,
+                                "imgHome": img_home,
+                                "home": home,
+                                "imgAway": img_away,
+                                "away": away,
+                                "results": {
+                                    "result": "Coming Soon",
+                                    "goals": "Cooming Soon"
+                                }
+                            })
+                        }
                     } else {
                         const homeScore = parseFloat(scoreHome)
                         const awayScore = parseFloat(scoreAway)
@@ -174,10 +176,12 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
         "data": items
     }
 
-    fs.writeFile(filename, JSON.stringify(result, null, 4), function (err) {
-        if (err) throw err;
-        console.log('Saved!');
-    });
+    if (items.length > 0) {
+        fs.writeFile(filename, JSON.stringify(result, null, 4), function (err) {
+            if (err) throw err;
+            console.log('Saved!');
+        });
+    }
 
     await browser.close();
 }

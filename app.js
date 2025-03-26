@@ -54,7 +54,7 @@ function checkGoalPrediction(predict, homeScore, awayScore) {
 }
 
 (async () => {
-    const url = "https://www.goal.com/id/hasil/2025-03-28";
+    const url = "https://www.goal.com/id/hasil/2025-03-25";
     const tanggal_match = url.match(/(\d{4}-\d{2}-\d{2})/);
     const filename = tanggal_match[0].replaceAll("-", "")+".json";
     const url_call = "https://hakimasmui.github.io/orcascore/"+filename

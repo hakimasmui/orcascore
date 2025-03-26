@@ -1,0 +1,125 @@
+{
+    "status": 200,
+    "message": "SUCCESS",
+    "data": [
+        {
+            "tanggal": "2025-03-25 00:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-bkrl_boQH7cE7WsRA-SC.png?quality=60&auto=webp&format=pjpg",
+            "home": "Lithuania",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/T_1jxn_1pBPoJgscO0OM6.png?quality=60&auto=webp&format=pjpg",
+            "away": "Finland",
+            "results": {
+                "result": "Away -0.5 Goals",
+                "goals": "Over 1.75 Goals",
+                "result_predict": [
+                    false,
+                    true
+                ]
+            },
+            "skorHome": 2,
+            "skorAway": 2
+        },
+        {
+            "tanggal": "2025-03-25 02:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6uoQ8toWqX4HHw9DyIzLc.png?quality=60&auto=webp&format=pjpg",
+            "home": "England",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w9RaJ-tUlO4d6x5ctcnSC.png?quality=60&auto=webp&format=pjpg",
+            "away": "Latvia",
+            "results": {
+                "result": "Away +3.5 Goals",
+                "goals": "Under 4.25 Goals",
+                "result_predict": [
+                    true,
+                    true
+                ]
+            },
+            "skorHome": 3,
+            "skorAway": 0
+        },
+        {
+            "tanggal": "2025-03-25 02:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GNwQcY9F8w1SkuVV5C55b.png?quality=60&auto=webp&format=pjpg",
+            "home": "Poland",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/a8Vx16yZfhFFiW3DoF4Tz.png?quality=60&auto=webp&format=pjpg",
+            "away": "Malta",
+            "results": {
+                "result": "Home +1.5 Goals",
+                "goals": "Under 3 Goals",
+                "result_predict": [
+                    true,
+                    true
+                ]
+            },
+            "skorHome": 2,
+            "skorAway": 0
+        },
+        {
+            "tanggal": "2025-03-25 02:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/UMgC3nTQSqO1sUCHFu5U8.png?quality=60&auto=webp&format=pjpg",
+            "home": "Bosnia and Herzegovina",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fn3tHHMXjUzLPBnBKZk0l.png?quality=60&auto=webp&format=pjpg",
+            "away": "Cyprus",
+            "results": {
+                "result": "Away +1.5 Goals",
+                "goals": "Under 2.75 Goals",
+                "result_predict": [
+                    true,
+                    false
+                ]
+            },
+            "skorHome": 2,
+            "skorAway": 1
+        },
+        {
+            "tanggal": "2025-03-25 17:35",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ODLLQnIl_4FrSHflbX6aa.png?quality=60&auto=webp&format=pjpg",
+            "home": "Japan",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MFcISbqSzeB5jO8-cWifu.png?quality=60&auto=webp&format=pjpg",
+            "away": "Saudi Arabia",
+            "results": {
+                "result": "Home -1 Goals",
+                "goals": "Over 2.5 Goals",
+                "result_predict": [
+                    false,
+                    false
+                ]
+            },
+            "skorHome": 0,
+            "skorAway": 0
+        },
+        {
+            "tanggal": "2025-03-25 18:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GMyIjXNZ3l1wkfXUoD0rp.png?quality=60&auto=webp&format=pjpg",
+            "home": "China",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ILn5101eGl42HZ6tJnix_.png?quality=60&auto=webp&format=pjpg",
+            "away": "Australia",
+            "results": {
+                "result": "Away -1 Goals",
+                "goals": "Over 2.5 Goals",
+                "result_predict": [
+                    true,
+                    false
+                ]
+            },
+            "skorHome": 0,
+            "skorAway": 2
+        },
+        {
+            "tanggal": "2025-03-25 23:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Kb8I7y2BXPnmhgPC-cstX.png?quality=60&auto=webp&format=pjpg",
+            "home": "Iran",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/SntX7kho3TurVjUJygroP.png?quality=60&auto=webp&format=pjpg",
+            "away": "Uzbekistan",
+            "results": {
+                "result": "Home -0.5 Goals",
+                "goals": "Over 1.5 Goals",
+                "result_predict": [
+                    false,
+                    true
+                ]
+            },
+            "skorHome": 2,
+            "skorAway": 2
+        }
+    ]
+}

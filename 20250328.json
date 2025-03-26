@@ -9,19 +9,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NqdsiG8yecUZjhG0HtEWx.png?quality=60&auto=webp&format=pjpg",
             "away": "Osasuna",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
-            }
-        },
-        {
-            "tanggal": "2025-03-28 20:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bogE23IMykXV_ylHWQktP.png?quality=60&auto=webp&format=pjpg",
-            "home": "Antalyaspor",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Lt3NhZULW5zXyB-JyxWh7.png?quality=60&auto=webp&format=pjpg",
-            "away": "Alanyaspor",
-            "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Home -1.5 Goals",
+                "goals": "Over 3.5 Goals"
             }
         },
         {
@@ -31,8 +20,19 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3Vdbqf9-Ra0UTTR0qAjrP.png?quality=60&auto=webp&format=pjpg",
             "away": "Stevenage",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Home -0.5 Goals",
+                "goals": "Over 2 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-03-28 20:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bogE23IMykXV_ylHWQktP.png?quality=60&auto=webp&format=pjpg",
+            "home": "Antalyaspor",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Lt3NhZULW5zXyB-JyxWh7.png?quality=60&auto=webp&format=pjpg",
+            "away": "Alanyaspor",
+            "results": {
+                "result": "Away +0.5 Goals",
+                "goals": "Under 2.5 Goals"
             }
         }
     ]

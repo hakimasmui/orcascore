@@ -31,8 +31,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qwhqIg6jBXEyOvtteBQGG.png?quality=60&auto=webp&format=pjpg",
             "away": "Bochum",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Away +2 Goals",
+                "goals": "Under 3.5 Goals"
             }
         },
         {
@@ -53,8 +53,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9QuhS30De-PnujU8oknsX.png?quality=60&auto=webp&format=pjpg",
             "away": "Lyon",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Home +0.25 Goals",
+                "goals": "Over 2.5 Goals"
             }
         },
         {
@@ -64,8 +64,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_exgztvNgcpD9d4fNWmAS.png?quality=60&auto=webp&format=pjpg",
             "away": "Fenerbahce",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Away +1 Goals",
+                "goals": "Over 2.25 Goals"
             }
         }
     ]

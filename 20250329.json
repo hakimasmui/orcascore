@@ -1,0 +1,72 @@
+{
+    "status": 200,
+    "message": "SUCCESS",
+    "data": [
+        {
+            "tanggal": "2025-03-29 20:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N79j9O-sTkXZNhc9UZUsX.png?quality=60&auto=webp&format=pjpg",
+            "home": "Real Sociedad",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/B2lSkOIDu7ljZZ0EuRhTY.png?quality=60&auto=webp&format=pjpg",
+            "away": "Real Valladolid",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        },
+        {
+            "tanggal": "2025-03-29 22:15",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yXPQ9R0js1ZPr5Od9cch8.png?quality=60&auto=webp&format=pjpg",
+            "home": "Espanyol",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png?quality=60&auto=webp&format=pjpg",
+            "away": "Atletico Madrid",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        },
+        {
+            "tanggal": "2025-03-29 02:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jEUaq-mmqK2hKxbzCjsUh.png?quality=60&auto=webp&format=pjpg",
+            "home": "Bayer Leverkusen",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qwhqIg6jBXEyOvtteBQGG.png?quality=60&auto=webp&format=pjpg",
+            "away": "Bochum",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        },
+        {
+            "tanggal": "2025-03-29 21:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png?quality=60&auto=webp&format=pjpg",
+            "home": "Bayern Munich",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/nrVUp1yGT9PaanlKgyGrw.png?quality=60&auto=webp&format=pjpg",
+            "away": "St. Pauli",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        },
+        {
+            "tanggal": "2025-03-29 02:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/V0aQCOKoxLK73s4qjBKmi.png?quality=60&auto=webp&format=pjpg",
+            "home": "Strasbourg",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9QuhS30De-PnujU8oknsX.png?quality=60&auto=webp&format=pjpg",
+            "away": "Lyon",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        },
+        {
+            "tanggal": "2025-03-29 00:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dthOXDVOsFWWwbaPgA_6G.png?quality=60&auto=webp&format=pjpg",
+            "home": "Bodrum FK",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_exgztvNgcpD9d4fNWmAS.png?quality=60&auto=webp&format=pjpg",
+            "away": "Fenerbahce",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        }
+    ]
+}

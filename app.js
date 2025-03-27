@@ -54,7 +54,7 @@ function checkGoalPrediction(predict, homeScore, awayScore) {
 }
 
 (async () => {
-    const url = "https://www.goal.com/id/hasil/2025-03-25";
+    const url = "https://www.goal.com/id/jadwal/2025-03-29";
     const tanggal_match = url.match(/(\d{4}-\d{2}-\d{2})/);
     const filename = tanggal_match[0].replaceAll("-", "")+".json";
     const url_call = "https://hakimasmui.github.io/orcascore/"+filename
@@ -102,8 +102,8 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
         } 
     }); 
     await page.waitForSelector("div.fco-competition-section");
-    const teams = [barcelona, "Leyton Orient", "Antalyaspor"];
-    const league = [spanyol, "England - League One", "Turkiye - Super Lig"];
+    const teams = [bayern, atm, "Real Sociedad", "Bayer Leverkusen", "Lyon", "Fenerbahce"];
+    const league = [spanyol, france, germany, "Turkiye - Super Lig"];
     let items = [];
     let tanggal;
     if (tanggal_match)

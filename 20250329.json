@@ -9,8 +9,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/B2lSkOIDu7ljZZ0EuRhTY.png?quality=60&auto=webp&format=pjpg",
             "away": "Real Valladolid",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Home -1 Goals",
+                "goals": "Under 3 Goals"
             }
         },
         {
@@ -20,8 +20,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png?quality=60&auto=webp&format=pjpg",
             "away": "Atletico Madrid",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Away -0.5 Goals",
+                "goals": "Over 2 Goals"
             }
         },
         {
@@ -42,8 +42,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/nrVUp1yGT9PaanlKgyGrw.png?quality=60&auto=webp&format=pjpg",
             "away": "St. Pauli",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Away +2.5 Goals",
+                "goals": "Under 3.5 Goals"
             }
         },
         {

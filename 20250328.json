@@ -13,7 +13,7 @@
                 "goals": "Over 3.5 Goals",
                 "result_predict": [
                     true,
-                    false
+                    true
                 ]
             },
             "skorHome": 3,
@@ -27,8 +27,14 @@
             "away": "Alanyaspor",
             "results": {
                 "result": "Away +0.5 Goals",
-                "goals": "Under 2.5 Goals"
-            }
+                "goals": "Under 2.5 Goals",
+                "result_predict": [
+                    false,
+                    false
+                ]
+            },
+            "skorHome": 2,
+            "skorAway": 1
         },
         {
             "tanggal": "2025-03-28 03:00",

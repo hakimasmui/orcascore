@@ -10,19 +10,14 @@
             "away": "Osasuna",
             "results": {
                 "result": "Home -1.5 Goals",
-                "goals": "Over 3.5 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-03-28 03:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/RvrZqyAVj5MM0QbMWmAec.png?quality=60&auto=webp&format=pjpg",
-            "home": "Leyton Orient",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3Vdbqf9-Ra0UTTR0qAjrP.png?quality=60&auto=webp&format=pjpg",
-            "away": "Stevenage",
-            "results": {
-                "result": "Home -0.5 Goals",
-                "goals": "Over 2 Goals"
-            }
+                "goals": "Over 3.5 Goals",
+                "result_predict": [
+                    true,
+                    false
+                ]
+            },
+            "skorHome": 3,
+            "skorAway": 0
         },
         {
             "tanggal": "2025-03-28 20:00",
@@ -34,6 +29,23 @@
                 "result": "Away +0.5 Goals",
                 "goals": "Under 2.5 Goals"
             }
+        },
+        {
+            "tanggal": "2025-03-28 03:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/RvrZqyAVj5MM0QbMWmAec.png?quality=60&auto=webp&format=pjpg",
+            "home": "Leyton Orient",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3Vdbqf9-Ra0UTTR0qAjrP.png?quality=60&auto=webp&format=pjpg",
+            "away": "Stevenage",
+            "results": {
+                "result": "Home -0.5 Goals",
+                "goals": "Over 2 Goals",
+                "result_predict": [
+                    true,
+                    false
+                ]
+            },
+            "skorHome": 1,
+            "skorAway": 0
         }
     ]
 }

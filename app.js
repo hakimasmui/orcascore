@@ -54,7 +54,7 @@ function checkGoalPrediction(predict, homeScore, awayScore) {
 }
 
 (async () => {
-    const url = "https://www.goal.com/id/jadwal/2025-03-29";
+    const url = "https://www.goal.com/id/jadwal/2025-03-28";
     const tanggal_match = url.match(/(\d{4}-\d{2}-\d{2})/);
     const filename = tanggal_match[0].replaceAll("-", "")+".json";
     const url_call = "https://hakimasmui.github.io/orcascore/"+filename
@@ -72,8 +72,10 @@ function checkGoalPrediction(predict, homeScore, awayScore) {
             try {
                 let json = JSON.parse(data)
                 jsonArray =  json.data
+                console.log("ada data")
             } catch(err) {
                 jsonArray = JSON.parse("[]")
+                console.log("tidak ada data")
             }
 
             crawlGaol(url, filename, tanggal_match, jsonArray);
@@ -85,6 +87,7 @@ function checkGoalPrediction(predict, homeScore, awayScore) {
 })();
 
 async function crawlGaol(url, filename, tanggal_match, jsonArray) {
+    console.log("crawl start")
     const browser = await puppeteer.launch({headless: false});
     const page = await browser.newPage()
     await page.goto(url, {waitUntil: 'domcontentloaded'})
@@ -102,8 +105,11 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
         } 
     }); 
     await page.waitForSelector("div.fco-competition-section");
-    const teams = [bayern, atm, "Real Sociedad", "Bayer Leverkusen", "Lyon", "Fenerbahce"];
-    const league = [spanyol, france, germany, "Turkiye - Super Lig"];
+    // const teams = [bayern, atm, "Real Sociedad", "Bayer Leverkusen", "Lyon", "Fenerbahce"];
+    // const league = [spanyol, france, germany, "Turkiye - Super Lig"];
+
+    const teams = [barcelona, "Leyton Orient", "Antalyaspor"];
+    const league = [spanyol, "England - League One", "Turki - Super Lig"];
     let items = [];
     let tanggal;
     if (tanggal_match)
@@ -114,8 +120,9 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
     const matches = await page.$$('div.fco-competition-section')
     for (const match of matches) {
         const title = await page.evaluate(el => el.querySelector("span.fco-competition-section__header-text > span").textContent, match)
-        
+        console.log(title)
         if (league.includes(title)) {
+            console.log("liga ditemukan")
             const schedules = await page.$$('div.fco-match-row__container')
             for (const schedule of schedules) {
                 const home = await page.evaluate(el => el.querySelector("div.fco-match-team-and-score__team-a > div > div.fco-team-name.fco-long-name").textContent, schedule)
@@ -126,7 +133,9 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
                 const scoreAway = await page.evaluate(el => el.querySelector('div.fco-match-score__container > div.fco-match-score[data-side="team-b"]').textContent, schedule)
 
                 if (teams.includes(home) || teams.includes(away)) {
+                    console.log("tim ditemukan")
                     if (scoreHome == "-") {
+                        console.log(home, "pertandingan belum selesai")
                         let jam = await page.evaluate(el => el.querySelector("div > a.fco-match-start-date > time").textContent, schedule)
                         jam = jam.replace(".", ":")
 
@@ -142,8 +151,15 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
                                     "goals": "Cooming Soon"
                                 }
                             })
+                        } else {
+                            jsonArray.forEach(match => {
+                                if (home == match.home && away == match.away) {
+                                    items.push(match)
+                                }
+                            });
                         }
                     } else {
+                        console.log(home, "pertandingan selesai")
                         const homeScore = parseFloat(scoreHome)
                         const awayScore = parseFloat(scoreAway)
     

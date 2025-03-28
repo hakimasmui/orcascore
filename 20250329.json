@@ -32,8 +32,14 @@
             "away": "Bochum",
             "results": {
                 "result": "Away +2 Goals",
-                "goals": "Under 3.5 Goals"
-            }
+                "goals": "Under 3.5 Goals",
+                "result_predict": [
+                    true,
+                    false
+                ]
+            },
+            "skorHome": 3,
+            "skorAway": 1
         },
         {
             "tanggal": "2025-03-29 21:30",
@@ -54,8 +60,14 @@
             "away": "Lyon",
             "results": {
                 "result": "Home +0.25 Goals",
-                "goals": "Over 2.5 Goals"
-            }
+                "goals": "Over 2.5 Goals",
+                "result_predict": [
+                    true,
+                    true
+                ]
+            },
+            "skorHome": 4,
+            "skorAway": 2
         },
         {
             "tanggal": "2025-03-29 00:30",
@@ -65,8 +77,14 @@
             "away": "Fenerbahce",
             "results": {
                 "result": "Away -1 Goals",
-                "goals": "Over 2.25 Goals"
-            }
+                "goals": "Over 2.25 Goals",
+                "result_predict": [
+                    true,
+                    true
+                ]
+            },
+            "skorHome": 2,
+            "skorAway": 4
         }
     ]
 }

@@ -14,11 +14,11 @@ const napoli = "SSC Napoli"
 const barcelona = "Barcelona"
 const atm = "Atletico Madrid"
 
-const inggris = "England - Premier League"
-const germany = "Germany - Bundesliga"
-const france = "France - Ligue 1"
+const inggris = "Inggris Raya - Premier League"
+const germany = "Jerman - Bundesliga"
+const france = "Prancis - Ligue1"
 const italy = "Italy - Serie A"
-const spanyol = "Spain - LaLiga"
+const spanyol = "Spanyol - LaLiga"
 const champions = "International - Champions League"
 const europaleague = "International - Europa League"
 
@@ -54,7 +54,7 @@ function checkGoalPrediction(predict, homeScore, awayScore) {
 }
 
 (async () => {
-    const url = "https://www.goal.com/id/jadwal/2025-03-28";
+    const url = "https://www.goal.com/id/jadwal/2025-03-29";
     const tanggal_match = url.match(/(\d{4}-\d{2}-\d{2})/);
     const filename = tanggal_match[0].replaceAll("-", "")+".json";
     const url_call = "https://hakimasmui.github.io/orcascore/"+filename
@@ -105,11 +105,11 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
         } 
     }); 
     await page.waitForSelector("div.fco-competition-section");
-    // const teams = [bayern, atm, "Real Sociedad", "Bayer Leverkusen", "Lyon", "Fenerbahce"];
-    // const league = [spanyol, france, germany, "Turkiye - Super Lig"];
+    const teams = [bayern, atm, "Real Sociedad", "Bayer Leverkusen", "Lyon", "Fenerbahce"];
+    const league = [spanyol, france, germany, "Turki - Super Lig"];
 
-    const teams = [barcelona, "Leyton Orient", "Antalyaspor"];
-    const league = [spanyol, "England - League One", "Turki - Super Lig"];
+    // const teams = ["Atalanta", "Leyton Orient", "Antalyaspor"];
+    // const league = [spanyol, "England - League One", "Turki - Super Lig"];
     let items = [];
     let tanggal;
     if (tanggal_match)

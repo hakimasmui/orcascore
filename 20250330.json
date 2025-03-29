@@ -31,8 +31,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5SVrOmKwWwrCXabwbS8LR.png?quality=60&auto=webp&format=pjpg",
             "away": "Atalanta",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Home +0.5 Goals",
+                "goals": "Over 2.25 Goals"
             }
         },
         {
@@ -42,8 +42,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/55ilL8H7D1Fy1Y4nycklh.png?quality=60&auto=webp&format=pjpg",
             "away": "Udinese",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Home -1 Goals",
+                "goals": "Over 2.25 Goals"
             }
         },
         {
@@ -64,8 +64,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/epQ1djdhSLL7Z5fn2BZTn.png?quality=60&auto=webp&format=pjpg",
             "away": "Girona",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Home -1.5 Goals",
+                "goals": "Under 4 Goals"
             }
         },
         {
@@ -75,8 +75,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NqdsiG8yecUZjhG0HtEWx.png?quality=60&auto=webp&format=pjpg",
             "away": "Osasuna",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Home -1 Goals",
+                "goals": "Over 2 Goals"
             }
         },
         {
@@ -86,8 +86,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgf3Tx9R3nphdWIS9SgyB.png?quality=60&auto=webp&format=pjpg",
             "away": "Aston Villa",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Away -1 Goals",
+                "goals": "Under 3 Goals"
             }
         },
         {
@@ -97,8 +97,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png?quality=60&auto=webp&format=pjpg",
             "away": "Manchester City",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Away -0.5 Goals",
+                "goals": "Over 3 Goals"
             }
         }
     ]

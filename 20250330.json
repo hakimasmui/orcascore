@@ -1,0 +1,105 @@
+{
+    "status": 200,
+    "message": "SUCCESS",
+    "data": [
+        {
+            "tanggal": "2025-03-30 00:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/G0ZJNLeWxBVFsy39V4-XY.png?quality=60&auto=webp&format=pjpg",
+            "home": "Juventus",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yIbz25l-fwQ0NWKqBReam.png?quality=60&auto=webp&format=pjpg",
+            "away": "Genoa",
+            "results": {
+                "result": "Away +1.5 Goals",
+                "goals": "Over 1.75 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-03-30 02:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FortpjcOBbyc2NwqWde0n.png?quality=60&auto=webp&format=pjpg",
+            "home": "Lecce",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fqxU8GBeoLw0gLDZvhELq.png?quality=60&auto=webp&format=pjpg",
+            "away": "Roma",
+            "results": {
+                "result": "Away -0.5 Goals",
+                "goals": "Over 1.75 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-03-30 20:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/t1NUqOfCHjrNAW4ME5SEF.png?quality=60&auto=webp&format=pjpg",
+            "home": "Fiorentina",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5SVrOmKwWwrCXabwbS8LR.png?quality=60&auto=webp&format=pjpg",
+            "away": "Atalanta",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        },
+        {
+            "tanggal": "2025-03-30 23:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QMLrilrNtKpq2UmCOH9FK.png?quality=60&auto=webp&format=pjpg",
+            "home": "Inter",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/55ilL8H7D1Fy1Y4nycklh.png?quality=60&auto=webp&format=pjpg",
+            "away": "Udinese",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        },
+        {
+            "tanggal": "2025-03-30 03:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png?quality=60&auto=webp&format=pjpg",
+            "home": "Real Madrid",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/M08qKmv8nkpWySvrmWozr.png?quality=60&auto=webp&format=pjpg",
+            "away": "Leganes",
+            "results": {
+                "result": "Home -2 Goals",
+                "goals": "Over 3 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-03-30 21:15",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png?quality=60&auto=webp&format=pjpg",
+            "home": "Barcelona",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/epQ1djdhSLL7Z5fn2BZTn.png?quality=60&auto=webp&format=pjpg",
+            "away": "Girona",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        },
+        {
+            "tanggal": "2025-03-30 23:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png?quality=60&auto=webp&format=pjpg",
+            "home": "Athletic Bilbao",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NqdsiG8yecUZjhG0HtEWx.png?quality=60&auto=webp&format=pjpg",
+            "away": "Osasuna",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        },
+        {
+            "tanggal": "2025-03-30 19:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/k381qUJLDDi7yOlG3js9r.png?quality=60&auto=webp&format=pjpg",
+            "home": "Preston North End",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgf3Tx9R3nphdWIS9SgyB.png?quality=60&auto=webp&format=pjpg",
+            "away": "Aston Villa",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        },
+        {
+            "tanggal": "2025-03-30 22:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FS7UO4BdZPMJrL5MlqxyL.png?quality=60&auto=webp&format=pjpg",
+            "home": "AFC Bournemouth",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png?quality=60&auto=webp&format=pjpg",
+            "away": "Manchester City",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        }
+    ]
+}

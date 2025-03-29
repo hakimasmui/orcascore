@@ -10,8 +10,14 @@
             "away": "Real Valladolid",
             "results": {
                 "result": "Home -1 Goals",
-                "goals": "Under 3 Goals"
-            }
+                "goals": "Under 3 Goals",
+                "result_predict": [
+                    true,
+                    true
+                ]
+            },
+            "skorHome": 2,
+            "skorAway": 1
         },
         {
             "tanggal": "2025-03-29 22:15",
@@ -21,8 +27,14 @@
             "away": "Atletico Madrid",
             "results": {
                 "result": "Away -0.5 Goals",
-                "goals": "Over 2 Goals"
-            }
+                "goals": "Over 2 Goals",
+                "result_predict": [
+                    false,
+                    true
+                ]
+            },
+            "skorHome": 1,
+            "skorAway": 1
         },
         {
             "tanggal": "2025-03-29 02:30",
@@ -49,8 +61,14 @@
             "away": "St. Pauli",
             "results": {
                 "result": "Away +2.5 Goals",
-                "goals": "Under 3.5 Goals"
-            }
+                "goals": "Under 3.5 Goals",
+                "result_predict": [
+                    true,
+                    false
+                ]
+            },
+            "skorHome": 3,
+            "skorAway": 2
         },
         {
             "tanggal": "2025-03-29 02:45",

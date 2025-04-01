@@ -10,8 +10,14 @@
             "away": "Fulham",
             "results": {
                 "result": "Home -1 Goals",
-                "goals": "Over 2.25 Goals"
-            }
+                "goals": "Over 2.25 Goals",
+                "result_predict": [
+                    true,
+                    true
+                ]
+            },
+            "skorHome": 2,
+            "skorAway": 1
         },
         {
             "tanggal": "2025-04-02 01:45",
@@ -21,8 +27,14 @@
             "away": "West Ham United",
             "results": {
                 "result": "Away +0.5 Goals",
-                "goals": "Under 2.5 Goals"
-            }
+                "goals": "Under 2.5 Goals",
+                "result_predict": [
+                    false,
+                    true
+                ]
+            },
+            "skorHome": 1,
+            "skorAway": 0
         },
         {
             "tanggal": "2025-04-02 02:00",
@@ -32,8 +44,14 @@
             "away": "Manchester United",
             "results": {
                 "result": "Home -0.75 Goals",
-                "goals": "Over 2 Goals"
-            }
+                "goals": "Over 2 Goals",
+                "result_predict": [
+                    true,
+                    false
+                ]
+            },
+            "skorHome": 1,
+            "skorAway": 0
         },
         {
             "tanggal": "2025-04-02 02:30",
@@ -43,8 +61,14 @@
             "away": "Real Sociedad",
             "results": {
                 "result": "Away +1.5 Goals",
-                "goals": "Over 2.5 Goals"
-            }
+                "goals": "Over 2.5 Goals",
+                "result_predict": [
+                    true,
+                    true
+                ]
+            },
+            "skorHome": 3,
+            "skorAway": 4
         },
         {
             "tanggal": "2025-04-02 01:45",
@@ -54,8 +78,14 @@
             "away": "Bayer Leverkusen",
             "results": {
                 "result": "Away -1.5 Goals",
-                "goals": "Over 2.75 Goals"
-            }
+                "goals": "Over 2.75 Goals",
+                "result_predict": [
+                    false,
+                    true
+                ]
+            },
+            "skorHome": 2,
+            "skorAway": 1
         },
         {
             "tanggal": "2025-04-02 02:10",
@@ -65,8 +95,14 @@
             "away": "Paris Saint-Germain",
             "results": {
                 "result": "Away -2.25 Goals",
-                "goals": "Over 3.25 Goals"
-            }
+                "goals": "Over 3.25 Goals",
+                "result_predict": [
+                    false,
+                    true
+                ]
+            },
+            "skorHome": 2,
+            "skorAway": 4
         }
     ]
 }

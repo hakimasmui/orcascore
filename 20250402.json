@@ -1,0 +1,72 @@
+{
+    "status": 200,
+    "message": "SUCCESS",
+    "data": [
+        {
+            "tanggal": "2025-04-02 01:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png?quality=60&auto=webp&format=pjpg",
+            "home": "Arsenal",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LX9q9cnrBN2TnIu8byLFT.png?quality=60&auto=webp&format=pjpg",
+            "away": "Fulham",
+            "results": {
+                "result": "Home -1 Goals",
+                "goals": "Over 2.25 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-02 01:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q8LuXPdOIsqKGDbg8rjSp.png?quality=60&auto=webp&format=pjpg",
+            "home": "Wolverhampton Wanderers",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CCygH4qVdQFkGTvjHdtDp.png?quality=60&auto=webp&format=pjpg",
+            "away": "West Ham United",
+            "results": {
+                "result": "Away +0.5 Goals",
+                "goals": "Under 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-02 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png?quality=60&auto=webp&format=pjpg",
+            "home": "Nottingham Forest",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png?quality=60&auto=webp&format=pjpg",
+            "away": "Manchester United",
+            "results": {
+                "result": "Home -0.75 Goals",
+                "goals": "Over 2 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-02 02:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png?quality=60&auto=webp&format=pjpg",
+            "home": "Real Madrid",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N79j9O-sTkXZNhc9UZUsX.png?quality=60&auto=webp&format=pjpg",
+            "away": "Real Sociedad",
+            "results": {
+                "result": "Away +1.5 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-02 01:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/cbm_oTGdsgyQirFw5UBAz.png?quality=60&auto=webp&format=pjpg",
+            "home": "Arminia Bielefeld",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jEUaq-mmqK2hKxbzCjsUh.png?quality=60&auto=webp&format=pjpg",
+            "away": "Bayer Leverkusen",
+            "results": {
+                "result": "Away -1.5 Goals",
+                "goals": "Over 2.75 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-02 02:10",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WgPGABs79PPcPVik_nOes.png?quality=60&auto=webp&format=pjpg",
+            "home": "Dunkerque",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png?quality=60&auto=webp&format=pjpg",
+            "away": "Paris Saint-Germain",
+            "results": {
+                "result": "Away -2.25 Goals",
+                "goals": "Over 3.25 Goals"
+            }
+        }
+    ]
+}

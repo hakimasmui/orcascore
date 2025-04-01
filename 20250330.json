@@ -10,8 +10,14 @@
             "away": "Genoa",
             "results": {
                 "result": "Away +1.5 Goals",
-                "goals": "Over 1.75 Goals"
-            }
+                "goals": "Over 1.75 Goals",
+                "result_predict": [
+                    true,
+                    true
+                ]
+            },
+            "skorHome": 1,
+            "skorAway": 0
         },
         {
             "tanggal": "2025-03-30 02:45",
@@ -21,8 +27,14 @@
             "away": "Roma",
             "results": {
                 "result": "Away -0.5 Goals",
-                "goals": "Over 1.75 Goals"
-            }
+                "goals": "Over 1.75 Goals",
+                "result_predict": [
+                    true,
+                    false
+                ]
+            },
+            "skorHome": 0,
+            "skorAway": 1
         },
         {
             "tanggal": "2025-03-30 20:00",
@@ -32,8 +44,14 @@
             "away": "Atalanta",
             "results": {
                 "result": "Home +0.5 Goals",
-                "goals": "Over 2.25 Goals"
-            }
+                "goals": "Over 2.25 Goals",
+                "result_predict": [
+                    true,
+                    false
+                ]
+            },
+            "skorHome": 1,
+            "skorAway": 0
         },
         {
             "tanggal": "2025-03-30 23:00",
@@ -43,8 +61,14 @@
             "away": "Udinese",
             "results": {
                 "result": "Home -1 Goals",
-                "goals": "Over 2.25 Goals"
-            }
+                "goals": "Over 2.25 Goals",
+                "result_predict": [
+                    true,
+                    true
+                ]
+            },
+            "skorHome": 2,
+            "skorAway": 1
         },
         {
             "tanggal": "2025-03-30 03:00",
@@ -54,8 +78,14 @@
             "away": "Leganes",
             "results": {
                 "result": "Home -2 Goals",
-                "goals": "Over 3 Goals"
-            }
+                "goals": "Over 3 Goals",
+                "result_predict": [
+                    false,
+                    true
+                ]
+            },
+            "skorHome": 3,
+            "skorAway": 2
         },
         {
             "tanggal": "2025-03-30 21:15",
@@ -65,8 +95,14 @@
             "away": "Girona",
             "results": {
                 "result": "Home -1.5 Goals",
-                "goals": "Under 4 Goals"
-            }
+                "goals": "Under 4 Goals",
+                "result_predict": [
+                    true,
+                    false
+                ]
+            },
+            "skorHome": 4,
+            "skorAway": 1
         },
         {
             "tanggal": "2025-03-30 23:30",
@@ -76,8 +112,14 @@
             "away": "Osasuna",
             "results": {
                 "result": "Home -1 Goals",
-                "goals": "Over 2 Goals"
-            }
+                "goals": "Over 2 Goals",
+                "result_predict": [
+                    false,
+                    false
+                ]
+            },
+            "skorHome": 0,
+            "skorAway": 0
         },
         {
             "tanggal": "2025-03-30 19:30",
@@ -87,8 +129,14 @@
             "away": "Aston Villa",
             "results": {
                 "result": "Away -1 Goals",
-                "goals": "Under 3 Goals"
-            }
+                "goals": "Under 3 Goals",
+                "result_predict": [
+                    true,
+                    true
+                ]
+            },
+            "skorHome": 0,
+            "skorAway": 3
         },
         {
             "tanggal": "2025-03-30 22:30",
@@ -98,8 +146,14 @@
             "away": "Manchester City",
             "results": {
                 "result": "Away -0.5 Goals",
-                "goals": "Over 3 Goals"
-            }
+                "goals": "Over 3 Goals",
+                "result_predict": [
+                    true,
+                    true
+                ]
+            },
+            "skorHome": 1,
+            "skorAway": 2
         }
     ]
 }

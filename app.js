@@ -23,11 +23,12 @@ const champions = "International - Champions League"
 const europaleague = "International - Europa League"
 
 function checkPrediction(predict, goal) {
+    const goalPredict = predict.match(/(Over|Under) ([+-]?\d+(\.\d+)?) Goals/);
     if (predict.toLowerCase().includes("over")) {
-        const threshold = parseFloat(predict.match(/\d+/)[0]); // Extract number from string
+        const threshold = parseFloat(goalPredict[2]); // Extract number from string
         return goal >= threshold;
     } else if (predict.toLowerCase().includes("under")) {
-        const threshold = parseFloat(predict.match(/\d+/)[0]); // Extract number from string
+        const threshold = parseFloat(goalPredict[2]); // Extract number from string
         return goal <= threshold;
     }
     return false; // Default case if the format is not recognized

@@ -4,25 +4,37 @@
     "data": [
         {
             "tanggal": "2025-04-03 01:45",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FS7UO4BdZPMJrL5MlqxyL.png?quality=60&auto=webp&format=pjpg",
-            "home": "AFC Bournemouth",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zrA_YgKgSHz-G7qbhWYG-.png?quality=60&auto=webp&format=pjpg",
-            "away": "Ipswich Town",
-            "results": {
-                "result": "Away +2 Goals",
-                "goals": "Over 2.5 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-04-03 01:45",
             "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png?quality=60&auto=webp&format=pjpg",
             "home": "Manchester City",
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vuqH4gZ-voBw0W7kmlw61.png?quality=60&auto=webp&format=pjpg",
             "away": "Leicester City",
             "results": {
                 "result": "Away +2.5 Goals",
-                "goals": "Under 3.5 Goals"
-            }
+                "goals": "Under 3.5 Goals",
+                "result_predict": [
+                    true,
+                    true
+                ]
+            },
+            "skorHome": 2,
+            "skorAway": 0
+        },
+        {
+            "tanggal": "2025-04-03 01:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FS7UO4BdZPMJrL5MlqxyL.png?quality=60&auto=webp&format=pjpg",
+            "home": "AFC Bournemouth",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zrA_YgKgSHz-G7qbhWYG-.png?quality=60&auto=webp&format=pjpg",
+            "away": "Ipswich Town",
+            "results": {
+                "result": "Away +2 Goals",
+                "goals": "Over 2.5 Goals",
+                "result_predict": [
+                    true,
+                    true
+                ]
+            },
+            "skorHome": 1,
+            "skorAway": 2
         },
         {
             "tanggal": "2025-04-03 01:45",
@@ -32,8 +44,14 @@
             "away": "Aston Villa",
             "results": {
                 "result": "Away +0.5 Goals",
-                "goals": "Over 2.25 Goals"
-            }
+                "goals": "Over 2.25 Goals",
+                "result_predict": [
+                    true,
+                    true
+                ]
+            },
+            "skorHome": 0,
+            "skorAway": 3
         },
         {
             "tanggal": "2025-04-03 02:00",
@@ -43,8 +61,14 @@
             "away": "Everton",
             "results": {
                 "result": "Home -1 Goals",
-                "goals": "Over 2 Goals"
-            }
+                "goals": "Over 2 Goals",
+                "result_predict": [
+                    true,
+                    false
+                ]
+            },
+            "skorHome": 1,
+            "skorAway": 0
         },
         {
             "tanggal": "2025-04-03 02:00",
@@ -54,8 +78,14 @@
             "away": "Inter",
             "results": {
                 "result": "Away -0.5 Goals",
-                "goals": "Over 2.5 Goals"
-            }
+                "goals": "Over 2.5 Goals",
+                "result_predict": [
+                    false,
+                    false
+                ]
+            },
+            "skorHome": 1,
+            "skorAway": 1
         },
         {
             "tanggal": "2025-04-03 02:30",
@@ -65,8 +95,14 @@
             "away": "Barcelona",
             "results": {
                 "result": "Away -0.5 Goals",
-                "goals": "Over 2.5 Goals"
-            }
+                "goals": "Over 2.5 Goals",
+                "result_predict": [
+                    true,
+                    false
+                ]
+            },
+            "skorHome": 0,
+            "skorAway": 1
         }
     ]
 }

@@ -9,8 +9,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zrA_YgKgSHz-G7qbhWYG-.png?quality=60&auto=webp&format=pjpg",
             "away": "Ipswich Town",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Away +2 Goals",
+                "goals": "Over 2.5 Goals"
             }
         },
         {
@@ -53,8 +53,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QMLrilrNtKpq2UmCOH9FK.png?quality=60&auto=webp&format=pjpg",
             "away": "Inter",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Away -0.5 Goals",
+                "goals": "Over 2.5 Goals"
             }
         },
         {
@@ -64,7 +64,7 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png?quality=60&auto=webp&format=pjpg",
             "away": "Barcelona",
             "results": {
-                "result": "Coming Soon",
+                "result": "Away -0.5 Goals",
                 "goals": "Cooming Soon"
             }
         }

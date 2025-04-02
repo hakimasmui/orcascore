@@ -20,8 +20,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vuqH4gZ-voBw0W7kmlw61.png?quality=60&auto=webp&format=pjpg",
             "away": "Leicester City",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Away +2.5 Goals",
+                "goals": "Under 3.5 Goals"
             }
         },
         {
@@ -31,8 +31,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgf3Tx9R3nphdWIS9SgyB.png?quality=60&auto=webp&format=pjpg",
             "away": "Aston Villa",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Away +0.5 Goals",
+                "goals": "Over 2.25 Goals"
             }
         },
         {
@@ -42,8 +42,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png?quality=60&auto=webp&format=pjpg",
             "away": "Everton",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Over 2 Goals",
+                "goals": "Home -1 Goals"
             }
         },
         {
@@ -65,7 +65,7 @@
             "away": "Barcelona",
             "results": {
                 "result": "Away -0.5 Goals",
-                "goals": "Cooming Soon"
+                "goals": "Over 2.5 Goals"
             }
         }
     ]

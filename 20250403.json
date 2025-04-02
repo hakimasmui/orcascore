@@ -1,0 +1,72 @@
+{
+    "status": 200,
+    "message": "SUCCESS",
+    "data": [
+        {
+            "tanggal": "2025-04-03 01:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FS7UO4BdZPMJrL5MlqxyL.png?quality=60&auto=webp&format=pjpg",
+            "home": "AFC Bournemouth",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zrA_YgKgSHz-G7qbhWYG-.png?quality=60&auto=webp&format=pjpg",
+            "away": "Ipswich Town",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        },
+        {
+            "tanggal": "2025-04-03 01:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png?quality=60&auto=webp&format=pjpg",
+            "home": "Manchester City",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vuqH4gZ-voBw0W7kmlw61.png?quality=60&auto=webp&format=pjpg",
+            "away": "Leicester City",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        },
+        {
+            "tanggal": "2025-04-03 01:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png?quality=60&auto=webp&format=pjpg",
+            "home": "Brighton & Hove Albion",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgf3Tx9R3nphdWIS9SgyB.png?quality=60&auto=webp&format=pjpg",
+            "away": "Aston Villa",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        },
+        {
+            "tanggal": "2025-04-03 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png?quality=60&auto=webp&format=pjpg",
+            "home": "Liverpool",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png?quality=60&auto=webp&format=pjpg",
+            "away": "Everton",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        },
+        {
+            "tanggal": "2025-04-03 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KxcpyOfGuTCkPqCgyf-Rr.png?quality=60&auto=webp&format=pjpg",
+            "home": "AC Milan",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QMLrilrNtKpq2UmCOH9FK.png?quality=60&auto=webp&format=pjpg",
+            "away": "Inter",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        },
+        {
+            "tanggal": "2025-04-03 02:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png?quality=60&auto=webp&format=pjpg",
+            "home": "Atletico Madrid",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png?quality=60&auto=webp&format=pjpg",
+            "away": "Barcelona",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        }
+    ]
+}

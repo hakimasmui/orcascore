@@ -13,6 +13,8 @@ const liverpool = "Liverpool"
 const napoli = "SSC Napoli"
 const barcelona = "Barcelona"
 const atm = "Atletico Madrid"
+const psg = "Paris Saint-Germain"
+const leverkusen = "Bayer Leverkusen"
 
 const inggris = "Inggris Raya - Premier League"
 const germany = "Jerman - Bundesliga"
@@ -55,7 +57,7 @@ function checkGoalPrediction(predict, homeScore, awayScore) {
 }
 
 (async () => {
-    const url = "https://www.goal.com/id/jadwal/2025-04-03";
+    const url = "https://www.goal.com/id/jadwal/2025-04-05";
     const tanggal_match = url.match(/(\d{4}-\d{2}-\d{2})/);
     const filename = tanggal_match[0].replaceAll("-", "")+".json";
     const url_call = "https://hakimasmui.github.io/orcascore/"+filename
@@ -109,8 +111,8 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
     // const teams = [bayern, atm, "Real Sociedad", "Bayer Leverkusen", "Lyon", "Fenerbahce"];
     // const league = [spanyol, france, germany, "Turki - Super Lig"];
 
-    const teams = [liverpool, "AFC Bournemouth", mancity, "Aston Villa", barcelona, "Inter"];
-    const league = [inggris, "Italia - Coppa Italia", "Spanyol - Copa del Rey"];
+    const teams = [arsenal, "AFC Bournemouth", "Crystal Palace", "Aston Villa", "Ipswich Town", realmadrid, bayern, psg];
+    const league = [inggris, spanyol, france, germany];
     let items = [];
     let tanggal;
     if (tanggal_match)

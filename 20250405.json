@@ -1,0 +1,94 @@
+{
+    "status": 200,
+    "message": "SUCCESS",
+    "data": [
+      {
+        "tanggal": "2025-04-05 18:30",
+        "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png?quality=60&auto=webp&format=pjpg",
+        "home": "Everton",
+        "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png?quality=60&auto=webp&format=pjpg",
+        "away": "Arsenal",
+        "results": {
+          "result": "Away -0.5 Goals",
+          "goals": "Over 2 Goals"
+        }
+      },
+      {
+        "tanggal": "2025-04-05 21:00",
+        "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fkqJeAhCc1RGGGO8bTZwl.png?quality=60&auto=webp&format=pjpg",
+        "home": "Crystal Palace",
+        "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png?quality=60&auto=webp&format=pjpg",
+        "away": "Brighton & Hove Albion",
+        "results": {
+          "result": "Away +0.5 Goals",
+          "goals": "Under 3 Goals"
+        }
+      },
+      {
+        "tanggal": "2025-04-05 21:00",
+        "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zrA_YgKgSHz-G7qbhWYG-.png?quality=60&auto=webp&format=pjpg",
+        "home": "Ipswich Town",
+        "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q8LuXPdOIsqKGDbg8rjSp.png?quality=60&auto=webp&format=pjpg",
+        "away": "Wolverhampton Wanderers",
+        "results": {
+          "result": "Home +0.5 Goals",
+          "goals": "Over 2 Goals"
+        }
+      },
+      {
+        "tanggal": "2025-04-05 21:00",
+        "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CCygH4qVdQFkGTvjHdtDp.png?quality=60&auto=webp&format=pjpg",
+        "home": "West Ham United",
+        "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FS7UO4BdZPMJrL5MlqxyL.png?quality=60&auto=webp&format=pjpg",
+        "away": "AFC Bournemouth",
+        "results": {
+          "result": "Home +0.5 Goals",
+          "goals": "Under 3 Goals"
+        }
+      },
+      {
+        "tanggal": "2025-04-05 23:30",
+        "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgf3Tx9R3nphdWIS9SgyB.png?quality=60&auto=webp&format=pjpg",
+        "home": "Aston Villa",
+        "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png?quality=60&auto=webp&format=pjpg",
+        "away": "Nottingham Forest",
+        "results": {
+          "result": "Home -0.5 Goals",
+          "goals": "Over 2.5 Goals"
+        }
+      },
+      {
+        "tanggal": "2025-04-05 21:15",
+        "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png?quality=60&auto=webp&format=pjpg",
+        "home": "Real Madrid",
+        "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GBjhrfqF1SgdL1HLfI-7z.png?quality=60&auto=webp&format=pjpg",
+        "away": "Valencia",
+        "results": {
+          "result": "Home -1.25 Goals",
+          "goals": "Under 3.5 Goal"
+        }
+      },
+      {
+        "tanggal": "2025-04-05 01:30",
+        "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Cym9JdkRpXALz4AJUjd8e.png?quality=60&auto=webp&format=pjpg",
+        "home": "Augsburg",
+        "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png?quality=60&auto=webp&format=pjpg",
+        "away": "Bayern Munich",
+        "results": {
+          "result": "Home +1.5 Goals",
+          "goals": "Under 3.25 Goals"
+        }
+      },
+      {
+        "tanggal": "2025-04-05 22:00",
+        "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png?quality=60&auto=webp&format=pjpg",
+        "home": "Paris Saint-Germain",
+        "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Nh7HldKX3w-GmQDDadcOs.png?quality=60&auto=webp&format=pjpg",
+        "away": "Angers",
+        "results": {
+          "result": "Away +2.75 Goals",
+          "goals": "Under 4 Goals"
+        }
+      }
+    ]
+  }

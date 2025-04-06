@@ -1,0 +1,61 @@
+{
+    "status": 200,
+    "message": "SUCCESS",
+    "data": [
+        {
+            "tanggal": "2025-04-06 20:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LX9q9cnrBN2TnIu8byLFT.png?quality=60&auto=webp&format=pjpg",
+            "home": "Fulham",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png?quality=60&auto=webp&format=pjpg",
+            "away": "Liverpool",
+            "results": {
+                "result": "Away -0.5 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-06 22:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png?quality=60&auto=webp&format=pjpg",
+            "home": "Manchester United",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png?quality=60&auto=webp&format=pjpg",
+            "away": "Manchester City",
+            "results": {
+                "result": "Home +0.5 Goals",
+                "goals": "Under 3 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-06 19:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9gcZ5s5iuZKzzi6G4y3il.png?quality=60&auto=webp&format=pjpg",
+            "home": "Las Palmas",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N79j9O-sTkXZNhc9UZUsX.png?quality=60&auto=webp&format=pjpg",
+            "away": "Real Sociedad",
+            "results": {
+                "result": "Away -0.5 Goals",
+                "goals": "Over 1.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-06 23:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/B2lSkOIDu7ljZZ0EuRhTY.png?quality=60&auto=webp&format=pjpg",
+            "home": "Real Valladolid",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xsRs2Zwslz_cx1dUGc-En.png?quality=60&auto=webp&format=pjpg",
+            "away": "Getafe",
+            "results": {
+                "result": "Away -0.5 Goals",
+                "goals": "Over 1.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-06 21:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gT0cjvNWnaeXbw9eViQyn.png?quality=60&auto=webp&format=pjpg",
+            "home": "Ajax",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/kQbkVhTiL3n_daqFA896-.png?quality=60&auto=webp&format=pjpg",
+            "away": "NAC Breda",
+            "results": {
+                "result": "Home -1.5 Goals",
+                "goals": "Over 3 Goals"
+            }
+        }
+    ]
+}

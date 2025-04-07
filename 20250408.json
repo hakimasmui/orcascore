@@ -1,0 +1,50 @@
+{
+    "status": 200,
+    "message": "SUCCESS",
+    "data": [
+        {
+            "tanggal": "2025-04-08 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vuqH4gZ-voBw0W7kmlw61.png?quality=60&auto=webp&format=pjpg",
+            "home": "Leicester City",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png?quality=60&auto=webp&format=pjpg",
+            "away": "Newcastle United",
+            "results": {
+                "result": "Away -1 Goals",
+                "goals": "Under 3 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-08 01:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ue61qrq497L21-51zjmpa.png?quality=60&auto=webp&format=pjpg",
+            "home": "Bologna",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x75Vbta4xvwPdr1KaFHs1.png?quality=60&auto=webp&format=pjpg",
+            "away": "SSC Napoli",
+            "results": {
+                "result": "Away -0.5 Goals",
+                "goals": "Over 2 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-08 00:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/T8YSRch6QA1KRfMbRsEKn.png?quality=60&auto=webp&format=pjpg",
+            "home": "Kasimpasa",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WKE2EIP1R7rmdG3E5wVFf.png?quality=60&auto=webp&format=pjpg",
+            "away": "Besiktas",
+            "results": {
+                "result": "Away -0.5 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-08 02:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d-wYwIuJ2WUNcTmmMHWCH.png?quality=60&auto=webp&format=pjpg",
+            "home": "Sporting CP",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c_TRfqNJy9JxbIixew4NW.png?quality=60&auto=webp&format=pjpg",
+            "away": "Braga",
+            "results": {
+                "result": "Away +1.5 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        }
+    ]
+}

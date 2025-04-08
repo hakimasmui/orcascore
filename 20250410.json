@@ -1,0 +1,50 @@
+{
+    "status": 200,
+    "message": "SUCCESS",
+    "data": [
+        {
+            "tanggal": "2025-04-10 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png?quality=60&auto=webp&format=pjpg",
+            "home": "Barcelona",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EmDXkZ5B61SrXUUTUPV3X.png?quality=60&auto=webp&format=pjpg",
+            "away": "Borussia Dortmund",
+            "results": {
+                "result": "Home -1.5 Goals",
+                "goals": "Over 3 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-10 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png?quality=60&auto=webp&format=pjpg",
+            "home": "Paris Saint-Germain",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgf3Tx9R3nphdWIS9SgyB.png?quality=60&auto=webp&format=pjpg",
+            "away": "Aston Villa",
+            "results": {
+                "result": "Away +1.5 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-10 23:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zjkWCnFAxFmiPJF2siIgb.png?quality=60&auto=webp&format=pjpg",
+            "home": "Bodoe/Glimt",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xcc8juLCbw-DaA7wqr_ug.png?quality=60&auto=webp&format=pjpg",
+            "away": "Lazio",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        },
+        {
+            "tanggal": "2025-04-10 23:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yVGJ8asozW_uJQWrj6m_U.png?quality=60&auto=webp&format=pjpg",
+            "home": "Legia Warszawa",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png?quality=60&auto=webp&format=pjpg",
+            "away": "Chelsea",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        }
+    ]
+}

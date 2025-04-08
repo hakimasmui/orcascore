@@ -1,0 +1,39 @@
+{
+    "status": 200,
+    "message": "SUCCESS",
+    "data": [
+        {
+            "tanggal": "2025-04-09 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png?quality=60&auto=webp&format=pjpg",
+            "home": "Bayern Munich",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QMLrilrNtKpq2UmCOH9FK.png?quality=60&auto=webp&format=pjpg",
+            "away": "Inter",
+            "results": {
+                "result": "Away +1 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-09 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png?quality=60&auto=webp&format=pjpg",
+            "home": "Arsenal",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png?quality=60&auto=webp&format=pjpg",
+            "away": "Real Madrid",
+            "results": {
+                "result": "Away +0.5 Goals",
+                "goals": "Over 2 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-09 01:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/suz80crpy3anixyzccmu6jzp.png?quality=60&auto=webp&format=pjpg",
+            "home": "Norwich City",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hRMDFkwiIhvjfGNfMkNk_.png?quality=60&auto=webp&format=pjpg",
+            "away": "Sunderland",
+            "results": {
+                "result": "Home +0.25 Goals",
+                "goals": "Under 3 Goals"
+            }
+        }
+    ]
+}

@@ -31,8 +31,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xcc8juLCbw-DaA7wqr_ug.png?quality=60&auto=webp&format=pjpg",
             "away": "Lazio",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Home +0.5 Goals",
+                "goals": "Over 2.5 Goals"
             }
         },
         {
@@ -42,8 +42,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png?quality=60&auto=webp&format=pjpg",
             "away": "Chelsea",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Away -0.75 Goals",
+                "goals": "Over 2.5 Goals"
             }
         }
     ]

@@ -1,0 +1,61 @@
+{
+    "status": 200,
+    "message": "SUCCESS",
+    "data": [
+        {
+            "tanggal": "2025-04-11 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png?quality=60&auto=webp&format=pjpg",
+            "home": "Tottenham Hotspur",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2Myurk0GUKAA2rF21Tx4Z.png?quality=60&auto=webp&format=pjpg",
+            "away": "Eintracht Frankfurt",
+            "results": {
+                "result": "Home -0.5 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-11 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BOClk20rC_9i-88SEnIsN.png?quality=60&auto=webp&format=pjpg",
+            "home": "Rangers",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png?quality=60&auto=webp&format=pjpg",
+            "away": "Athletic Bilbao",
+            "results": {
+                "result": "Home +1 Goals",
+                "goals": "Over 2 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-11 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9QuhS30De-PnujU8oknsX.png?quality=60&auto=webp&format=pjpg",
+            "home": "Lyon",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png?quality=60&auto=webp&format=pjpg",
+            "away": "Manchester United",
+            "results": {
+                "result": "Home +0.5 Goals",
+                "goals": "Under 3 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-11 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CObIiq7v0CI9-6h-6rvHO.png?quality=60&auto=webp&format=pjpg",
+            "home": "NK Celje",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/t1NUqOfCHjrNAW4ME5SEF.png?quality=60&auto=webp&format=pjpg",
+            "away": "Fiorentina",
+            "results": {
+                "result": "Away -0.5 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-11 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gezsEknLaMwmk3X3Zcc76.png?quality=60&auto=webp&format=pjpg",
+            "home": "Real Betis",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/sUgnbwMe4NBm6MYSThEbA.png?quality=60&auto=webp&format=pjpg",
+            "away": "Jagiellonia Bialystok",
+            "results": {
+                "result": "Home -1 Goals",
+                "goals": "Under 3.5 Goals"
+            }
+        }
+    ]
+}

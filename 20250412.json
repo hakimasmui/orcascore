@@ -1,0 +1,83 @@
+{
+    "status": 200,
+    "message": "SUCCESS",
+    "data": [
+        {
+            "tanggal": "2025-04-12 18:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png?quality=60&auto=webp&format=pjpg",
+            "home": "Manchester City",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fkqJeAhCc1RGGGO8bTZwl.png?quality=60&auto=webp&format=pjpg",
+            "away": "Crystal Palace",
+            "results": {
+                "result": "Home -0.5 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-12 21:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png?quality=60&auto=webp&format=pjpg",
+            "home": "Nottingham Forest",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KpdwLlfU5HTu0Xg7fXxof.png?quality=60&auto=webp&format=pjpg",
+            "away": "Everton",
+            "results": {
+                "result": "Home -0.5 Goals",
+                "goals": "Under 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-12 21:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png?quality=60&auto=webp&format=pjpg",
+            "home": "Brighton & Hove Albion",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vuqH4gZ-voBw0W7kmlw61.png?quality=60&auto=webp&format=pjpg",
+            "away": "Leicester City",
+            "results": {
+                "result": "Away +2 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-12 23:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png?quality=60&auto=webp&format=pjpg",
+            "home": "Arsenal",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zIuTQ00RiiL1vS9A2Uhv8.png?quality=60&auto=webp&format=pjpg",
+            "away": "Brentford",
+            "results": {
+                "result": "Home -0.5 Goals",
+                "goals": "Under 3 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-12 19:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N79j9O-sTkXZNhc9UZUsX.png?quality=60&auto=webp&format=pjpg",
+            "home": "Real Sociedad",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bE7wfVD_uxZOlicMBWmmX.png?quality=60&auto=webp&format=pjpg",
+            "away": "Mallorca",
+            "results": {
+                "result": "Home -0.5 Goals",
+                "goals": "Under 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-12 21:15",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xsRs2Zwslz_cx1dUGc-En.png?quality=60&auto=webp&format=pjpg",
+            "home": "Getafe",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9gcZ5s5iuZKzzi6G4y3il.png?quality=60&auto=webp&format=pjpg",
+            "away": "Las Palmas",
+            "results": {
+                "result": "Home -0.5 Goals",
+                "goals": "Over 2 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-12 00:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YHGMtRQEKOKPtSvmVXnHu.png?quality=60&auto=webp&format=pjpg",
+            "home": "Samsunspor",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3-2NYgRA5dm1M_VdeXR4q.png?quality=60&auto=webp&format=pjpg",
+            "away": "Galatasaray",
+            "results": {
+                "result": "Home +1 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        }
+    ]
+}

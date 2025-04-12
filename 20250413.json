@@ -1,0 +1,83 @@
+{
+    "status": 200,
+    "message": "SUCCESS",
+    "data": [
+        {
+            "tanggal": "2025-04-13 20:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png?quality=60&auto=webp&format=pjpg",
+            "home": "Liverpool",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CCygH4qVdQFkGTvjHdtDp.png?quality=60&auto=webp&format=pjpg",
+            "away": "West Ham United",
+            "results": {
+                "result": "Home -1.5 Goals",
+                "goals": "Over 2.75 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-13 20:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png?quality=60&auto=webp&format=pjpg",
+            "home": "Chelsea",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zrA_YgKgSHz-G7qbhWYG-.png?quality=60&auto=webp&format=pjpg",
+            "away": "Ipswich Town",
+            "results": {
+                "result": "Home -1 Goals",
+                "goals": "Under 3.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-13 22:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png?quality=60&auto=webp&format=pjpg",
+            "home": "Newcastle United",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png?quality=60&auto=webp&format=pjpg",
+            "away": "Manchester United",
+            "results": {
+                "result": "Home -0.5 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-13 01:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/G0ZJNLeWxBVFsy39V4-XY.png?quality=60&auto=webp&format=pjpg",
+            "home": "Juventus",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FortpjcOBbyc2NwqWde0n.png?quality=60&auto=webp&format=pjpg",
+            "away": "Lecce",
+            "results": {
+                "result": "Home -1 Goals",
+                "goals": "Over 2 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-13 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/M08qKmv8nkpWySvrmWozr.png?quality=60&auto=webp&format=pjpg",
+            "home": "Leganes",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png?quality=60&auto=webp&format=pjpg",
+            "away": "Barcelona",
+            "results": {
+                "result": "Home -1.5 Goals",
+                "goals": "Over 3 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-13 21:15",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dqC3XtzsGeXe3c53Qqrn-.png?quality=60&auto=webp&format=pjpg",
+            "home": "Deportivo Alaves",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png?quality=60&auto=webp&format=pjpg",
+            "away": "Real Madrid",
+            "results": {
+                "result": "Away -0.5 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-13 23:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gezsEknLaMwmk3X3Zcc76.png?quality=60&auto=webp&format=pjpg",
+            "home": "Real Betis",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wq9oBgwBzFNsQIFp7begY.png?quality=60&auto=webp&format=pjpg",
+            "away": "Villarreal",
+            "results": {
+                "result": "Home -0.5 Goals",
+                "goals": "Under Over 2.5 Goals"
+            }
+        }
+    ]
+}

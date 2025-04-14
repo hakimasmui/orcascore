@@ -1,0 +1,39 @@
+{
+    "status": 200,
+    "message": "SUCCESS",
+    "data": [
+        {
+            "tanggal": "2025-04-15 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FS7UO4BdZPMJrL5MlqxyL.png?quality=60&auto=webp&format=pjpg",
+            "home": "AFC Bournemouth",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LX9q9cnrBN2TnIu8byLFT.png?quality=60&auto=webp&format=pjpg",
+            "away": "Fulham",
+            "results": {
+                "result": "Home 0 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-15 01:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x75Vbta4xvwPdr1KaFHs1.png?quality=60&auto=webp&format=pjpg",
+            "home": "SSC Napoli",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/omIb6iUB7y_NfKcClHupI.png?quality=60&auto=webp&format=pjpg",
+            "away": "Empoli",
+            "results": {
+                "result": "Away +1.5 Goals",
+                "goals": "Over 2 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-15 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png?quality=60&auto=webp&format=pjpg",
+            "home": "Atletico Madrid",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/B2lSkOIDu7ljZZ0EuRhTY.png?quality=60&auto=webp&format=pjpg",
+            "away": "Real Valladolid",
+            "results": {
+                "result": "Home -1.5 Goals",
+                "goals": "Over 3 Goals"
+            }
+        }
+    ]
+}

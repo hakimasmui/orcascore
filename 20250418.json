@@ -1,0 +1,39 @@
+{
+    "status": 200,
+    "message": "SUCCESS",
+    "data": [
+        {
+            "tanggal": "2025-04-18 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png?quality=60&auto=webp&format=pjpg",
+            "home": "Manchester United",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9QuhS30De-PnujU8oknsX.png?quality=60&auto=webp&format=pjpg",
+            "away": "Lyon",
+            "results": {
+                "result": "Away +0.5 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-18 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xcc8juLCbw-DaA7wqr_ug.png?quality=60&auto=webp&format=pjpg",
+            "home": "Lazio",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zjkWCnFAxFmiPJF2siIgb.png?quality=60&auto=webp&format=pjpg",
+            "away": "Bodoe/Glimt",
+            "results": {
+                "result": "Home -0.5 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-04-18 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png?quality=60&auto=webp&format=pjpg",
+            "home": "Chelsea",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yVGJ8asozW_uJQWrj6m_U.png?quality=60&auto=webp&format=pjpg",
+            "away": "Legia Warszawa",
+            "results": {
+                "result": "Away +2 Goals",
+                "goals": "Over 3 Goals"
+            }
+        }
+    ]
+}

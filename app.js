@@ -57,7 +57,7 @@ function checkGoalPrediction(predict, homeScore, awayScore) {
 }
 
 (async () => {
-    const url = "https://www.goal.com/id/jadwal/2025-07-29";
+    const url = "https://www.goal.com/id/jadwal/2025-07-30";
     const tanggal_match = url.match(/(\d{4}-\d{2}-\d{2})/);
     const filename = tanggal_match[0].replaceAll("-", "")+".json";
     const url_call = "https://hakimasmui.github.io/orcascore/"+filename
@@ -111,8 +111,8 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
     // const teams = [bayern, atm, "Real Sociedad", "Bayer Leverkusen", "Lyon", "Fenerbahce"];
     // const league = [spanyol, france, germany, "Turki - Super Lig"];
 
-    const teams = ["PK Keski-Uusimaa", "KuPS", "Iberia 1999", "Petrich"];
-    const league = ["Finlandia - Ykkonen", "International - Champions League Qualification", "International - Conference League Qualification", "Bulgaria - Second Professional League"];
+    const teams = ["Olimpija Ljubljana", "Dynamo Kiev", "Drita"];
+    const league = ["International - Champions League Qualification", "International - Conference League Qualification"];
     let items = [];
     let tanggal;
     if (tanggal_match)

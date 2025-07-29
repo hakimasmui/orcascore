@@ -1,0 +1,39 @@
+{
+    "status": 200,
+    "message": "SUCCESS",
+    "data": [
+        {
+            "tanggal": "2025-07-30 01:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4s3LkG2XTJVd9wtgo1xNZ.png?quality=60&auto=webp&format=pjpg",
+            "home": "Dynamo Kiev",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ome2McdofVRaxp6_opPzV.png?quality=60&auto=webp&format=pjpg",
+            "away": "Hamrun Spartans",
+            "results": {
+                "result": "Away + 2.25 Goals",
+                "goals": "Under 3 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-07-30 01:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/irm0GyqQEmkkYVEf4OBbp.png?quality=60&auto=webp&format=pjpg",
+            "home": "Drita",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/6fI5Od-fvYeXN0W0P6Y6t.png?quality=60&auto=webp&format=pjpg",
+            "away": "FC Koebenhavn",
+            "results": {
+                "result": "Home +1.5 Goals",
+                "goals": "Under 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-07-30 01:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7g-JOrkWiKNMZB-ya2RtA.png?quality=60&auto=webp&format=pjpg",
+            "home": "Inter Club d'Escaldes",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/wASatV9lGwFMF13ccEG2B.png?quality=60&auto=webp&format=pjpg",
+            "away": "Olimpija Ljubljana",
+            "results": {
+                "result": "Home +0.5 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        }
+    ]
+}

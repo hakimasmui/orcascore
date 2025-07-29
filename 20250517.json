@@ -1,0 +1,50 @@
+{
+    "status": 200,
+    "message": "SUCCESS",
+    "data": [
+        {
+            "tanggal": "2025-05-17 15:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lqpm8IOdK-4BxYJ6xaXlp.png?quality=60&auto=webp&format=pjpg",
+            "home": "Barito Putera",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xs2bqAIxaneDe-P7ad5uw.png?quality=60&auto=webp&format=pjpg",
+            "away": "PSM Makassar",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        },
+        {
+            "tanggal": "2025-05-17 15:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YDALgn0tHpjWJ4bcytBGD.png?quality=60&auto=webp&format=pjpg",
+            "home": "Bali United FC",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/R2f_xIV6EzVsWKyqAhPFH.png?quality=60&auto=webp&format=pjpg",
+            "away": "Madura United",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        },
+        {
+            "tanggal": "2025-05-17 19:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ucqNyF3y96yQ-557lsuWh.png?quality=60&auto=webp&format=pjpg",
+            "home": "Persis Solo",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eFw3XGC53qHQisBPhxe8-.png?quality=60&auto=webp&format=pjpg",
+            "away": "Dewa United FC",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        },
+        {
+            "tanggal": "2025-05-17 19:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Jpa9a0FQy2qwtIvoKsKGT.png?quality=60&auto=webp&format=pjpg",
+            "home": "PSS Sleman",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NObtNV_RsrgXzaf_x9jtP.png?quality=60&auto=webp&format=pjpg",
+            "away": "Persija Jakarta",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        }
+    ]
+}

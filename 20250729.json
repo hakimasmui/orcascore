@@ -1,0 +1,50 @@
+{
+    "status": 200,
+    "message": "SUCCESS",
+    "data": [
+        {
+            "tanggal": "2025-07-29 16:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KiX3F-hjbJr1p5C0Z0FJS.png?quality=60&auto=webp&format=pjpg",
+            "home": "Western United FC",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2k_QAa8ZIjldmLtaupI62.png?quality=60&auto=webp&format=pjpg",
+            "away": "Sydney FC",
+            "results": {
+                "result": "Home 0 Goals",
+                "goals": "Under 3.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-07-29 22:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JTNQMpyQZGomW89wr6wTc.png?quality=60&auto=webp&format=pjpg",
+            "home": "MP",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x3fnxshueaNmfRZSaD0Yo.png?quality=60&auto=webp&format=pjpg",
+            "away": "PK Keski-Uusimaa",
+            "results": {
+                "result": "Away +0.5 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-07-29 22:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XaZrX3ZI3Iu0WLjh7oq0K.png?quality=60&auto=webp&format=pjpg",
+            "home": "Kairat Almaty",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DBu9rTSBxnYXIdCYQYfF1.png?quality=60&auto=webp&format=pjpg",
+            "away": "KuPS",
+            "results": {
+                "result": "Home -0.75 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-07-29 23:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d-RKCzCghp4MaIkp3TmMZ.png?quality=60&auto=webp&format=pjpg",
+            "home": "Iberia 1999",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Hgi40JZD-OOyNLVxfRli8.png?quality=60&auto=webp&format=pjpg",
+            "away": "FCI Levadia",
+            "results": {
+                "result": "Away +1 Goals",
+                "goals": "Under 2.75 Goals"
+            }
+        }
+    ]
+}

@@ -57,7 +57,7 @@ function checkGoalPrediction(predict, homeScore, awayScore) {
 }
 
 (async () => {
-    const url = "https://www.goal.com/id/jadwal/2025-09-11";
+    const url = "https://www.goal.com/id/jadwal/2025-09-12";
     const tanggal_match = url.match(/(\d{4}-\d{2}-\d{2})/);
     // const filename = tanggal_match[0].replaceAll("-", "")+".json";
     const filename = "matches.json";
@@ -112,8 +112,8 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
     // const teams = [bayern, atm, "Real Sociedad", "Bayer Leverkusen", "Lyon", "Fenerbahce"];
     // const league = [spanyol, france, germany, "Turki - Super Lig"];
 
-    const teams = ["KuPS", "Bahia", "Corinthians"];
-    const league = ["Brasil - Cup", "Finlandia - Cup"];
+    const teams = ["Belgrano", "Cruzeiro", "Botafogo RJ"];
+    const league = ["Brasil - Cup", "Argentina - Liga Profesional"];
     let items = [];
     let tanggal;
     if (tanggal_match)
@@ -143,7 +143,7 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
                         let jam = await page.evaluate(el => el.querySelector("div > a.fco-match-start-date > time").textContent, schedule)
                         jam = jam.replace(".", ":")
 
-                        if (jsonArray.length == 0) {
+                        // if (jsonArray.length == 0) {
                             items.push({
                                 "tanggal": tanggal+" "+jam,
                                 "imgHome": img_home,
@@ -155,13 +155,13 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
                                     "goals": "Cooming Soon"
                                 }
                             })
-                        } else {
-                            jsonArray.forEach(match => {
-                                if (home == match.home && away == match.away) {
-                                    items.push(match)
-                                }
-                            });
-                        }
+                        // } else {
+                        //     jsonArray.forEach(match => {
+                        //         if (home == match.home && away == match.away) {
+                        //             items.push(match)
+                        //         }
+                        //     });
+                        // }
                     } else {
                         console.log(home, "pertandingan selesai")
                         const homeScore = parseFloat(scoreHome)

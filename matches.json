@@ -3,36 +3,36 @@
     "message": "SUCCESS",
     "data": [
         {
-            "tanggal": "2025-09-11 05:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Xof2xYwDp4l1fU1M_e49y.png?quality=60&auto=webp&format=pjpg",
-            "home": "Fluminense",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2ZJGqtoPY74A4FMTRQ5Fv.png?quality=60&auto=webp&format=pjpg",
-            "away": "Bahia",
+            "tanggal": "2025-09-12 06:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/RwWtqdCGDe0nNnz_4zeGm.png?quality=60&auto=webp&format=pjpg",
+            "home": "Belgrano",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KDXTJob_R3W97LZITlCPF.png?quality=60&auto=webp&format=pjpg",
+            "away": "San Martin San Juan",
             "results": {
-                "result": "Home -0.25 Goals",
-                "goals": "Under 2 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-09-11 07:30",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aC3QFCDDoGC1G4lzbv80F.png?quality=60&auto=webp&format=pjpg",
-            "home": "Corinthians",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/_ysbFRFCUhzqu30gXfxQY.png?quality=60&auto=webp&format=pjpg",
-            "away": "Athletico Paranaense",
-            "results": {
-                "result": "Home -0.5 Goals",
+                "result": "Away +0.75 Goals",
                 "goals": "Over 2 Goals"
             }
         },
         {
-            "tanggal": "2025-09-11 00:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DBu9rTSBxnYXIdCYQYfF1.png?quality=60&auto=webp&format=pjpg",
-            "home": "KuPS",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Ha8b9hVfmZzdDV0e_Jh-I.png?quality=60&auto=webp&format=pjpg",
-            "away": "FF Jaro",
+            "tanggal": "2025-09-12 05:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XWpoDYSatQQBJ3RFATK1V.png?quality=60&auto=webp&format=pjpg",
+            "home": "Cruzeiro",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/mRbtsCbZQbsbLhMUPOyDS.png?quality=60&auto=webp&format=pjpg",
+            "away": "Atletico MG",
             "results": {
-                "result": "Home -0.5 Goals",
-                "goals": "Under 3 Goals"
+                "result": "Home -0.25 Goals",
+                "goals": "Under 2.25 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-09-12 07:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/83rA2GDR3PO9XgAR7fR0z.png?quality=60&auto=webp&format=pjpg",
+            "home": "Botafogo RJ",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rABsR4ZUisVmPavdXcbMK.png?quality=60&auto=webp&format=pjpg",
+            "away": "Vasco da Gama",
+            "results": {
+                "result": "Over 2 Goals",
+                "goals": "Home -0.5 Goals"
             }
         }
     ]

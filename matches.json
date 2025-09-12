@@ -47,17 +47,6 @@
             }
         },
         {
-            "tanggal": "2025-09-12 18:35",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NNlFz4b-Ciw8glrGfqMLd.png?quality=60&auto=webp&format=pjpg",
-            "home": "Chengdu Rongcheng FC",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jN0BsSRB-4WAQ7kWips98.png?quality=60&auto=webp&format=pjpg",
-            "away": "Changchun Yatai",
-            "results": {
-                "result": "Home -1 Goals",
-                "goals": "Under 3.5 Goals"
-            }
-        },
-        {
             "tanggal": "2025-09-12 22:30",
             "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Rblq20eyKVf8W4TWBJHTk.png?quality=60&auto=webp&format=pjpg",
             "home": "PK-35",
@@ -77,6 +66,17 @@
             "results": {
                 "result": "Home -1 Goals",
                 "goals": "Over 3 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-09-12 19:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VPPjqwp97kVEQWwZY2Fro.png?quality=60&auto=webp&format=pjpg",
+            "home": "Shanghai Shenhua",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vQhLQCJxT-kQIxhbN06Wy.png?quality=60&auto=webp&format=pjpg",
+            "away": "Shandong Taishan",
+            "results": {
+                "result": "Away +1.5 Goals",
+                "goals": "Under 3.5 Goals"
             }
         }
     ]

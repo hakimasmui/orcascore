@@ -112,8 +112,8 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
     // const teams = [bayern, atm, "Real Sociedad", "Bayer Leverkusen", "Lyon", "Fenerbahce"];
     // const league = [spanyol, france, germany, "Turki - Super Lig"];
 
-    const teams = ["PK-35", "EIF", "Shanghai Port","Chengdu Rongcheng FC"];
-    const league = ["Finlandia - Ykkosliiga", "Tiongkok - Super League"];
+    const teams = ["Shanghai Shenhua"];
+    const league = ["Tiongkok - Super League"];
     let items = [];
     let tanggal;
     if (tanggal_match)

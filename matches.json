@@ -34,17 +34,6 @@
                 "result": "Over 2 Goals",
                 "goals": "Home -0.5 Goals"
             }
-        },
-        {
-            "tanggal": "2025-09-11 07:30",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/83rA2GDR3PO9XgAR7fR0z.png?quality=60&auto=webp&format=pjpg",
-            "home": "Botafogo RJ",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rABsR4ZUisVmPavdXcbMK.png?quality=60&auto=webp&format=pjpg",
-            "away": "Vasco da Gama",
-            "results": {
-                "result": "Over 2 Goals",
-                "goals": "Home -0.5 Goals"
-            }
         }
     ]
 }

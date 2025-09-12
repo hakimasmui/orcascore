@@ -112,8 +112,8 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
     // const teams = [bayern, atm, "Real Sociedad", "Bayer Leverkusen", "Lyon", "Fenerbahce"];
     // const league = [spanyol, france, germany, "Turki - Super Lig"];
 
-    const teams = ["Belgrano", "Cruzeiro", "Botafogo RJ"];
-    const league = ["Brasil - Cup", "Argentina - Liga Profesional"];
+    const teams = ["PK-35", "EIF", "Shanghai Port","Chengdu Rongcheng FC"];
+    const league = ["Finlandia - Ykkosliiga", "Tiongkok - Super League"];
     let items = [];
     let tanggal;
     if (tanggal_match)
@@ -157,28 +157,38 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
                             })
                         // } else {
                         //     jsonArray.forEach(match => {
-                        //         if (home == match.home && away == match.away) {
+                        //         if (home != match.home && away != match.away) {
                         //             items.push(match)
                         //         }
                         //     });
                         // }
-                    } else {
-                        console.log(home, "pertandingan selesai")
-                        const homeScore = parseFloat(scoreHome)
-                        const awayScore = parseFloat(scoreAway)
-    
-                        jsonArray.forEach(match => {
-                            if (home == match.home && away == match.away) {
-                                const isCorrect = checkGoalPrediction(match.results.result, homeScore, awayScore);
-                                const isOverUnder = checkPrediction(match.results.goals, homeScore+awayScore)
-                                
-                                match.results.result_predict = [isCorrect, isOverUnder];
-                                match.skorHome = homeScore;
-                                match.skorAway = awayScore;
-                                items.push(match)
-                            }
-                        });
                     }
+                    //else {
+                    //     console.log(home, "pertandingan selesai")
+                    //     const homeScore = parseFloat(scoreHome)
+                    //     const awayScore = parseFloat(scoreAway)
+    
+                    //     for (const match of jsonArray) {
+                    //         if (home === match.home && away === match.away) {
+                    //             // await di dalam loop ini bisa berjalan dengan benar
+                    //             const ft = await page.evaluate(() => {
+                    //                 const target = document.querySelector('#__next > div > div.skin_skin__ms7xR.component-skin > div.base_layout__os2ZJ.component-layout > main > section > section > div:nth-child(9) > div.fco-competition-section__body > div > div:nth-child(1) > div > a.fco-match-state');
+                    //                 return target ? target.textContent : null;
+                    //             });
+                    //             console.log(ft);
+
+                    //             const isCorrect = checkGoalPrediction(match.results.result, homeScore, awayScore);
+                    //             const isOverUnder = checkPrediction(match.results.goals, homeScore + awayScore);
+
+                    //             match.results.result_predict = [isCorrect, isOverUnder];
+                    //             match.skorHome = homeScore;
+                    //             match.skorAway = awayScore;
+
+                    //             // kalau mau push ke items, bisa dilakukan di sini
+                    //             // items.push(match);
+                    //         }
+                    //     }
+                    // }
                 }
 
                 if (items.length >= teams.length)
@@ -190,13 +200,19 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
             break;
     }
 
+    let allItems = jsonArray.concat(items);
+
+    if (allItems.length > 12) {
+        items.splice(0, 3); // Hapus 3 item paling atas
+    }
+
     let result = {
         "status": 200,
         "message": "SUCCESS",
-        "data": items
+        "data": allItems
     }
 
-    if (items.length > 0) {
+    if (allItems.length > 0) {
         fs.writeFile(filename, JSON.stringify(result, null, 4), function (err) {
             if (err) throw err;
             console.log('Saved!');

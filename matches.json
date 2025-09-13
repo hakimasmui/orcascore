@@ -3,39 +3,6 @@
     "message": "SUCCESS",
     "data": [
         {
-            "tanggal": "2025-09-12 06:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/RwWtqdCGDe0nNnz_4zeGm.png?quality=60&auto=webp&format=pjpg",
-            "home": "Belgrano",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KDXTJob_R3W97LZITlCPF.png?quality=60&auto=webp&format=pjpg",
-            "away": "San Martin San Juan",
-            "results": {
-                "result": "Away +0.75 Goals",
-                "goals": "Over 2 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-09-12 05:30",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XWpoDYSatQQBJ3RFATK1V.png?quality=60&auto=webp&format=pjpg",
-            "home": "Cruzeiro",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/mRbtsCbZQbsbLhMUPOyDS.png?quality=60&auto=webp&format=pjpg",
-            "away": "Atletico MG",
-            "results": {
-                "result": "Home -0.25 Goals",
-                "goals": "Under 2.25 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-09-12 07:30",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/83rA2GDR3PO9XgAR7fR0z.png?quality=60&auto=webp&format=pjpg",
-            "home": "Botafogo RJ",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/rABsR4ZUisVmPavdXcbMK.png?quality=60&auto=webp&format=pjpg",
-            "away": "Vasco da Gama",
-            "results": {
-                "result": "Over 2 Goals",
-                "goals": "Home -0.5 Goals"
-            }
-        },
-        {
             "tanggal": "2025-09-12 17:00",
             "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/95Ay1jnZjl_m6ALm36JvY.png?quality=60&auto=webp&format=pjpg",
             "home": "Shanghai Port",
@@ -120,6 +87,39 @@
             "away": "Real Madrid",
             "results": {
                 "result": "Away -0.5 Goals",
+                "goals": "Under 3 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-09-14 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zIuTQ00RiiL1vS9A2Uhv8.png?quality=60&auto=webp&format=pjpg",
+            "home": "Brentford",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png?quality=60&auto=webp&format=pjpg",
+            "away": "Chelsea",
+            "results": {
+                "result": "Home +1.25 Goals",
+                "goals": "Under 3 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-09-14 01:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/t1NUqOfCHjrNAW4ME5SEF.png?quality=60&auto=webp&format=pjpg",
+            "home": "Fiorentina",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/x75Vbta4xvwPdr1KaFHs1.png?quality=60&auto=webp&format=pjpg",
+            "away": "SSC Napoli",
+            "results": {
+                "result": "Away +0.25 Goals",
+                "goals": "Under 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-09-14 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png?quality=60&auto=webp&format=pjpg",
+            "home": "Atletico Madrid",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wq9oBgwBzFNsQIFp7begY.png?quality=60&auto=webp&format=pjpg",
+            "away": "Villarreal",
+            "results": {
+                "result": "Away +1.5 Goals",
                 "goals": "Under 3 Goals"
             }
         }

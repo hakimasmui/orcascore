@@ -57,7 +57,7 @@ function checkGoalPrediction(predict, homeScore, awayScore) {
 }
 
 (async () => {
-    const url = "https://www.goal.com/id/jadwal/2025-09-13";
+    const url = "https://www.goal.com/id/jadwal/2025-09-14";
     const tanggal_match = url.match(/(\d{4}-\d{2}-\d{2})/);
     // const filename = tanggal_match[0].replaceAll("-", "")+".json";
     const filename = "matches.json";
@@ -110,8 +110,8 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
     }); 
     await page.waitForSelector("div.fco-competition-section");
 
-    const teams = ["Arsenal", "AFC Bournemouth", "Fulham", "Real Madrid"];
-    const league = ["Inggris Raya - Premier League", "Spanyol - LaLiga"];
+    const teams = ["Chelsea", "SSC Napoli", "Atletico Madrid"];
+    const league = ["Inggris Raya - Premier League",  "Spanyol - LaLiga", "Italia - Serie A"];
     let items = [];
     let tanggal;
     if (tanggal_match)
@@ -201,7 +201,7 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
     let allItems = jsonArray.concat(items);
 
     if (allItems.length > 12) {
-        items.splice(0, 3); // Hapus 3 item paling atas
+        allItems.splice(0, 3); // Hapus 3 item paling atas
     }
 
     let result = {

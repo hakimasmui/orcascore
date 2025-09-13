@@ -57,7 +57,7 @@ function checkGoalPrediction(predict, homeScore, awayScore) {
 }
 
 (async () => {
-    const url = "https://www.goal.com/id/jadwal/2025-09-12";
+    const url = "https://www.goal.com/id/jadwal/2025-09-13";
     const tanggal_match = url.match(/(\d{4}-\d{2}-\d{2})/);
     // const filename = tanggal_match[0].replaceAll("-", "")+".json";
     const filename = "matches.json";
@@ -109,11 +109,9 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
         } 
     }); 
     await page.waitForSelector("div.fco-competition-section");
-    // const teams = [bayern, atm, "Real Sociedad", "Bayer Leverkusen", "Lyon", "Fenerbahce"];
-    // const league = [spanyol, france, germany, "Turki - Super Lig"];
 
-    const teams = ["Shanghai Shenhua"];
-    const league = ["Tiongkok - Super League"];
+    const teams = ["Arsenal", "AFC Bournemouth", "Fulham", "Real Madrid"];
+    const league = ["Inggris Raya - Premier League", "Spanyol - LaLiga"];
     let items = [];
     let tanggal;
     if (tanggal_match)

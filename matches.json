@@ -78,6 +78,50 @@
                 "result": "Away +1.5 Goals",
                 "goals": "Under 3.5 Goals"
             }
+        },
+        {
+            "tanggal": "2025-09-13 18:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png?quality=60&auto=webp&format=pjpg",
+            "home": "Arsenal",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png?quality=60&auto=webp&format=pjpg",
+            "away": "Nottingham Forest",
+            "results": {
+                "result": "Home -0.5 Goals",
+                "goals": "Under 3 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-09-13 21:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FS7UO4BdZPMJrL5MlqxyL.png?quality=60&auto=webp&format=pjpg",
+            "home": "AFC Bournemouth",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png?quality=60&auto=webp&format=pjpg",
+            "away": "Brighton & Hove Albion",
+            "results": {
+                "result": "Away +1 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-09-13 21:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LX9q9cnrBN2TnIu8byLFT.png?quality=60&auto=webp&format=pjpg",
+            "home": "Fulham",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aHnEa_wImk48agGWeQmpX.png?quality=60&auto=webp&format=pjpg",
+            "away": "Leeds United",
+            "results": {
+                "result": "Home -0.25 Goals",
+                "goals": "Under 3 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-09-13 21:15",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N79j9O-sTkXZNhc9UZUsX.png?quality=60&auto=webp&format=pjpg",
+            "home": "Real Sociedad",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png?quality=60&auto=webp&format=pjpg",
+            "away": "Real Madrid",
+            "results": {
+                "result": "Away -0.5 Goals",
+                "goals": "Under 3 Goals"
+            }
         }
     ]
 }

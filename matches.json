@@ -3,39 +3,6 @@
     "message": "SUCCESS",
     "data": [
         {
-            "tanggal": "2025-09-12 19:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VPPjqwp97kVEQWwZY2Fro.png?quality=60&auto=webp&format=pjpg",
-            "home": "Shanghai Shenhua",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/vQhLQCJxT-kQIxhbN06Wy.png?quality=60&auto=webp&format=pjpg",
-            "away": "Shandong Taishan",
-            "results": {
-                "result": "Away +1.5 Goals",
-                "goals": "Under 3.5 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-09-13 18:30",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png?quality=60&auto=webp&format=pjpg",
-            "home": "Arsenal",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png?quality=60&auto=webp&format=pjpg",
-            "away": "Nottingham Forest",
-            "results": {
-                "result": "Home -0.5 Goals",
-                "goals": "Under 3 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-09-13 21:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FS7UO4BdZPMJrL5MlqxyL.png?quality=60&auto=webp&format=pjpg",
-            "home": "AFC Bournemouth",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png?quality=60&auto=webp&format=pjpg",
-            "away": "Brighton & Hove Albion",
-            "results": {
-                "result": "Away +1 Goals",
-                "goals": "Over 2.5 Goals"
-            }
-        },
-        {
             "tanggal": "2025-09-13 21:00",
             "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LX9q9cnrBN2TnIu8byLFT.png?quality=60&auto=webp&format=pjpg",
             "home": "Fulham",
@@ -119,7 +86,7 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XIDF_vywpIBsnMCyYmnLJ.png?quality=60&auto=webp&format=pjpg",
             "away": "Torino",
             "results": {
-                "result": "Home +0.75 Goals",
+                "result": "Away +0.75 Goals",
                 "goals": "Under 3 Goals"
             }
         },
@@ -132,6 +99,39 @@
             "results": {
                 "result": "Away +0.5 Goals",
                 "goals": "Under 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-09-15 01:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KxcpyOfGuTCkPqCgyf-Rr.png?quality=60&auto=webp&format=pjpg",
+            "home": "AC Milan",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ue61qrq497L21-51zjmpa.png?quality=60&auto=webp&format=pjpg",
+            "away": "Bologna",
+            "results": {
+                "result": "Away +1.25 Goals",
+                "goals": "Under 3 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-09-15 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png?quality=60&auto=webp&format=pjpg",
+            "home": "Barcelona",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/GBjhrfqF1SgdL1HLfI-7z.png?quality=60&auto=webp&format=pjpg",
+            "away": "Valencia",
+            "results": {
+                "result": "Home +0.75 Goals",
+                "goals": "Under 3.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-09-15 01:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AqqrolqK0FEQK6xmR0GM1.png?quality=60&auto=webp&format=pjpg",
+            "home": "Rennes",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9QuhS30De-PnujU8oknsX.png?quality=60&auto=webp&format=pjpg",
+            "away": "Lyon",
+            "results": {
+                "result": "Away +0.5 Goals",
+                "goals": "Under 3 Goals"
             }
         }
     ]

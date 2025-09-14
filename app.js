@@ -110,7 +110,7 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
     }); 
     await page.waitForSelector("div.fco-competition-section");
 
-    const teams = ["Chelsea", "SSC Napoli", "Atletico Madrid"];
+    const teams = ["Liverpool", "Manchester City", "Roma", "Osasuna"];
     const league = ["Inggris Raya - Premier League",  "Spanyol - LaLiga", "Italia - Serie A"];
     let items = [];
     let tanggal;

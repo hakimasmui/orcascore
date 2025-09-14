@@ -3,39 +3,6 @@
     "message": "SUCCESS",
     "data": [
         {
-            "tanggal": "2025-09-12 17:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/95Ay1jnZjl_m6ALm36JvY.png?quality=60&auto=webp&format=pjpg",
-            "home": "Shanghai Port",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/laoiO2FrEHdyV1yeC1Ked.png?quality=60&auto=webp&format=pjpg",
-            "away": "Yunnan Yukun",
-            "results": {
-                "result": "Home -1.25 Goals",
-                "goals": "Over 3.5 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-09-12 22:30",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Rblq20eyKVf8W4TWBJHTk.png?quality=60&auto=webp&format=pjpg",
-            "home": "PK-35",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/iIIEqyzNKbqf4VyMjQwAa.png?quality=60&auto=webp&format=pjpg",
-            "away": "KaePa",
-            "results": {
-                "result": "Home -0.25 Goals",
-                "goals": "Under 3.5 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-09-12 22:30",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/RhpL6ERBAzTEXOuG-fjNu.png?quality=60&auto=webp&format=pjpg",
-            "home": "EIF",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/PbxmmkC9FYYnM9omXPzK8.png?quality=60&auto=webp&format=pjpg",
-            "away": "SalPa",
-            "results": {
-                "result": "Home -1 Goals",
-                "goals": "Over 3 Goals"
-            }
-        },
-        {
             "tanggal": "2025-09-12 19:00",
             "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VPPjqwp97kVEQWwZY2Fro.png?quality=60&auto=webp&format=pjpg",
             "home": "Shanghai Shenhua",
@@ -121,6 +88,50 @@
             "results": {
                 "result": "Away +1.5 Goals",
                 "goals": "Under 3 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-09-14 20:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JZgdxK1yXzWOwWXY1ZeAL.png?quality=60&auto=webp&format=pjpg",
+            "home": "Burnley",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png?quality=60&auto=webp&format=pjpg",
+            "away": "Liverpool",
+            "results": {
+                "result": "Away -1.25",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-09-14 22:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png?quality=60&auto=webp&format=pjpg",
+            "home": "Manchester City",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png?quality=60&auto=webp&format=pjpg",
+            "away": "Manchester United",
+            "results": {
+                "result": "Home -0.25 Goals",
+                "goals": "Under 3.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-09-14 17:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fqxU8GBeoLw0gLDZvhELq.png?quality=60&auto=webp&format=pjpg",
+            "home": "Roma",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XIDF_vywpIBsnMCyYmnLJ.png?quality=60&auto=webp&format=pjpg",
+            "away": "Torino",
+            "results": {
+                "result": "Home +0.75 Goals",
+                "goals": "Under 3 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-09-14 23:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NqdsiG8yecUZjhG0HtEWx.png?quality=60&auto=webp&format=pjpg",
+            "home": "Osasuna",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ac0Y7wzVbv4IwqRAt0tX_.png?quality=60&auto=webp&format=pjpg",
+            "away": "Rayo Vallecano",
+            "results": {
+                "result": "Away +0.5 Goals",
+                "goals": "Under 2.5 Goals"
             }
         }
     ]

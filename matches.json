@@ -122,6 +122,17 @@
                 "result": "Away +0.75 Goals",
                 "goals": "Under 2.5 Goals"
             }
+        },
+        {
+            "tanggal": "2025-09-15 23:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/MNrOpq2eSb9bZqK3gwP2J.png?quality=60&auto=webp&format=pjpg",
+            "home": "Hellas Verona",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FnmfMzvcu_32_RynNiPom.png?quality=60&auto=webp&format=pjpg",
+            "away": "Cremonese",
+            "results": {
+                "result": "Over 1.5 Goals",
+                "goals": "Away +0.25 Goals"
+            }
         }
     ]
 }

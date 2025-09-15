@@ -3,39 +3,6 @@
     "message": "SUCCESS",
     "data": [
         {
-            "tanggal": "2025-09-13 21:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/LX9q9cnrBN2TnIu8byLFT.png?quality=60&auto=webp&format=pjpg",
-            "home": "Fulham",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aHnEa_wImk48agGWeQmpX.png?quality=60&auto=webp&format=pjpg",
-            "away": "Leeds United",
-            "results": {
-                "result": "Home -0.25 Goals",
-                "goals": "Under 3 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-09-13 21:15",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/N79j9O-sTkXZNhc9UZUsX.png?quality=60&auto=webp&format=pjpg",
-            "home": "Real Sociedad",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png?quality=60&auto=webp&format=pjpg",
-            "away": "Real Madrid",
-            "results": {
-                "result": "Away -0.5 Goals",
-                "goals": "Under 3 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-09-14 02:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zIuTQ00RiiL1vS9A2Uhv8.png?quality=60&auto=webp&format=pjpg",
-            "home": "Brentford",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png?quality=60&auto=webp&format=pjpg",
-            "away": "Chelsea",
-            "results": {
-                "result": "Home +1.25 Goals",
-                "goals": "Under 3 Goals"
-            }
-        },
-        {
             "tanggal": "2025-09-14 01:45",
             "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/t1NUqOfCHjrNAW4ME5SEF.png?quality=60&auto=webp&format=pjpg",
             "home": "Fiorentina",
@@ -132,6 +99,28 @@
             "results": {
                 "result": "Away +0.5 Goals",
                 "goals": "Under 3 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-09-16 01:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3rB5oJN66n2Qa0XbuR9v8.png?quality=60&auto=webp&format=pjpg",
+            "home": "Como",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yIbz25l-fwQ0NWKqBReam.png?quality=60&auto=webp&format=pjpg",
+            "away": "Genoa",
+            "results": {
+                "result": "Home -0.5 Goals",
+                "goals": "Under 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-09-16 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yXPQ9R0js1ZPr5Od9cch8.png?quality=60&auto=webp&format=pjpg",
+            "home": "Espanyol",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bE7wfVD_uxZOlicMBWmmX.png?quality=60&auto=webp&format=pjpg",
+            "away": "Mallorca",
+            "results": {
+                "result": "Away +0.75 Goals",
+                "goals": "Under 2.5 Goals"
             }
         }
     ]

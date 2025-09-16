@@ -108,8 +108,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png?quality=60&auto=webp&format=pjpg",
             "away": "Arsenal",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Away -0.25 Goals",
+                "goals": "Under 2.5 Goals"
             }
         },
         {
@@ -119,8 +119,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/swuQPffgW_FFniV2Zvl3j.png?quality=60&auto=webp&format=pjpg",
             "away": "Union St.Gilloise",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Home +0.25 Goals",
+                "goals": "Over 2.5 Goals"
             }
         }
     ]

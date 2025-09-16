@@ -3,39 +3,6 @@
     "message": "SUCCESS",
     "data": [
         {
-            "tanggal": "2025-09-14 22:30",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png?quality=60&auto=webp&format=pjpg",
-            "home": "Manchester City",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png?quality=60&auto=webp&format=pjpg",
-            "away": "Manchester United",
-            "results": {
-                "result": "Home -0.25 Goals",
-                "goals": "Under 3.5 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-09-14 17:30",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fqxU8GBeoLw0gLDZvhELq.png?quality=60&auto=webp&format=pjpg",
-            "home": "Roma",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/XIDF_vywpIBsnMCyYmnLJ.png?quality=60&auto=webp&format=pjpg",
-            "away": "Torino",
-            "results": {
-                "result": "Away +0.75 Goals",
-                "goals": "Under 3 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-09-14 23:30",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NqdsiG8yecUZjhG0HtEWx.png?quality=60&auto=webp&format=pjpg",
-            "home": "Osasuna",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ac0Y7wzVbv4IwqRAt0tX_.png?quality=60&auto=webp&format=pjpg",
-            "away": "Rayo Vallecano",
-            "results": {
-                "result": "Away +0.5 Goals",
-                "goals": "Under 2.5 Goals"
-            }
-        },
-        {
             "tanggal": "2025-09-15 01:45",
             "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KxcpyOfGuTCkPqCgyf-Rr.png?quality=60&auto=webp&format=pjpg",
             "home": "AC Milan",
@@ -121,6 +88,50 @@
             "results": {
                 "result": "Home +0.25 Goals",
                 "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-09-17 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png?quality=60&auto=webp&format=pjpg",
+            "home": "Real Madrid",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TfCYJcvUxclSXllxaoiBQ.png?quality=60&auto=webp&format=pjpg",
+            "away": "Marseille",
+            "results": {
+                "result": "Away +2 Goals",
+                "goals": "Under 3.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-09-17 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/G0ZJNLeWxBVFsy39V4-XY.png?quality=60&auto=webp&format=pjpg",
+            "home": "Juventus",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EmDXkZ5B61SrXUUTUPV3X.png?quality=60&auto=webp&format=pjpg",
+            "away": "Borussia Dortmund",
+            "results": {
+                "result": "Away +1.5 Goals",
+                "goals": "Under 3.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-09-17 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IBJQ65NUuPelqy4EDtW64.png?quality=60&auto=webp&format=pjpg",
+            "home": "Benfica",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/30vZK0Os1U2vIIkadPZre.png?quality=60&auto=webp&format=pjpg",
+            "away": "Qarabag FK",
+            "results": {
+                "result": "Home -1.5 Goals",
+                "goals": "Under 3.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-09-17 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png?quality=60&auto=webp&format=pjpg",
+            "home": "Tottenham Hotspur",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wq9oBgwBzFNsQIFp7begY.png?quality=60&auto=webp&format=pjpg",
+            "away": "Villarreal",
+            "results": {
+                "result": "Away +1.5 Goals",
+                "goals": "Over 2.25 Goals"
             }
         }
     ]

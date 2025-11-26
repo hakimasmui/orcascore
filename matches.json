@@ -248,8 +248,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5SVrOmKwWwrCXabwbS8LR.png?quality=60&auto=webp&format=pjpg",
             "away": "Atalanta",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Home +0.5 Goals",
+                "goals": "Over 2.5 Goals"
             }
         },
         {
@@ -259,8 +259,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dz7iJVaQ-OmykCM9NpxQV.png?quality=60&auto=webp&format=pjpg",
             "away": "PSV Eindhoven",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Home -1 Goals",
+                "goals": "Over 3.5 Goals"
             }
         },
         {
@@ -270,8 +270,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png?quality=60&auto=webp&format=pjpg",
             "away": "Real Madrid",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Away -0.25 Goals",
+                "goals": "Under 3.5 Goals"
             }
         },
         {
@@ -292,8 +292,8 @@
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/P7IMTnd7DyvKabTxDNOdQ.png?quality=60&auto=webp&format=pjpg",
             "away": "Club Brugge",
             "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
+                "result": "Home -0.75 Goals",
+                "goals": "Over 2.5 Goals"
             }
         }
     ]

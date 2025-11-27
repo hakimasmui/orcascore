@@ -4,39 +4,6 @@
     "data": [
         {
             "tanggal": "2025-09-18 02:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png?quality=60&auto=webp&format=pjpg",
-            "home": "Liverpool",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png?quality=60&auto=webp&format=pjpg",
-            "away": "Atletico Madrid",
-            "results": {
-                "result": "Home -0.75 Goals",
-                "goals": "Under 3 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-09-18 02:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png?quality=60&auto=webp&format=pjpg",
-            "home": "Bayern Munich",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png?quality=60&auto=webp&format=pjpg",
-            "away": "Chelsea",
-            "results": {
-                "result": "Home -0.5 Goals",
-                "goals": "Over 2.5 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-09-18 02:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ekYAK9HhpnfV1PbrNKteT.png?quality=60&auto=webp&format=pjpg",
-            "home": "Ajax",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QMLrilrNtKpq2UmCOH9FK.png?quality=60&auto=webp&format=pjpg",
-            "away": "Inter",
-            "results": {
-                "result": "Away -0.25 Goals",
-                "goals": "Over 2.25 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-09-18 02:00",
             "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png?quality=60&auto=webp&format=pjpg",
             "home": "Paris Saint-Germain",
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5SVrOmKwWwrCXabwbS8LR.png?quality=60&auto=webp&format=pjpg",
@@ -261,6 +228,83 @@
             "results": {
                 "result": "Home -0.75 Goals",
                 "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-11-28 00:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NWXbwvITfz5VDa27SauSA.png?quality=60&auto=webp&format=pjpg",
+            "home": "Viktoria Plzen",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/mmLX2coDWVHnrrt376Otc.png?quality=60&auto=webp&format=pjpg",
+            "away": "Freiburg",
+            "results": {
+                "result": "Away -0.25 Goals",
+                "goals": "Under 2.75 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-11-28 03:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ue61qrq497L21-51zjmpa.png?quality=60&auto=webp&format=pjpg",
+            "home": "Bologna",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-PWqo_lcDVwCd2-FuHu94.png?quality=60&auto=webp&format=pjpg",
+            "away": "Salzburg",
+            "results": {
+                "result": "Home +0.75 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-11-28 03:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eg77ufkN4KXIaNnVmtS3N.png?quality=60&auto=webp&format=pjpg",
+            "home": "Maccabi Tel Aviv",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9QuhS30De-PnujU8oknsX.png?quality=60&auto=webp&format=pjpg",
+            "away": "Lyon",
+            "results": {
+                "result": "Away -0.5 Goals",
+                "goals": "Under 2.75 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-11-28 03:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BOClk20rC_9i-88SEnIsN.png?quality=60&auto=webp&format=pjpg",
+            "home": "Rangers",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c_TRfqNJy9JxbIixew4NW.png?quality=60&auto=webp&format=pjpg",
+            "away": "Braga",
+            "results": {
+                "result": "Away -0.5 Goals",
+                "goals": "Under 2.75 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-11-28 00:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5q7vuByZ8XO_L7ZuEeep2.png?quality=60&auto=webp&format=pjpg",
+            "home": "FC Porto",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/29Qp98UEQtRCniX583-x2.png?quality=60&auto=webp&format=pjpg",
+            "away": "Nice",
+            "results": {
+                "result": "Home -0.75 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-11-28 00:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fqxU8GBeoLw0gLDZvhELq.png?quality=60&auto=webp&format=pjpg",
+            "home": "Roma",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TZPdiUaeB9oCU4FUh4DoO.png?quality=60&auto=webp&format=pjpg",
+            "away": "FC Midtjylland",
+            "results": {
+                "result": "Home -0.5 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-11-28 03:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png?quality=60&auto=webp&format=pjpg",
+            "home": "Nottingham Forest",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qD_jYL9TkCZ4ahqyqvouK.png?quality=60&auto=webp&format=pjpg",
+            "away": "Malmoe FF",
+            "results": {
+                "result": "Home -1.5 Goals",
+                "goals": "Under 3.5 Goals"
             }
         },
         {

@@ -3,40 +3,6 @@
     "message": "SUCCESS",
     "data": [
         {
-            "tanggal": "2025-09-18 02:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png?quality=60&auto=webp&format=pjpg",
-            "home": "Paris Saint-Germain",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5SVrOmKwWwrCXabwbS8LR.png?quality=60&auto=webp&format=pjpg",
-            "away": "Atalanta",
-            "results": {
-                "result": "Home -1 Goals",
-                "goals": "Under 3.5 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-09-18 01:15",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5w6xiC9LSqZduWsa6l7Dd.png?quality=60&auto=webp&format=pjpg",
-            "home": "Al Nassr FC",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bo8_XGdu4_OTvLjCRvJdR.png?quality=60&auto=webp&format=pjpg",
-            "away": "FC Istiklol",
-            "results": {
-                "result": "Home -2 Goals",
-                "goals": "Over 2.75 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-11-26 00:45",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ekYAK9HhpnfV1PbrNKteT.png?quality=60&auto=webp&format=pjpg",
-            "home": "Ajax",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/IBJQ65NUuPelqy4EDtW64.png?quality=60&auto=webp&format=pjpg",
-            "away": "Benfica",
-            "results": {
-                "result": "Away -0.5 Goals",
-                "goals": "Over 2.5 Goals"
-            },
-            "tips": "Over 2.5 Goals"
-        },
-        {
             "tanggal": "2025-11-26 00:45",
             "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3-2NYgRA5dm1M_VdeXR4q.png?quality=60&auto=webp&format=pjpg",
             "home": "Galatasaray",
@@ -349,6 +315,17 @@
             "results": {
                 "result": "Away -0.5 Goals",
                 "goals": "Under 2.75 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-11-28 00:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgf3Tx9R3nphdWIS9SgyB.png?quality=60&auto=webp&format=pjpg",
+            "home": "Aston Villa",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qPMtaYDeypTdTXZnCuM1F.png?quality=60&auto=webp&format=pjpg",
+            "away": "Young Boys",
+            "results": {
+                "result": "Home -1.5 Goals",
+                "goals": "Over 2.5 Goals"
             }
         }
     ]

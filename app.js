@@ -110,7 +110,7 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
     }); 
     await page.waitForSelector("div.fco-competition-section");
 
-    const teams = ["Roma", "Lille", "Nice", "Nottingham Forest","Freiburg", "Bologna", "Lyon", "Braga"];
+    const teams = ["Aston Villa"];
     const league = [europaleague];
     let items = [];
     let tanggal;

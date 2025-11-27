@@ -275,50 +275,6 @@
         },
         {
             "tanggal": "2025-11-28 00:45",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NWXbwvITfz5VDa27SauSA.png?quality=60&auto=webp&format=pjpg",
-            "home": "Viktoria Plzen",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/mmLX2coDWVHnrrt376Otc.png?quality=60&auto=webp&format=pjpg",
-            "away": "Freiburg",
-            "results": {
-                "result": "Away -0.25 Goals",
-                "goals": "Under 2.75 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-11-28 03:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ue61qrq497L21-51zjmpa.png?quality=60&auto=webp&format=pjpg",
-            "home": "Bologna",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/-PWqo_lcDVwCd2-FuHu94.png?quality=60&auto=webp&format=pjpg",
-            "away": "Salzburg",
-            "results": {
-                "result": "Home +0.75 Goals",
-                "goals": "Over 2.5 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-11-28 03:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eg77ufkN4KXIaNnVmtS3N.png?quality=60&auto=webp&format=pjpg",
-            "home": "Maccabi Tel Aviv",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/9QuhS30De-PnujU8oknsX.png?quality=60&auto=webp&format=pjpg",
-            "away": "Lyon",
-            "results": {
-                "result": "Away -0.5 Goals",
-                "goals": "Under 2.75 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-11-28 03:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BOClk20rC_9i-88SEnIsN.png?quality=60&auto=webp&format=pjpg",
-            "home": "Rangers",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c_TRfqNJy9JxbIixew4NW.png?quality=60&auto=webp&format=pjpg",
-            "away": "Braga",
-            "results": {
-                "result": "Away -0.5 Goals",
-                "goals": "Under 2.75 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-11-28 00:45",
             "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgf3Tx9R3nphdWIS9SgyB.png?quality=60&auto=webp&format=pjpg",
             "home": "Aston Villa",
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qPMtaYDeypTdTXZnCuM1F.png?quality=60&auto=webp&format=pjpg",

@@ -3,42 +3,6 @@
     "message": "SUCCESS",
     "data": [
         {
-            "tanggal": "2025-11-26 00:45",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3-2NYgRA5dm1M_VdeXR4q.png?quality=60&auto=webp&format=pjpg",
-            "home": "Galatasaray",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/swuQPffgW_FFniV2Zvl3j.png?quality=60&auto=webp&format=pjpg",
-            "away": "Union St.Gilloise",
-            "results": {
-                "result": "Home -0.5 Goals",
-                "goals": "Over 3 Goals"
-            },
-            "tips": "Home -0.5 Goals"
-        },
-        {
-            "tanggal": "2025-11-26 03:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zjkWCnFAxFmiPJF2siIgb.png?quality=60&auto=webp&format=pjpg",
-            "home": "Bodoe/Glimt",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/G0ZJNLeWxBVFsy39V4-XY.png?quality=60&auto=webp&format=pjpg",
-            "away": "Juventus",
-            "results": {
-                "result": "Home +0.75 Goals",
-                "goals": "Under 3 Goals"
-            },
-            "tips": "Both Teams To Score"
-        },
-        {
-            "tanggal": "2025-11-26 03:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/EmDXkZ5B61SrXUUTUPV3X.png?quality=60&auto=webp&format=pjpg",
-            "home": "Borussia Dortmund",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Wq9oBgwBzFNsQIFp7begY.png?quality=60&auto=webp&format=pjpg",
-            "away": "Villarreal",
-            "results": {
-                "result": "Home -0.5 Goal",
-                "goals": "Over 2.5 Goals"
-            },
-            "tips": "Over 2.5 Goals"
-        },
-        {
             "tanggal": "2025-11-26 03:00",
             "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png?quality=60&auto=webp&format=pjpg",
             "home": "Chelsea",
@@ -282,6 +246,39 @@
             "results": {
                 "result": "Home -1.5 Goals",
                 "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-11-29 02:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3rB5oJN66n2Qa0XbuR9v8.png?quality=60&auto=webp&format=pjpg",
+            "home": "Como",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4btO5zas2N3AH8Y_DRG6b.png?quality=60&auto=webp&format=pjpg",
+            "away": "Sassuolo",
+            "results": {
+                "result": "Home -0.5 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-11-29 03:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xsRs2Zwslz_cx1dUGc-En.png?quality=60&auto=webp&format=pjpg",
+            "home": "Getafe",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/At7wHXEtvayILK0zMoHM7.png?quality=60&auto=webp&format=pjpg",
+            "away": "Elche",
+            "results": {
+                "result": "Away +0.5 Goals",
+                "goals": "Over 1.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-11-29 02:30",
+            "imgHome": "/img/team-crest-placeholder.webp",
+            "home": "Borussia Moenchengladbach",
+            "imgAway": "/img/team-crest-placeholder.webp",
+            "away": "RB Leipzig",
+            "results": {
+                "result": "Away -0.25 Goals",
+                "goals": "Under  3.5 Goals"
             }
         }
     ]

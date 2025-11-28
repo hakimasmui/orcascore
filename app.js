@@ -57,7 +57,7 @@ function checkGoalPrediction(predict, homeScore, awayScore) {
 }
 
 (async () => {
-    const url = "https://www.goal.com/id/jadwal/2025-11-28";
+    const url = "https://www.goal.com/id/jadwal/2025-11-29";
     const tanggal_match = url.match(/(\d{4}-\d{2}-\d{2})/);
     // const filename = tanggal_match[0].replaceAll("-", "")+".json";
     const filename = "matches.json";
@@ -110,8 +110,8 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
     }); 
     await page.waitForSelector("div.fco-competition-section");
 
-    const teams = ["Aston Villa"];
-    const league = [europaleague];
+    const teams = ["RB Leipzig", "Getafe", "Como"];
+    const league = [italy, spanyol, germany];
     let items = [];
     let tanggal;
     if (tanggal_match)

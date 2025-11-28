@@ -110,8 +110,8 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
     }); 
     await page.waitForSelector("div.fco-competition-section");
 
-    const teams = ["RB Leipzig", "Getafe", "Como"];
-    const league = [italy, spanyol, germany];
+    const teams = ["Metz"];
+    const league = [france];
     let items = [];
     let tanggal;
     if (tanggal_match)

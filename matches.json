@@ -4,42 +4,6 @@
     "data": [
         {
             "tanggal": "2025-11-26 03:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png?quality=60&auto=webp&format=pjpg",
-            "home": "Chelsea",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/eu0z1bZDA3gqIhdn-rHli.png?quality=60&auto=webp&format=pjpg",
-            "away": "Barcelona",
-            "results": {
-                "result": "Away +0.5 Goal",
-                "goals": "Under 3.5 Goals"
-            },
-            "tips": "Away +0.5 Goal"
-        },
-        {
-            "tanggal": "2025-11-26 03:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/YaWwRy_S6TKMuwJHBvDbR.png?quality=60&auto=webp&format=pjpg",
-            "home": "Manchester City",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/jEUaq-mmqK2hKxbzCjsUh.png?quality=60&auto=webp&format=pjpg",
-            "away": "Bayer Leverkusen",
-            "results": {
-                "result": "Home -1 Goal",
-                "goals": "Under 4 Goals"
-            },
-            "tips": "Home Win"
-        },
-        {
-            "tanggal": "2025-11-26 03:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TfCYJcvUxclSXllxaoiBQ.png?quality=60&auto=webp&format=pjpg",
-            "home": "Marseille",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/1iD-fvEOrJtrHuYnqjZ2y.png?quality=60&auto=webp&format=pjpg",
-            "away": "Newcastle United",
-            "results": {
-                "result": "Coming Soon",
-                "goals": "Cooming Soon"
-            },
-            "tips": "Both Temas To Score"
-        },
-        {
-            "tanggal": "2025-11-26 03:00",
             "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VKbRDYN3uOPopTT0wEI1U.png?quality=60&auto=webp&format=pjpg",
             "home": "Slavia Praha",
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png?quality=60&auto=webp&format=pjpg",
@@ -278,7 +242,18 @@
             "away": "RB Leipzig",
             "results": {
                 "result": "Away -0.25 Goals",
-                "goals": "Under  3.5 Goals"
+                "goals": "Under 3.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-11-29 02:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ACpnqWCyZ15IqMTtxJ-qs.png?quality=60&auto=webp&format=pjpg",
+            "home": "Metz",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/AqqrolqK0FEQK6xmR0GM1.png?quality=60&auto=webp&format=pjpg",
+            "away": "Rennes",
+            "results": {
+                "result": "Away -0.25 Goal",
+                "goals": "Over 2.5 Goals"
             }
         }
     ]

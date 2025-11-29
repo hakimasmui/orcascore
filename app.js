@@ -110,8 +110,14 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
     }); 
     await page.waitForSelector("div.fco-competition-section");
 
-    const teams = ["Metz"];
-    const league = [france];
+    const teams = ["Leeds United", "Sunderland", "Brentford", psg, bayern, barcelona];
+    // brentford 
+    // Man City Home 
+    // Sunderland 
+    // PSG Away -0.75 Goals, Over 3 Goals
+    // Bayern Home -2.5 Goals, Over 3.5 Goals
+    // Barcelona Home -1.5 Goals, Under 3.75 Goals
+    const league = [inggris, france, germany, spanyol];
     let items = [];
     let tanggal;
     if (tanggal_match)

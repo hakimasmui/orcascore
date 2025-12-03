@@ -3,39 +3,6 @@
     "message": "SUCCESS",
     "data": [
         {
-            "tanggal": "2025-11-27 00:45",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TeuWqJJgWyCa6fjuxWc_F.png?quality=60&auto=webp&format=pjpg",
-            "home": "Pafos FC",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/F_zla_b5a_HE5hGvveHfz.png?quality=60&auto=webp&format=pjpg",
-            "away": "Monaco",
-            "results": {
-                "result": "Home +1.25 Goals",
-                "goals": "Under 3.5 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-11-27 03:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png?quality=60&auto=webp&format=pjpg",
-            "home": "Arsenal",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png?quality=60&auto=webp&format=pjpg",
-            "away": "Bayern Munich",
-            "results": {
-                "result": "Home -0.25 Goals",
-                "goals": "Over 2.5 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-11-27 03:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xWY4as7vKsiitaDE-lmIe.png?quality=60&auto=webp&format=pjpg",
-            "home": "Atletico Madrid",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/QMLrilrNtKpq2UmCOH9FK.png?quality=60&auto=webp&format=pjpg",
-            "away": "Inter",
-            "results": {
-                "result": "Home +0.25 Goals",
-                "goals": "Under 2.75 Goals"
-            }
-        },
-        {
             "tanggal": "2025-11-27 03:00",
             "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2Myurk0GUKAA2rF21Tx4Z.png?quality=60&auto=webp&format=pjpg",
             "home": "Eintracht Frankfurt",
@@ -286,6 +253,83 @@
             "results": {
                 "result": "Home -0.75 Goals",
                 "goals": "Over 3 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-12-04 02:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png?quality=60&auto=webp&format=pjpg",
+            "home": "Arsenal",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zIuTQ00RiiL1vS9A2Uhv8.png?quality=60&auto=webp&format=pjpg",
+            "away": "Brentford",
+            "results": {
+                "result": "Home -0.75 Goals",
+                "goals": "Under 2.75 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-12-04 02:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/WiirpxPm2UOiRN90nCKOM.png?quality=60&auto=webp&format=pjpg",
+            "home": "Brighton & Hove Albion",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgf3Tx9R3nphdWIS9SgyB.png?quality=60&auto=webp&format=pjpg",
+            "away": "Aston Villa",
+            "results": {
+                "result": "Away +1 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-12-04 02:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/JZgdxK1yXzWOwWXY1ZeAL.png?quality=60&auto=webp&format=pjpg",
+            "home": "Burnley",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fkqJeAhCc1RGGGO8bTZwl.png?quality=60&auto=webp&format=pjpg",
+            "away": "Crystal Palace",
+            "results": {
+                "result": "Away -0.25 Goals",
+                "goals": "Over 1.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-12-04 02:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q8LuXPdOIsqKGDbg8rjSp.png?quality=60&auto=webp&format=pjpg",
+            "home": "Wolverhampton Wanderers",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png?quality=60&auto=webp&format=pjpg",
+            "away": "Nottingham Forest",
+            "results": {
+                "result": "Away +0.25 Goals",
+                "goals": "Over 2 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-12-04 03:15",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aHnEa_wImk48agGWeQmpX.png?quality=60&auto=webp&format=pjpg",
+            "home": "Leeds United",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w5N6rBTPf_J_brPwrNIOG.png?quality=60&auto=webp&format=pjpg",
+            "away": "Chelsea",
+            "results": {
+                "result": "Under 3.5 Goals",
+                "goals": "Away -0.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-12-04 03:15",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png?quality=60&auto=webp&format=pjpg",
+            "home": "Liverpool",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hRMDFkwiIhvjfGNfMkNk_.png?quality=60&auto=webp&format=pjpg",
+            "away": "Sunderland",
+            "results": {
+                "result": "Away +1.75 Goals",
+                "goals": "Under 3.25 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-12-04 01:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7h4N4ZU17VQqx1GNJwuvF.png?quality=60&auto=webp&format=pjpg",
+            "home": "Athletic Bilbao",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png?quality=60&auto=webp&format=pjpg",
+            "away": "Real Madrid",
+            "results": {
+                "result": "Away -0.25 Goals",
+                "goals": "Under 3 Goals"
             }
         }
     ]

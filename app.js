@@ -57,7 +57,7 @@ function checkGoalPrediction(predict, homeScore, awayScore) {
 }
 
 (async () => {
-    const url = "https://www.goal.com/id/jadwal/2025-11-29";
+    const url = "https://www.goal.com/id/jadwal/2025-12-04";
     const tanggal_match = url.match(/(\d{4}-\d{2}-\d{2})/);
     // const filename = tanggal_match[0].replaceAll("-", "")+".json";
     const filename = "matches.json";
@@ -110,14 +110,14 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
     }); 
     await page.waitForSelector("div.fco-competition-section");
 
-    const teams = ["Leeds United", "Sunderland", "Brentford", psg, bayern, barcelona];
+    const teams = [arsenal, "Aston Villa", "Burnley", "Nottingham Forest", "Chelsea", "Sunderland", realmadrid];
     // brentford 
     // Man City Home 
     // Sunderland 
     // PSG Away -0.75 Goals, Over 3 Goals
     // Bayern Home -2.5 Goals, Over 3.5 Goals
     // Barcelona Home -1.5 Goals, Under 3.75 Goals
-    const league = [inggris, france, germany, spanyol];
+    const league = [inggris, spanyol];
     let items = [];
     let tanggal;
     if (tanggal_match)

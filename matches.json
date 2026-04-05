@@ -4,39 +4,6 @@
     "data": [
         {
             "tanggal": "2025-11-27 03:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2Myurk0GUKAA2rF21Tx4Z.png?quality=60&auto=webp&format=pjpg",
-            "home": "Eintracht Frankfurt",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5SVrOmKwWwrCXabwbS8LR.png?quality=60&auto=webp&format=pjpg",
-            "away": "Atalanta",
-            "results": {
-                "result": "Home +0.5 Goals",
-                "goals": "Over 2.5 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-11-27 03:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5pqbkK17JBIe7kMzOPSdr.png?quality=60&auto=webp&format=pjpg",
-            "home": "Liverpool",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/dz7iJVaQ-OmykCM9NpxQV.png?quality=60&auto=webp&format=pjpg",
-            "away": "PSV Eindhoven",
-            "results": {
-                "result": "Home -1 Goals",
-                "goals": "Over 3.5 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-11-27 03:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/DHe0XZ-mIjDNk0C4uCE3J.png?quality=60&auto=webp&format=pjpg",
-            "home": "Olympiakos Piraeus",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png?quality=60&auto=webp&format=pjpg",
-            "away": "Real Madrid",
-            "results": {
-                "result": "Away -0.25 Goals",
-                "goals": "Under 3.5 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-11-27 03:00",
             "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png?quality=60&auto=webp&format=pjpg",
             "home": "Paris Saint-Germain",
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png?quality=60&auto=webp&format=pjpg",
@@ -44,7 +11,8 @@
             "results": {
                 "result": "Home -0.75 Goals",
                 "goals": "Under 2.5 Goals"
-            }
+            },
+            "tips": "Over 2.5 Goals"
         },
         {
             "tanggal": "2025-11-27 03:00",
@@ -330,6 +298,94 @@
             "results": {
                 "result": "Away -0.25 Goals",
                 "goals": "Under 3 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-12-05 03:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/StOWHY8QeOZ7MplXkp2KC.png?quality=60&auto=webp&format=pjpg",
+            "home": "Manchester United",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/CCygH4qVdQFkGTvjHdtDp.png?quality=60&auto=webp&format=pjpg",
+            "away": "West Ham United",
+            "results": {
+                "result": "Home -0.25 Goals",
+                "goals": "Under 3.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-12-05 00:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ue61qrq497L21-51zjmpa.png?quality=60&auto=webp&format=pjpg",
+            "home": "Bologna",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/G_RUYD43lljirbAuQpDvc.png?quality=60&auto=webp&format=pjpg",
+            "away": "Parma Calcio 1913",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        },
+        {
+            "tanggal": "2025-12-05 03:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xcc8juLCbw-DaA7wqr_ug.png?quality=60&auto=webp&format=pjpg",
+            "home": "Lazio",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KxcpyOfGuTCkPqCgyf-Rr.png?quality=60&auto=webp&format=pjpg",
+            "away": "AC Milan",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            }
+        },
+        {
+            "tanggal": "2025-12-05 01:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/aZm9jrQxcBnPq_VzTfkEG.png?quality=60&auto=webp&format=pjpg",
+            "home": "Atletico Baleares",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/yXPQ9R0js1ZPr5Od9cch8.png?quality=60&auto=webp&format=pjpg",
+            "away": "Espanyol",
+            "results": {
+                "result": "Home +1.5",
+                "goals": "Under 3.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-12-05 01:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Tc6VtVVuVKXHocgTYiR40.png?quality=60&auto=webp&format=pjpg",
+            "home": "Real Avila",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ac0Y7wzVbv4IwqRAt0tX_.png?quality=60&auto=webp&format=pjpg",
+            "away": "Rayo Vallecano",
+            "results": {
+                "result": "Away -0.5 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-12-05 01:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FiMxpl6IfQHGrvBtBwlT-.png?quality=60&auto=webp&format=pjpg",
+            "home": "Sabadell",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/lwMvr6ERVBtMPIEetiSE7.png?quality=60&auto=webp&format=pjpg",
+            "away": "Deportivo La Coruna",
+            "results": {
+                "result": "Away -0.25 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-12-05 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c3fSJ3YE9Sy7Us9BzyryI.png?quality=60&auto=webp&format=pjpg",
+            "home": "Ponferradina",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xH6IjV1TfoWF9SBtc7QTS.png?quality=60&auto=webp&format=pjpg",
+            "away": "Racing Santander",
+            "results": {
+                "result": "Away -0.5 Goals",
+                "goals": "Over 2.5 Goals"
+            }
+        },
+        {
+            "tanggal": "2025-12-05 03:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/uok2AiMQFcP43I9Iypix8.png?quality=60&auto=webp&format=pjpg",
+            "home": "Sant Andreu",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/FTgkUPD0PmbUD4tk9KLzC.png?quality=60&auto=webp&format=pjpg",
+            "away": "Celta Vigo",
+            "results": {
+                "result": "Away -1.5 Goals",
+                "goals": "Over 2.5 Goals"
             }
         }
     ]

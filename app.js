@@ -57,7 +57,7 @@ function checkGoalPrediction(predict, homeScore, awayScore) {
 }
 
 (async () => {
-    const url = "https://www.goal.com/id/livescore";
+    const url = "https://www.goal.com/id/jadwal/2026-04-07";
     const tanggal_match = url.match(/(\d{4}-\d{2}-\d{2})/);
     // const filename = tanggal_match[0].replaceAll("-", "")+".json";
     const filename = "matches.json";
@@ -110,8 +110,8 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
     }); 
     await page.waitForSelector("div.fco-competition-section");
 
-    const teams = ["Como", "Portsmouth", "Millwall", "Bristol City", "Ipswich Town", "Queens Park Rangers", "Swansea City"];
-    const league = [italy, "Inggris Raya - Championship"];
+    const teams = ["Hull City", "Sporting Gijon", "Castellon"];
+    const league = ["Spanyol - Segunda Division", "Inggris Raya - Championship"];
     let items = [];
     let tanggal;
     if (tanggal_match)

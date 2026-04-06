@@ -3,40 +3,6 @@
     "message": "SUCCESS",
     "data": [
         {
-            "tanggal": "2025-11-27 03:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Gt8F5QmiB3gbYqX46lCUq.png?quality=60&auto=webp&format=pjpg",
-            "home": "Paris Saint-Germain",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/KmdeSyXZ0p1BvszXZCBzu.png?quality=60&auto=webp&format=pjpg",
-            "away": "Tottenham Hotspur",
-            "results": {
-                "result": "Home -0.75 Goals",
-                "goals": "Under 2.5 Goals"
-            },
-            "tips": "Over 2.5 Goals"
-        },
-        {
-            "tanggal": "2025-11-27 03:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d-wYwIuJ2WUNcTmmMHWCH.png?quality=60&auto=webp&format=pjpg",
-            "home": "Sporting CP",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/P7IMTnd7DyvKabTxDNOdQ.png?quality=60&auto=webp&format=pjpg",
-            "away": "Club Brugge",
-            "results": {
-                "result": "Home -0.75 Goals",
-                "goals": "Over 2.5 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-11-28 00:45",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/NWXbwvITfz5VDa27SauSA.png?quality=60&auto=webp&format=pjpg",
-            "home": "Viktoria Plzen",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/mmLX2coDWVHnrrt376Otc.png?quality=60&auto=webp&format=pjpg",
-            "away": "Freiburg",
-            "results": {
-                "result": "Away -0.25 Goals",
-                "goals": "Under 2.75 Goals"
-            }
-        },
-        {
             "tanggal": "2025-11-28 03:00",
             "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/ue61qrq497L21-51zjmpa.png?quality=60&auto=webp&format=pjpg",
             "home": "Bologna",
@@ -387,6 +353,90 @@
                 "result": "Away -1.5 Goals",
                 "goals": "Over 2.5 Goals"
             }
+        },
+        {
+            "tanggal": "2026-04-06 17:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/55ilL8H7D1Fy1Y4nycklh.png?quality=60&auto=webp&format=pjpg",
+            "home": "Udinese",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3rB5oJN66n2Qa0XbuR9v8.png?quality=60&auto=webp&format=pjpg",
+            "away": "Como",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            },
+            "tips": ""
+        },
+        {
+            "tanggal": "2026-04-06 18:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/uC-iyteHBgQ1xPN_Qg9xX.png?quality=60&auto=webp&format=pjpg",
+            "home": "Portsmouth",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/Ui9TJMOIr5xP12bikLemo.png?quality=60&auto=webp&format=pjpg",
+            "away": "Oxford United",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            },
+            "tips": "Under 2.5 Goals"
+        },
+        {
+            "tanggal": "2026-04-06 19:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/pwytYPYcOdkvNiRFCBa5j.png?quality=60&auto=webp&format=pjpg",
+            "home": "Millwall",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/suz80crpy3anixyzccmu6jzp.png?quality=60&auto=webp&format=pjpg",
+            "away": "Norwich City",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            },
+            "tips": "Home -0.25"
+        },
+        {
+            "tanggal": "2026-04-06 21:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/7SRy0SDFsLgz70r_QV7SC.png?quality=60&auto=webp&format=pjpg",
+            "home": "Bristol City",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/E-qne_XSKwyqS3UlSsH44.png?quality=60&auto=webp&format=pjpg",
+            "away": "Sheffield United",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            },
+            "tips": "Over 2.5 Goals"
+        },
+        {
+            "tanggal": "2026-04-06 21:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/zrA_YgKgSHz-G7qbhWYG-.png?quality=60&auto=webp&format=pjpg",
+            "home": "Ipswich Town",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/w87I_BEoFYqpdY2S4ePJJ.png?quality=60&auto=webp&format=pjpg",
+            "away": "Birmingham City",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            },
+            "tips": "Home -0.5"
+        },
+        {
+            "tanggal": "2026-04-06 21:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/k381qUJLDDi7yOlG3js9r.png?quality=60&auto=webp&format=pjpg",
+            "home": "Preston North End",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3sHj-Nw7mSQ0OXPOu6uTh.png?quality=60&auto=webp&format=pjpg",
+            "away": "Queens Park Rangers",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            },
+            "tips": "Over 2 Goals"
+        },
+        {
+            "tanggal": "2026-04-06 23:30",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/hXCTQr4Zcnzo5BmL7CB7L.png?quality=60&auto=webp&format=pjpg",
+            "home": "Swansea City",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2rmEv4O_rELjxb7971nZV.png?quality=60&auto=webp&format=pjpg",
+            "away": "Middlesbrough",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            },
+            "tips": "Over 2.5 Goals"
         }
     ]
 }

@@ -57,7 +57,7 @@ function checkGoalPrediction(predict, homeScore, awayScore) {
 }
 
 (async () => {
-    const url = "https://www.goal.com/id/jadwal/2025-12-05";
+    const url = "https://www.goal.com/id/livescore";
     const tanggal_match = url.match(/(\d{4}-\d{2}-\d{2})/);
     // const filename = tanggal_match[0].replaceAll("-", "")+".json";
     const filename = "matches.json";
@@ -110,8 +110,8 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
     }); 
     await page.waitForSelector("div.fco-competition-section");
 
-    const teams = [manutd, "Bologna", "Lazio", "Espanyol", "Rayo Vallecano", "Deportivo La Coruna", "Racing Santander", "Burgos CF", "Celta Vigo"];
-    const league = [inggris, italy, "Spanyol - Copa del Rey"];
+    const teams = ["Como", "Portsmouth", "Millwall", "Bristol City", "Ipswich Town", "Queens Park Rangers", "Swansea City"];
+    const league = [italy, "Inggris Raya - Championship"];
     let items = [];
     let tanggal;
     if (tanggal_match)
@@ -151,7 +151,8 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
                                 "results": {
                                     "result": "Coming Soon",
                                     "goals": "Cooming Soon"
-                                }
+                                },
+                                "tips":""
                             })
                         // } else {
                         //     jsonArray.forEach(match => {

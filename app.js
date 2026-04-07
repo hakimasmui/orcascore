@@ -57,7 +57,7 @@ function checkGoalPrediction(predict, homeScore, awayScore) {
 }
 
 (async () => {
-    const url = "https://www.goal.com/id/jadwal/2026-04-08";
+    const url = "https://www.goal.com/id/livescore";
     const tanggal_match = url.match(/(\d{4}-\d{2}-\d{2})/);
     // const filename = tanggal_match[0].replaceAll("-", "")+".json";
     const filename = "matches.json";
@@ -110,8 +110,8 @@ async function crawlGaol(url, filename, tanggal_match, jsonArray) {
     }); 
     await page.waitForSelector("div.fco-competition-section");
 
-    const teams = ["Arsenal", realmadrid,"Southampton"];
-    const league = ["International - Champions League", "Inggris Raya - Championship"];
+    const teams = ["Braga"];
+    const league = ["International - Europa League"];
     let items = [];
     let tanggal;
     if (tanggal_match)

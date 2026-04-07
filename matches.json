@@ -3,39 +3,6 @@
     "message": "SUCCESS",
     "data": [
         {
-            "tanggal": "2025-11-28 00:45",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgf3Tx9R3nphdWIS9SgyB.png?quality=60&auto=webp&format=pjpg",
-            "home": "Aston Villa",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qPMtaYDeypTdTXZnCuM1F.png?quality=60&auto=webp&format=pjpg",
-            "away": "Young Boys",
-            "results": {
-                "result": "Home -1.5 Goals",
-                "goals": "Over 2.5 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-11-29 02:45",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/3rB5oJN66n2Qa0XbuR9v8.png?quality=60&auto=webp&format=pjpg",
-            "home": "Como",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/4btO5zas2N3AH8Y_DRG6b.png?quality=60&auto=webp&format=pjpg",
-            "away": "Sassuolo",
-            "results": {
-                "result": "Home -0.5 Goals",
-                "goals": "Over 2.5 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-11-29 03:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/xsRs2Zwslz_cx1dUGc-En.png?quality=60&auto=webp&format=pjpg",
-            "home": "Getafe",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/At7wHXEtvayILK0zMoHM7.png?quality=60&auto=webp&format=pjpg",
-            "away": "Elche",
-            "results": {
-                "result": "Away +0.5 Goals",
-                "goals": "Over 1.5 Goals"
-            }
-        },
-        {
             "tanggal": "2025-11-29 02:30",
             "imgHome": "/img/team-crest-placeholder.webp",
             "home": "Borussia Moenchengladbach",
@@ -443,6 +410,18 @@
                 "goals": "Cooming Soon"
             },
             "tips": "Over 2.5 Goals"
+        },
+        {
+            "tanggal": "2026-04-08 23:45",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/c_TRfqNJy9JxbIixew4NW.png?quality=60&auto=webp&format=pjpg",
+            "home": "Braga",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/gezsEknLaMwmk3X3Zcc76.png?quality=60&auto=webp&format=pjpg",
+            "away": "Real Betis",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            },
+            "tips": "Under 2.5 Goals"
         }
     ]
 }

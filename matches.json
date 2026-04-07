@@ -4,39 +4,6 @@
     "data": [
         {
             "tanggal": "2025-11-28 00:45",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/5q7vuByZ8XO_L7ZuEeep2.png?quality=60&auto=webp&format=pjpg",
-            "home": "FC Porto",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/29Qp98UEQtRCniX583-x2.png?quality=60&auto=webp&format=pjpg",
-            "away": "Nice",
-            "results": {
-                "result": "Home -0.75 Goals",
-                "goals": "Over 2.5 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-11-28 00:45",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/fqxU8GBeoLw0gLDZvhELq.png?quality=60&auto=webp&format=pjpg",
-            "home": "Roma",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/TZPdiUaeB9oCU4FUh4DoO.png?quality=60&auto=webp&format=pjpg",
-            "away": "FC Midtjylland",
-            "results": {
-                "result": "Home -0.5 Goals",
-                "goals": "Over 2.5 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-11-28 03:00",
-            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/BNAy0MWCqOxdSF4SLgCPK.png?quality=60&auto=webp&format=pjpg",
-            "home": "Nottingham Forest",
-            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qD_jYL9TkCZ4ahqyqvouK.png?quality=60&auto=webp&format=pjpg",
-            "away": "Malmoe FF",
-            "results": {
-                "result": "Home -1.5 Goals",
-                "goals": "Under 3.5 Goals"
-            }
-        },
-        {
-            "tanggal": "2025-11-28 00:45",
             "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qgf3Tx9R3nphdWIS9SgyB.png?quality=60&auto=webp&format=pjpg",
             "home": "Aston Villa",
             "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/qPMtaYDeypTdTXZnCuM1F.png?quality=60&auto=webp&format=pjpg",
@@ -440,6 +407,42 @@
                 "goals": "Cooming Soon"
             },
             "tips": "Home -0.25"
+        },
+        {
+            "tanggal": "2026-04-08 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/VOlkxOIoXAXF_11lYJ_Ve.png?quality=60&auto=webp&format=pjpg",
+            "home": "Real Madrid",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2TlMSJkWTGqMX2lPN7Cgd.png?quality=60&auto=webp&format=pjpg",
+            "away": "Bayern Munich",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            },
+            "tips": "BTTS"
+        },
+        {
+            "tanggal": "2026-04-08 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/d-wYwIuJ2WUNcTmmMHWCH.png?quality=60&auto=webp&format=pjpg",
+            "home": "Sporting CP",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/q1nlNdzBDAXiOIpw0Y6lK.png?quality=60&auto=webp&format=pjpg",
+            "away": "Arsenal",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            },
+            "tips": "Over 2 Goals"
+        },
+        {
+            "tanggal": "2026-04-08 02:00",
+            "imgHome": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/bjcAI82VcQ5DhtXffZxtm.png?quality=60&auto=webp&format=pjpg",
+            "home": "Wrexham",
+            "imgAway": "https://cdn.sportfeeds.io/sdl/images/team/crest/medium/2qkRHmQu3EGctqnnL2_fM.png?quality=60&auto=webp&format=pjpg",
+            "away": "Southampton",
+            "results": {
+                "result": "Coming Soon",
+                "goals": "Cooming Soon"
+            },
+            "tips": "Over 2.5 Goals"
         }
     ]
 }
